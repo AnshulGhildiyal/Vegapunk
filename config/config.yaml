@@ -1,0 +1,112 @@
+project:
+  name: "VEGAPUNK"
+  version: "0.1.0"
+  paper_trading_capital: 500000
+
+# --- Paths ---
+paths:
+  data_raw: "data/raw"
+  data_processed: "data/processed"
+  data_signals: "data/signals"
+  data_trades: "data/trades"
+  data_universes: "data/universes"
+  models_incumbent: "models/incumbent"
+  models_challenger: "models/challenger"
+  models_archive: "models/archive"
+  models_scalers: "models/scalers"
+
+# --- S1: Universe Filter ---
+s1:
+  min_adtv_crore: 5
+  min_daily_volume: 100000
+  min_price: 50
+  max_price: 5000
+  min_listing_years: 2
+  max_sector_pct: 0.20
+  exchange: "NSE"
+
+# --- S2: Sentiment Engine ---
+s2:
+  sources:
+    - "nse_announcements"
+    - "moneycontrol"
+    - "et_markets"
+  recency_decay_lambda: 0.1
+  source_weights:
+    nse_announcements: 1.0
+    moneycontrol: 0.6
+    et_markets: 0.6
+    reddit: 0.3
+
+# --- S3: Feature Engineering ---
+s3:
+  lstm_lookback_days: 60
+  feature_families:
+    - "price_return"
+    - "volume"
+    - "technical"
+    - "sentiment"
+    - "cross_sectional"
+
+# --- S7: Regime Detection ---
+s7:
+  n_regimes: 3
+  regime_labels:
+    0: "TRENDING"
+    1: "RANGING"
+    2: "CRISIS"
+  stability_min_days: 3
+
+# --- S4: Forecaster ---
+s4:
+  prediction_horizon_days: 5
+  top_n_signals: 20
+  min_confidence_threshold: 0.55
+  lstm:
+    hidden_size: 128
+    num_layers: 2
+    dropout: 0.3
+    batch_size: 64
+    learning_rate: 0.001
+    epochs: 100
+  xgb:
+    n_estimators: 500
+    max_depth: 5
+    learning_rate: 0.01
+    subsample: 0.8
+    colsample_bytree: 0.8
+    min_child_weight: 50
+    reg_lambda: 1.0
+
+# --- S6: Executor ---
+s6:
+  kelly_fraction: 0.5
+  kelly_fraction_crisis: 0.25
+  max_single_position_pct: 0.05
+  max_total_exposure_pct: 0.80
+  stop_loss_pct: 0.02
+  trailing_stop_trigger_pct: 0.03
+  trailing_stop_retrace_pct: 0.015
+  max_hold_days: 7
+  earnings_buffer_days: 3
+  transaction_costs:
+    brokerage_per_trade: 20    
+    stt_sell_pct: 0.001        
+    exchange_charges_pct: 0.0000335
+    sebi_charges_pct: 0.000001
+    gst_on_brokerage_pct: 0.18
+    stamp_duty_buy_pct: 0.00015
+  circuit_breakers:
+    level1_daily_drawdown_pct: 0.015
+    level2_daily_drawdown_pct: 0.03
+    level3_weekly_drawdown_pct: 0.07
+  slippage_pct: 0.0007
+
+# --- S5: Retraining ---
+s5:
+  directional_accuracy_threshold: 0.52
+  psi_drift_threshold: 0.2
+  psi_feature_breach_pct: 0.20
+  challenger_promotion_margin: 0.01
+  holdout_days: 30
+  retraining_check_days: 7
