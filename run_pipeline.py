@@ -3,6 +3,8 @@ import yaml
 from datetime import date
 from loguru import logger
 import sys
+from satellites.s1_universe.universe_builder import build_universe
+from datetime import date as date_type
 
 logger.remove()
 logger.add(sys.stdout, format="<green>{time:HH:mm:ss}</green> | <level>{level: <8}</level> | {message}")
@@ -13,9 +15,25 @@ with open("config/config.yaml", "r") as f:
 
 
 def run_s1(run_date: str) -> dict:
-    """S1 — Universe Filter"""
     logger.info(f"[S1] Building universe for {run_date}")
-    return {"status": "STUB", "n_stocks": 0, "universe_path": None}
+    dt = date_type.fromisoformat(run_date)
+
+    # During development, always resolve to last available trading day
+    from satellites.s1_universe.universe_builder import build_universe, get_last_trading_day
+    trading_day = get_last_trading_day(dt)
+    if trading_day is None:
+        return {"status": "FAILED", "n_stocks": 0, "universe": None}
+
+    universe = build_universe(trading_day)
+    if universe is None:
+        return {"status": "FAILED", "n_stocks": 0, "universe": None}
+
+    return {
+        "status": "OK",
+        "n_stocks": len(universe),
+        "universe": universe,
+        "universe_path": f"data/universes/universe_{trading_day.isoformat()}.parquet"
+    }
 
 def run_s2(run_date: str, universe: dict) -> dict:
     """S2 — NLP Sentiment Engine"""
