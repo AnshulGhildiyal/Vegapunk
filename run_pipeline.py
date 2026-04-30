@@ -4,6 +4,7 @@ from datetime import date
 from loguru import logger
 import sys
 from satellites.s1_universe.universe_builder import build_universe
+from satellites.s3_features.feature_engineer import build_feature_matrix
 from datetime import date as date_type
 
 logger.remove()
@@ -43,7 +44,24 @@ def run_s2(run_date: str, universe: dict) -> dict:
 def run_s3(run_date: str, universe: dict, sentiment: dict) -> dict:
     """S3 — Feature Engineering"""
     logger.info(f"[S3] Building feature matrix for {run_date}")
-    return {"status": "STUB", "lstm_shape": None, "xgb_shape": None}
+
+    if universe.get("status") != "OK" or universe.get("universe") is None:
+        logger.warning("[S3] No universe available — skipping feature engineering")
+        return {"status": "SKIPPED", "features": None}
+
+    dt = date_type.fromisoformat(run_date)
+    result = build_feature_matrix(universe["universe"], dt)
+
+    if result is None:
+        return {"status": "FAILED", "features": None}
+
+    return {
+        "status":     "OK",
+        "features":   result["xgb"],
+        "n_stocks":   result["n_stocks"],
+        "n_features": result["n_features"],
+        "path":       result["path"],
+    }
 
 def run_s7(run_date: str, features: dict) -> dict:
     """S7 — Regime Detection"""
