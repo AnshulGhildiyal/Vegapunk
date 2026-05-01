@@ -5,6 +5,8 @@ from loguru import logger
 import sys
 from satellites.s1_universe.universe_builder import build_universe
 from satellites.s3_features.feature_engineer import build_feature_matrix
+from satellites.s7_regime.regime_detector import detect_regime, train_and_save
+from pathlib import Path
 from datetime import date as date_type
 
 logger.remove()
@@ -66,7 +68,16 @@ def run_s3(run_date: str, universe: dict, sentiment: dict) -> dict:
 def run_s7(run_date: str, features: dict) -> dict:
     """S7 — Regime Detection"""
     logger.info(f"[S7] Detecting market regime for {run_date}")
-    return {"status": "STUB", "regime_label": "UNKNOWN", "confidence": 0.0}
+    dt = date_type.fromisoformat(run_date)
+
+    model_path = Path("models/incumbent/hmm_model.pkl")
+    if not model_path.exists():
+        logger.warning("[S7] No trained model found — training now")
+        train_and_save()
+
+    regime = detect_regime(dt)
+    return regime
+
 
 def run_s4(run_date: str, features: dict, regime: dict) -> dict:
     """S4 — Overnight Forecaster"""
