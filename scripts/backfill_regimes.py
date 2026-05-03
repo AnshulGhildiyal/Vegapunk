@@ -17,8 +17,7 @@ def backfill_regimes(start_date: date, end_date: date):
 
         out_path = Path("data/processed") / f"regime_{current.isoformat()}.json"
         if out_path.exists():
-            current += timedelta(days=1)
-            continue
+            out_path.unlink()
 
         result = detect_regime(current)
         if result.get("regime_label") != "UNKNOWN":

@@ -130,11 +130,10 @@ def train_hmm(obs_matrix: pd.DataFrame, n_regimes: int = 3) -> tuple:
 
 def label_regimes(model, scaler, obs_matrix: pd.DataFrame) -> dict:
     feature_cols = obs_matrix.columns.tolist()
-    vix_idx    = feature_cols.index("india_vix")
-    ret_idx    = feature_cols.index("nifty_ret_20d")
+    vix_idx = feature_cols.index("india_vix")
+    ret_idx = feature_cols.index("nifty_ret_20d")
 
-    # Get mean emissions in original scale
-    means_scaled = model.means_
+    means_scaled   = model.means_
     means_original = scaler.inverse_transform(means_scaled)
 
     regime_profiles = {}
@@ -148,9 +147,17 @@ def label_regimes(model, scaler, obs_matrix: pd.DataFrame) -> dict:
     sorted_by_vix = sorted(regime_profiles.items(), key=lambda x: x[1]["mean_vix"])
 
     label_map = {}
-    label_map[sorted_by_vix[0][0]] = "TRENDING"  # Lowest VIX
-    label_map[sorted_by_vix[1][0]] = "RANGING"   # Mid VIX
-    label_map[sorted_by_vix[2][0]] = "CRISIS"    # Highest VIX
+    n = len(sorted_by_vix)
+
+    if n == 3:
+        label_map[sorted_by_vix[0][0]] = "TRENDING"
+        label_map[sorted_by_vix[1][0]] = "RANGING"
+        label_map[sorted_by_vix[2][0]] = "CRISIS"
+    elif n == 4:
+        label_map[sorted_by_vix[0][0]] = "TRENDING"
+        label_map[sorted_by_vix[1][0]] = "TRENDING"
+        label_map[sorted_by_vix[2][0]] = "RANGING"
+        label_map[sorted_by_vix[3][0]] = "CRISIS"
 
     logger.info("[S7] Regime labels assigned:")
     for regime_id, profile in regime_profiles.items():
@@ -277,7 +284,7 @@ def train_and_save():
     logger.info("[S7] Starting HMM training pipeline")
 
     obs = build_observation_matrix()
-    model, scaler, regime_series = train_hmm(obs, n_regimes=3)
+    model, scaler, regime_series = train_hmm(obs, n_regimes=4)
     label_map = label_regimes(model, scaler, obs)
     confirmed = apply_stability_filter(regime_series)
 
