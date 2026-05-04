@@ -7,6 +7,7 @@ from satellites.s1_universe.universe_builder import build_universe
 from satellites.s3_features.feature_engineer import build_feature_matrix
 from satellites.s7_regime.regime_detector import detect_regime, train_and_save
 from satellites.s4_forecaster.xgb_model import predict_today
+from satellites.s6_executor.paper_trader import PaperTrader
 from pathlib import Path
 from datetime import date as date_type
 import pandas as pd
@@ -18,6 +19,7 @@ logger.add("logs/pipeline_{time:YYYY-MM-DD}.log", rotation="1 day", retention="3
 with open("config/config.yaml", "r") as f:
     CONFIG = yaml.safe_load(f)
 
+_paper_trader = None
 
 def run_s1(run_date: str) -> dict:
     logger.info(f"[S1] Building universe for {run_date}")
@@ -120,9 +122,45 @@ def run_s4(run_date: str, features: dict, regime: dict) -> dict:
     }
 
 def run_s6(run_date: str, signals: dict, regime: dict) -> dict:
-    """S6 — Executor (Paper Trading)"""
+    """S6 — Paper Trading Executor"""
     logger.info(f"[S6] Executing trades for {run_date}")
-    return {"status": "STUB", "trades_entered": 0, "trades_exited": 0}
+
+    trader = get_trader()
+
+    # Get current prices from universe
+    prices_path = Path(f"data/universes/universe_{run_date}.parquet")
+
+    # Try yesterday's universe if today's not available
+    if not prices_path.exists():
+        universe_files = sorted(Path("data/universes").glob("universe_*.parquet"))
+        if universe_files:
+            prices_path = universe_files[-1]
+
+    if not prices_path.exists():
+        logger.warning("[S6] No universe/price data — skipping execution")
+        return {"status": "SKIPPED", "trades_entered": 0, "trades_exited": 0}
+
+    universe_df = pd.read_parquet(prices_path)
+    current_prices = dict(zip(universe_df["symbol"], universe_df["close"]))
+
+    regime_label = regime.get("regime_label", "RANGING")
+    signal_df    = signals.get("signals")
+
+    result = trader.run_day(
+        signals        = signal_df,
+        current_prices = current_prices,
+        regime         = regime_label,
+        run_date       = run_date,
+    )
+
+    return {
+        "status":        "OK",
+        "trades_entered": result["entries"],
+        "trades_exited":  result["exits"],
+        "portfolio_value": result["portfolio_value"],
+        "total_return":    result["total_return"],
+        "circuit_breaker": result["circuit_breaker"],
+    }
 
 def run_s5(run_date: str) -> dict:
     """S5 — Adaptive Retraining Monitor"""
