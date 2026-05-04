@@ -121,6 +121,14 @@ def run_s4(run_date: str, features: dict, regime: dict) -> dict:
         "regime":    regime_label,
     }
 
+_paper_trader = None
+
+def get_trader() -> PaperTrader:
+    global _paper_trader
+    if _paper_trader is None:
+        _paper_trader = PaperTrader()
+    return _paper_trader
+
 def run_s6(run_date: str, signals: dict, regime: dict) -> dict:
     """S6 — Paper Trading Executor"""
     logger.info(f"[S6] Executing trades for {run_date}")

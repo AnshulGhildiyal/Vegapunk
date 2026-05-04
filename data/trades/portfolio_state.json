@@ -1,0 +1,403 @@
+{
+  "cash": 205271.51043320293,
+  "initial_capital": 500000,
+  "positions": {
+    "VEDL": {
+      "shares": 52,
+      "entry_price": 291.54998779296875,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5306
+    },
+    "NATIONALUM": {
+      "shares": 37,
+      "entry_price": 404.0,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5306
+    },
+    "BERGEPAINT": {
+      "shares": 32,
+      "entry_price": 469.54998779296875,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "AUROPHARMA": {
+      "shares": 10,
+      "entry_price": 1382.199951171875,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "AAVAS": {
+      "shares": 10,
+      "entry_price": 1377.800048828125,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "ASIANPAINT": {
+      "shares": 6,
+      "entry_price": 2450.60009765625,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "COLPAL": {
+      "shares": 7,
+      "entry_price": 2160.199951171875,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "CONCOR": {
+      "shares": 29,
+      "entry_price": 516.2000122070312,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "GRANULES": {
+      "shares": 21,
+      "entry_price": 703.0,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "GNFC": {
+      "shares": 32,
+      "entry_price": 470.70001220703125,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "GAIL": {
+      "shares": 92,
+      "entry_price": 164.5,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "FORTIS": {
+      "shares": 15,
+      "entry_price": 951.0499877929688,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "BRIGADE": {
+      "shares": 19,
+      "entry_price": 792.0,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "CANFINHOME": {
+      "shares": 17,
+      "entry_price": 883.25,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "HINDALCO": {
+      "shares": 14,
+      "entry_price": 1039.0999755859375,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "HDFCAMC": {
+      "shares": 5,
+      "entry_price": 2729.0,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "HINDZINC": {
+      "shares": 25,
+      "entry_price": 601.75,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "JSWENERGY": {
+      "shares": 27,
+      "entry_price": 554.2000122070312,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "HINDUNILVR": {
+      "shares": 6,
+      "entry_price": 2310.199951171875,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "NTPC": {
+      "shares": 38,
+      "entry_price": 397.8500061035156,
+      "entry_date": "2026-05-04",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    }
+  },
+  "trade_log": [
+    {
+      "date": "2026-05-04",
+      "symbol": "VEDL",
+      "direction": "LONG",
+      "entry_price": 291.54998779296875,
+      "shares": 52,
+      "position_value": 15160.6,
+      "pct_of_capital": 3.03,
+      "costs": 37.01,
+      "win_prob": 0.5306,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "NATIONALUM",
+      "direction": "LONG",
+      "entry_price": 404.0,
+      "shares": 37,
+      "position_value": 14948.0,
+      "pct_of_capital": 2.99,
+      "costs": 36.82,
+      "win_prob": 0.5306,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "BERGEPAINT",
+      "direction": "LONG",
+      "entry_price": 469.54998779296875,
+      "shares": 32,
+      "position_value": 15025.6,
+      "pct_of_capital": 3.01,
+      "costs": 36.89,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "AUROPHARMA",
+      "direction": "LONG",
+      "entry_price": 1382.199951171875,
+      "shares": 10,
+      "position_value": 13822.0,
+      "pct_of_capital": 2.76,
+      "costs": 35.83,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "AAVAS",
+      "direction": "LONG",
+      "entry_price": 1377.800048828125,
+      "shares": 10,
+      "position_value": 13778.0,
+      "pct_of_capital": 2.76,
+      "costs": 35.79,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "ASIANPAINT",
+      "direction": "LONG",
+      "entry_price": 2450.60009765625,
+      "shares": 6,
+      "position_value": 14703.6,
+      "pct_of_capital": 2.94,
+      "costs": 36.61,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "COLPAL",
+      "direction": "LONG",
+      "entry_price": 2160.199951171875,
+      "shares": 7,
+      "position_value": 15121.4,
+      "pct_of_capital": 3.02,
+      "costs": 36.97,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "CONCOR",
+      "direction": "LONG",
+      "entry_price": 516.2000122070312,
+      "shares": 29,
+      "position_value": 14969.8,
+      "pct_of_capital": 2.99,
+      "costs": 36.84,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "GRANULES",
+      "direction": "LONG",
+      "entry_price": 703.0,
+      "shares": 21,
+      "position_value": 14763.0,
+      "pct_of_capital": 2.95,
+      "costs": 36.66,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "GNFC",
+      "direction": "LONG",
+      "entry_price": 470.70001220703125,
+      "shares": 32,
+      "position_value": 15062.4,
+      "pct_of_capital": 3.01,
+      "costs": 36.92,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "GAIL",
+      "direction": "LONG",
+      "entry_price": 164.5,
+      "shares": 92,
+      "position_value": 15134.0,
+      "pct_of_capital": 3.03,
+      "costs": 36.99,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "FORTIS",
+      "direction": "LONG",
+      "entry_price": 951.0499877929688,
+      "shares": 15,
+      "position_value": 14265.75,
+      "pct_of_capital": 2.85,
+      "costs": 36.22,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "BRIGADE",
+      "direction": "LONG",
+      "entry_price": 792.0,
+      "shares": 19,
+      "position_value": 15048.0,
+      "pct_of_capital": 3.01,
+      "costs": 36.91,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "CANFINHOME",
+      "direction": "LONG",
+      "entry_price": 883.25,
+      "shares": 17,
+      "position_value": 15015.25,
+      "pct_of_capital": 3.0,
+      "costs": 36.88,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "HINDALCO",
+      "direction": "LONG",
+      "entry_price": 1039.0999755859375,
+      "shares": 14,
+      "position_value": 14547.4,
+      "pct_of_capital": 2.91,
+      "costs": 36.47,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "HDFCAMC",
+      "direction": "LONG",
+      "entry_price": 2729.0,
+      "shares": 5,
+      "position_value": 13645.0,
+      "pct_of_capital": 2.73,
+      "costs": 35.67,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "HINDZINC",
+      "direction": "LONG",
+      "entry_price": 601.75,
+      "shares": 25,
+      "position_value": 15043.75,
+      "pct_of_capital": 3.01,
+      "costs": 36.91,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "JSWENERGY",
+      "direction": "LONG",
+      "entry_price": 554.2000122070312,
+      "shares": 27,
+      "position_value": 14963.4,
+      "pct_of_capital": 2.99,
+      "costs": 36.84,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "HINDUNILVR",
+      "direction": "LONG",
+      "entry_price": 2310.199951171875,
+      "shares": 6,
+      "position_value": 13861.2,
+      "pct_of_capital": 2.77,
+      "costs": 35.86,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-04",
+      "symbol": "NTPC",
+      "direction": "LONG",
+      "entry_price": 397.8500061035156,
+      "shares": 38,
+      "position_value": 15118.3,
+      "pct_of_capital": 3.02,
+      "costs": 36.97,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    }
+  ],
+  "daily_log": [
+    {
+      "date": "2026-05-04",
+      "portfolio_value": 499267.96,
+      "cash": 205271.51,
+      "n_positions": 20,
+      "entries_today": 20,
+      "exits_today": 0,
+      "total_return_pct": -0.146,
+      "circuit_breaker": "CLEAR",
+      "regime": "RANGING"
+    }
+  ],
+  "peak_value": 500000,
+  "circuit_breaker": "CLEAR"
+}
