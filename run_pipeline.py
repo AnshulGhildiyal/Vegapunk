@@ -6,8 +6,10 @@ import sys
 from satellites.s1_universe.universe_builder import build_universe
 from satellites.s3_features.feature_engineer import build_feature_matrix
 from satellites.s7_regime.regime_detector import detect_regime, train_and_save
+from satellites.s4_forecaster.xgb_model import predict_today
 from pathlib import Path
 from datetime import date as date_type
+import pandas as pd
 
 logger.remove()
 logger.add(sys.stdout, format="<green>{time:HH:mm:ss}</green> | <level>{level: <8}</level> | {message}")
@@ -82,7 +84,40 @@ def run_s7(run_date: str, features: dict) -> dict:
 def run_s4(run_date: str, features: dict, regime: dict) -> dict:
     """S4 — Overnight Forecaster"""
     logger.info(f"[S4] Generating signals for {run_date}")
-    return {"status": "STUB", "n_signals": 0, "signals_path": None}
+
+    if features.get("status") != "OK" or features.get("features") is None:
+        return {"status": "SKIPPED", "n_signals": 0, "signals": None}
+
+    regime_label = regime.get("regime_label", "RANGING")
+    if regime_label == "UNKNOWN":
+        regime_label = "RANGING"
+
+    features_df = features["features"]
+    signals = predict_today(features_df, regime_label)
+
+    if signals is None or signals.empty:
+        return {"status": "FAILED", "n_signals": 0, "signals": None}
+
+    # Top signals only
+    top_longs  = signals[signals["direction"] == "LONG"].head(20)
+    top_shorts = signals[signals["direction"] == "SHORT"].tail(20)
+    top_signals = pd.concat([top_longs, top_shorts])
+
+    logger.info(
+        f"[S4] Top signals: {len(top_longs)} LONG, "
+        f"{len(top_shorts)} SHORT"
+    )
+    logger.info(
+        f"[S4] Top 5 LONG: "
+        f"{top_longs['symbol'].head(5).tolist()}"
+    )
+
+    return {
+        "status":    "OK",
+        "n_signals": len(top_signals),
+        "signals":   top_signals,
+        "regime":    regime_label,
+    }
 
 def run_s6(run_date: str, signals: dict, regime: dict) -> dict:
     """S6 — Executor (Paper Trading)"""
