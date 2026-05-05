@@ -8,6 +8,7 @@ from satellites.s3_features.feature_engineer import build_feature_matrix
 from satellites.s7_regime.regime_detector import detect_regime, train_and_save
 from satellites.s4_forecaster.xgb_model import predict_today
 from satellites.s6_executor.paper_trader import PaperTrader
+from satellites.s5_retraining.monitor import run_monitoring
 from pathlib import Path
 from datetime import date as date_type
 import pandas as pd
@@ -171,9 +172,15 @@ def run_s6(run_date: str, signals: dict, regime: dict) -> dict:
     }
 
 def run_s5(run_date: str) -> dict:
-    """S5 — Adaptive Retraining Monitor"""
+    """S5 — Monitoring & Retraining"""
     logger.info(f"[S5] Running monitoring checks for {run_date}")
-    return {"status": "STUB", "retrain_triggered": False}
+    result = run_monitoring()
+    return {
+        "status":            "OK",
+        "retrain_triggered": result["retrain_triggered"],
+        "accuracy":          result["accuracy"].get("accuracy"),
+        "portfolio_health":  result["portfolio_health"],
+    }
 
 
 def run_pipeline(run_date: str = None):
