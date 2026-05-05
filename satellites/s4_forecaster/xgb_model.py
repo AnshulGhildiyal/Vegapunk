@@ -236,13 +236,29 @@ def save_best_models(regime_models: dict, feature_cols: list):
 
 # Inference
 def predict_today(
-    features_df: pd.DataFrame,
+    features_df:  pd.DataFrame,
     regime_label: str,
 ) -> pd.DataFrame:
+    """
+    Loads the appropriate regime model and predicts on today's features.
+    Uses relative ranking to split LONG/SHORT — avoids all-one-direction bias.
+    """
     model_path = MODEL_DIR / f"xgb_{regime_label.lower()}.pkl"
 
+    # Fallback chain: RANGING → TRENDING → any available
     if not model_path.exists():
-        logger.error(f"[S4] No model found for regime {regime_label}")
+        for fallback in ["ranging", "trending", "crisis"]:
+            fallback_path = MODEL_DIR / f"xgb_{fallback}.pkl"
+            if fallback_path.exists():
+                logger.warning(
+                    f"[S4] No model for {regime_label}, "
+                    f"falling back to {fallback}"
+                )
+                model_path = fallback_path
+                break
+
+    if not model_path.exists():
+        logger.error("[S4] No XGBoost models found at all")
         return pd.DataFrame()
 
     with open(model_path, "rb") as f:
@@ -252,27 +268,39 @@ def predict_today(
         feature_cols = json.load(f)
 
     # Align features
-    available = [c for c in feature_cols if c in features_df.columns]
-    missing   = [c for c in feature_cols if c not in features_df.columns]
-
-    if missing:
-        logger.warning(f"[S4] Missing features: {missing[:5]}...")
-        for col in missing:
+    for col in feature_cols:
+        if col not in features_df.columns:
             features_df[col] = 0.0
 
     X = features_df[feature_cols].fillna(0).values
     preds = model.predict_proba(X)[:, 1]
 
     result = features_df[["symbol"]].copy()
-    result["xgb_pred"]   = preds
-    result["direction"]  = np.where(preds >= 0.5, "LONG", "SHORT")
-    result["confidence"] = np.abs(preds - 0.5) * 2  # 0=uncertain, 1=certain
+    result["xgb_pred"] = preds
+
+    # Use RELATIVE ranking to determine direction
+    # Top 40% → LONG, Bottom 40% → SHORT, Middle 20% → skip
+    upper_threshold = result["xgb_pred"].quantile(0.60)
+    lower_threshold = result["xgb_pred"].quantile(0.40)
+
+    result["direction"] = "NEUTRAL"
+    result.loc[result["xgb_pred"] >= upper_threshold, "direction"] = "LONG"
+    result.loc[result["xgb_pred"] <= lower_threshold, "direction"] = "SHORT"
+
+    # Confidence = distance from median (0=uncertain, 1=very certain)
+    median_pred = result["xgb_pred"].median()
+    result["confidence"] = (result["xgb_pred"] - median_pred).abs() / 0.5
+    result["confidence"] = result["confidence"].clip(0, 1)
+
+    # Remove neutral signals
+    result = result[result["direction"] != "NEUTRAL"]
     result = result.sort_values("xgb_pred", ascending=False)
 
     logger.info(
-        f"[S4] Predictions: {len(result)} stocks, "
-        f"regime={regime_label}, "
-        f"long={(preds>=0.5).sum()}, short={(preds<0.5).sum()}"
+        f"[S4] Predictions: {len(features_df)} stocks → "
+        f"{(result['direction']=='LONG').sum()} LONG, "
+        f"{(result['direction']=='SHORT').sum()} SHORT | "
+        f"regime={regime_label}"
     )
     return result
 
