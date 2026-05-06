@@ -23,7 +23,7 @@ def get_nse_universe_symbols() -> list[str]:
         "LT", "AXISBANK", "ASIANPAINT", "MARUTI", "TITAN",
         "BAJFINANCE", "WIPRO", "ULTRACEMCO", "NESTLEIND", "ONGC",
         "NTPC", "POWERGRID", "TECHM", "SUNPHARMA", "HCLTECH",
-        "TATAMOTORS", "TATASTEEL", "ADANIENT", "ADANIPORTS", "BAJAJFINSV",
+        "TATASTEEL", "ADANIENT", "ADANIPORTS", "BAJAJFINSV",
         "DIVISLAB", "DRREDDY", "CIPLA", "EICHERMOT", "GRASIM",
         "HEROMOTOCO", "HINDALCO", "INDUSINDBK", "JSWSTEEL", "M&M",
         "BRITANNIA", "COALINDIA", "APOLLOHOSP", "BPCL", "SHREECEM",
@@ -36,21 +36,21 @@ def get_nse_universe_symbols() -> list[str]:
         "CHOLAFIN", "M&MFIN", "LICHSGFIN", "RECLTD", "PFC",
         "IRFC", "HUDCO", "MANAPPURAM", "MUTHOOTFIN", "SHRIRAMFIN",
         "SUNDARMFIN", "INDIAMART", "NAUKRI", "POLICYBZR", "PAYTM",
-        "ZOMATO", "NYKAA", "DELHIVERY", "IRCTC", "CONCOR",
+        "NYKAA", "DELHIVERY", "IRCTC", "CONCOR",
         "TATAPOWER", "ADANIGREEN", "TORNTPOWER", "CESC", "JSWENERGY",
         "NHPC", "SJVN", "OBEROIRLTY", "DLF", "GODREJPROP",
         "PRESTIGE", "BRIGADE", "SOBHA", "PHOENIXLTD", "ZYDUSLIFE",
         "PFIZER", "GLAXO", "ALKEM", "GRANULES", "LAURUSLABS",
         "TATACHEM", "DEEPAKNTR", "NAVINFLUOR", "COROMANDEL", "GNFC",
-        "PETRONET", "GAIL", "IOC", "HPCL", "BPCL",
+        "PETRONET", "GAIL", "IOC", "BPCL",
         "VEDL", "HINDZINC", "NMDC", "SAIL", "NATIONALUM",
         "GUJGASLTD", "IGL", "MGL", "DIXON", "AMBER",
         "VOLTAS", "POLYCAB", "HAVELLS", "WHIRLPOOL", "SYMPHONY",
         "DMART", "TRENT", "TITAN", "BATAINDIA", "RELAXO",
-        "MANYAVAR", "BAJAJHLDNG", "CANFINHOME", "AAVAS", "LTFH",
+        "MANYAVAR", "BAJAJHLDNG", "CANFINHOME", "AAVAS",
         "SUNPHARMA", "DIVISLAB", "CIPLA", "DRREDDY", "LUPIN",
         "FORTIS", "APOLLOHOSP", "MAXHEALTH", "NH", "THYROCARE",
-        "NIPPONLIFE", "SBILIFE", "HDFCLIFE", "ICICIPRULI", "MFSL",
+        "SBILIFE", "HDFCLIFE", "ICICIPRULI", "MFSL",
         "HINDUNILVR", "NESTLEIND", "BRITANNIA", "COLPAL", "DABUR",
         "MARICO", "GODREJCP", "TATACONSUM", "ITC", "BRITANNIA",
     ]
@@ -62,6 +62,7 @@ def get_nse_universe_symbols() -> list[str]:
             seen.add(s)
             unique.append(s)
     return [f"{s}.NS" for s in unique]
+
 
 
 def download_bulk_history(end_date: date, days: int = 90) -> dict[str, pd.DataFrame]:
