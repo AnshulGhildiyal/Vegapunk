@@ -1,3 +1,4 @@
+from pandas import unique
 import yfinance as yf
 import pandas as pd
 import numpy as np
@@ -54,6 +55,7 @@ def get_nse_universe_symbols() -> list[str]:
         "HINDUNILVR", "NESTLEIND", "BRITANNIA", "COLPAL", "DABUR",
         "MARICO", "GODREJCP", "TATACONSUM", "ITC", "BRITANNIA",
     ]
+
     # Deduplicate
     seen = set()
     unique = []
@@ -61,7 +63,16 @@ def get_nse_universe_symbols() -> list[str]:
         if s not in seen:
             seen.add(s)
             unique.append(s)
-    return [f"{s}.NS" for s in unique]
+    
+    BLOCKLIST = {
+    "TATAMOTORS", "ZOMATO", "LTFH", "NIPPONLIFE", "HPCL",
+    "MCDOWELL-N", "CHAMBALFERT", "WELSPUNIND", "APCOTEX",
+    "FINOLEX", "SKF", "VARDHMAN", "CPCL", "CADILAHC",
+    "NOVARTIS", "ADANITRANS", "GMRINFRA", "AARTI",
+    "SUPPETRO", "METRO", "VEDANT",
+    }
+    clean = [s for s in unique if s.replace(".NS", "") not in BLOCKLIST]
+    return [f"{s}.NS" for s in clean]
 
 
 
