@@ -13,6 +13,7 @@ import yaml
 
 from satellites.s1_universe.bhavcopy_downloader import (
     load_bhavcopy,
+    download_bulk_history,
     _local_path,
 )
 
@@ -202,8 +203,18 @@ def get_last_trading_day(from_date: date, max_lookback: int = 15) -> date | None
 def build_universe(run_date: date) -> pd.DataFrame | None:
     logger.info(f"[S1] Building universe for {run_date}")
 
-    from satellites.s1_universe.bhavcopy_downloader import download_bulk_history
-    download_bulk_history(end_date=run_date, days=90)
+    # Check cache freshness before downloading
+    recent_cached = sorted(RAW_DIR.glob("bhavcopy_*.parquet"))
+    last_cached_date = None
+    if recent_cached:
+        last_cached_date = date.fromisoformat(
+            recent_cached[-1].stem.replace("bhavcopy_", "")
+        )
+
+    if last_cached_date is None or (run_date - last_cached_date).days > 1:
+        download_bulk_history(end_date=run_date, days=90)
+    else:
+        logger.info(f"[S1] Cache fresh (last: {last_cached_date}) — skipping download")
 
     trading_day = get_last_trading_day(run_date)
     if trading_day is None:
@@ -227,23 +238,18 @@ def build_universe(run_date: date) -> pd.DataFrame | None:
     universe = (today_df
                 .pipe(gate_liquidity, history)
                 .pipe(gate_price)
-                .pipe(lambda df: gate_listing_age(df, run_date))
+                .pipe(lambda df: gate_listing_age(df, trading_day))
                 .pipe(gate_surveillance)
                 .pipe(gate_sector_cap))
 
-    # Add metadata
-    universe["run_date"] = run_date.isoformat()
+    universe["run_date"]    = trading_day.isoformat()
     universe["s1_approved"] = True
 
-    # Save snapshot
     UNIVERSE_DIR.mkdir(parents=True, exist_ok=True)
-    out_path = UNIVERSE_DIR / f"universe_{run_date.isoformat()}.parquet"
+    out_path = UNIVERSE_DIR / f"universe_{trading_day.isoformat()}.parquet"
     universe.to_parquet(out_path, index=False)
     logger.success(f"[S1] Universe saved: {len(universe)} stocks → {out_path}")
-
-    # Print summary
-    sector_counts = universe["sector"].value_counts()
-    logger.info(f"[S1] Sector breakdown:\n{sector_counts.to_string()}")
+    logger.info(f"[S1] Sector breakdown:\n{universe['sector'].value_counts().to_string()}")
 
     return universe
 

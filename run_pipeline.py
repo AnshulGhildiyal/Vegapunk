@@ -23,24 +23,40 @@ with open("config/config.yaml", "r") as f:
 _paper_trader = None
 
 def run_s1(run_date: str) -> dict:
+    """S1 — Universe Filter"""
     logger.info(f"[S1] Building universe for {run_date}")
     dt = date_type.fromisoformat(run_date)
 
-    # During development, always resolve to last available trading day
-    from satellites.s1_universe.universe_builder import build_universe, get_last_trading_day
-    trading_day = get_last_trading_day(dt)
-    if trading_day is None:
-        return {"status": "FAILED", "n_stocks": 0, "universe": None}
+    # Check if today's universe already exists
+    from pathlib import Path
+    universe_files = sorted(Path("data/universes").glob("universe_*.parquet"))
+    if universe_files:
+        latest = universe_files[-1]
+        latest_date = latest.stem.replace("universe_", "")
+        # Use cached universe if it's from today or yesterday (weekend)
+        days_old = (dt - date_type.fromisoformat(latest_date)).days
+        if days_old <= 3:  # covers weekends
+            logger.info(
+                f"[S1] Using cached universe: {latest_date} "
+                f"({days_old}d old)"
+            )
+            universe = pd.read_parquet(latest)
+            return {
+                "status":    "OK",
+                "n_stocks":  len(universe),
+                "universe":  universe,
+                "universe_path": str(latest),
+            }
 
-    universe = build_universe(trading_day)
+    universe = build_universe(dt)
     if universe is None:
         return {"status": "FAILED", "n_stocks": 0, "universe": None}
 
     return {
-        "status": "OK",
-        "n_stocks": len(universe),
-        "universe": universe,
-        "universe_path": f"data/universes/universe_{trading_day.isoformat()}.parquet"
+        "status":        "OK",
+        "n_stocks":      len(universe),
+        "universe":      universe,
+        "universe_path": f"data/universes/universe_{dt.isoformat()}.parquet",
     }
 
 def run_s2(run_date: str, universe: dict) -> dict:
