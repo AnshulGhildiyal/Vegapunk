@@ -1,3 +1,6 @@
+from operator import pos
+from unittest import signals
+
 import pandas as pd
 import numpy as np
 import json
@@ -124,7 +127,7 @@ class PaperTrader:
             pnl_pct = (price - entry_price) / entry_price
             if pos["direction"] == "SHORT":
                 pnl_pct = -pnl_pct
-
+                
             # Days held
             days_held = (
                 pd.Timestamp(run_date) - pd.Timestamp(entry_date)
@@ -145,10 +148,16 @@ class PaperTrader:
                 exit_reason = "trailing_stop"
 
             if exit_reason:
-                # Compute exit costs
-                exit_exec = compute_costs("SHORT", shares, price, is_entry=False)
-                proceeds  = shares * price - exit_exec.total_cost
-                pnl       = proceeds - (shares * entry_price)
+                if pos["direction"] == "LONG":
+                    exit_exec = compute_costs("SHORT", shares, price, is_entry=False)
+                    proceeds  = shares * price - exit_exec.total_cost
+                    pnl       = proceeds - (shares * entry_price)
+                else:  # SHORT
+                    # Profit = entry price - exit price (we sold high, buy back low)
+                    exit_exec = compute_costs("LONG", shares, price, is_entry=True)
+                    proceeds  = shares * entry_price  # We already received this
+                    buyback   = shares * price + exit_exec.total_cost
+                    pnl       = proceeds - buyback
 
                 trade_record = {
                     "date":         run_date,
@@ -189,22 +198,28 @@ class PaperTrader:
         regime:         str,
         run_date:       str,
     ) -> list:
+
         entries = []
-        total_value  = self.portfolio_value(current_prices)
-        current_exp  = 1 - (self.state["cash"] / total_value)
+        total_value = self.portfolio_value(current_prices)
+        current_exp = 1 - (self.state["cash"] / total_value)
 
         if current_exp >= S6_CFG["max_total_exposure_pct"]:
-            logger.info(f"[S6] Max exposure reached ({current_exp:.1%}) — no new entries")
+            logger.info(
+                f"[S6] Max exposure reached "
+                f"({current_exp:.1%}) — no new entries"
+            )
             return entries
 
-        # Circuit breaker check
         cb = self.state.get("circuit_breaker", "CLEAR")
         if cb in ["LEVEL2", "LEVEL3"]:
-            logger.warning(f"[S6] Circuit breaker {cb} active — no entries")
+            logger.warning(f"[S6] Circuit breaker {cb} — no entries")
             return entries
 
+        # In CRISIS regime — no new SHORT positions (too risky)
+        allow_short = (regime != "CRISIS")
+
         for _, signal in signals.iterrows():
-            symbol   = signal["symbol"]
+            symbol    = signal["symbol"]
             direction = signal["direction"]
             win_prob  = signal["xgb_pred"]
             price     = current_prices.get(symbol)
@@ -212,33 +227,31 @@ class PaperTrader:
             if price is None or price <= 0:
                 continue
 
-            # Skip if already in position
             if symbol in self.state["positions"]:
                 continue
 
-            # Position sizing
+        # Skip shorts in crisis or if not allowed
+            if direction == "SHORT" and not allow_short:
+                continue
+
             sizing = compute_position_size(
-                capital   = total_value,
-                win_prob  = win_prob,
-                price     = price,
-                regime    = regime,
+                capital        = total_value,
+                win_prob       = win_prob,
+                price          = price,
+                regime         = regime,
             )
 
             if sizing["reason"] != "ok" or sizing["shares"] == 0:
                 continue
 
-            shares = sizing["shares"]
-
-            # Entry costs
-            entry_exec = compute_costs("LONG", shares, price, is_entry=True)
-            total_cost = entry_exec.total_cost
-            cash_needed = shares * price + total_cost
+            shares     = sizing["shares"]
+            entry_exec = compute_costs(direction, shares, price, is_entry=True)
+            cash_needed = shares * price + entry_exec.total_cost
 
             if cash_needed > self.state["cash"]:
                 logger.warning(f"[S6] Insufficient cash for {symbol}")
                 continue
 
-            # Execute
             self.state["cash"] -= cash_needed
             self.state["positions"][symbol] = {
                 "shares":      shares,
@@ -256,7 +269,7 @@ class PaperTrader:
                 "shares":         shares,
                 "position_value": round(shares * price, 2),
                 "pct_of_capital": sizing["pct_of_capital"],
-                "costs":          round(total_cost, 2),
+                "costs":          round(entry_exec.total_cost, 2),
                 "win_prob":       round(win_prob, 4),
                 "regime":         regime,
             }
