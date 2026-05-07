@@ -30,9 +30,23 @@ def print_report():
         with open(regime_file) as f:
             regime = json.load(f)
 
+    universe_files = sorted(Path("data/universes").glob("universe_*.parquet"))
+    current_prices = {}
+    if universe_files:
+        u = pd.read_parquet(universe_files[-1])
+        current_prices = dict(zip(u["symbol"], u["close"]))
+
     # Closed trades
     closed = [t for t in trade_log if "exit_price" in t]
     wins   = [t for t in closed if t["pnl"] > 0]
+
+    open_pnl = 0
+    for sym, pos in positions.items():
+        price = current_prices.get(sym, pos["entry_price"])
+        if pos["direction"] == "LONG":
+            open_pnl += (price - pos["entry_price"]) * pos["shares"]
+        else:
+            open_pnl += (pos["entry_price"] - price) * pos["shares"]
 
     print(f"""
 ╔══════════════════════════════════════════════════════╗
@@ -46,6 +60,7 @@ def print_report():
 ║  PORTFOLIO                                           ║
 ║  Value      : ₹{latest.get('portfolio_value', 0):>12,.0f}                          ║
 ║  Return     : {latest.get('total_return_pct', 0):>+8.2f}%                              ║
+║  Open P&L   : ₹{open_pnl:>+12,.0f}                          ║
 ║  Cash       : ₹{latest.get('cash', 0):>12,.0f}                          ║
 ║  Positions  : {latest.get('n_positions', 0):>3} open                               ║
 ║  CB Status  : {latest.get('circuit_breaker', 'N/A'):8}                               ║
@@ -62,13 +77,32 @@ def print_report():
 
     # Open positions
     if positions:
-        print(f"\n  OPEN POSITIONS ({len(positions)}):")
-        print(f"  {'Symbol':12} {'Shares':>6} {'Entry':>8} {'Direction':>10}")
-        print(f"  {'-'*42}")
-        for sym, pos in positions.items():
+        print(f"\n  OPEN POSITIONS ({len(positions)}) — Mark-to-Market:")
+        print(f"  {'Symbol':12} {'Dir':5} {'Shares':>6} {'Entry':>8} {'Now':>8} {'P&L':>10} {'Days':>5}")
+        print(f"  {'-'*60}")
+
+        today_ts = pd.Timestamp(today)
+        for sym, pos in sorted(positions.items(),
+                                key=lambda x: (
+                                    current_prices.get(x[0], x[1]['entry_price'])
+                                    - x[1]['entry_price']
+                                ) * x[1]['shares'],
+                                reverse=True):
+            price = current_prices.get(sym, pos["entry_price"])
+            if pos["direction"] == "LONG":
+                pnl = (price - pos["entry_price"]) * pos["shares"]
+            else:
+                pnl = (pos["entry_price"] - price) * pos["shares"]
+
+            days = (today_ts - pd.Timestamp(pos["entry_date"])).days
+
             print(
-                f"  {sym:12} {pos['shares']:>6} "
-                f"₹{pos['entry_price']:>7.2f} {pos['direction']:>10}"
+                f"  {sym:12} {pos['direction']:5} "
+                f"{pos['shares']:>6} "
+                f"₹{pos['entry_price']:>7.2f} "
+                f"₹{price:>7.2f} "
+                f"₹{pnl:>+9,.0f} "
+                f"{days:>4}d"
             )
 
     # Recent trades
