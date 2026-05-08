@@ -105,7 +105,7 @@ def run_backtest(
                 for sym, pos in positions.items()
             )
 
-            for _, sig in signals.head(10).iterrows():
+            for _, sig in signals.head(20).iterrows():
                 if sig["direction"] != "LONG":
                     continue
                 if sig["symbol"] in positions:
