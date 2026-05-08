@@ -84,10 +84,10 @@ s6:
   kelly_fraction_crisis: 0.25
   max_single_position_pct: 0.05
   max_total_exposure_pct: 0.80
-  stop_loss_pct: 0.02
-  trailing_stop_trigger_pct: 0.03
-  trailing_stop_retrace_pct: 0.015
-  max_hold_days: 7
+  stop_loss_pct: 0.04
+  trailing_stop_trigger_pct: 0.05
+  trailing_stop_retrace_pct: 0.02
+  max_hold_days: 10
   earnings_buffer_days: 3
   transaction_costs:
     brokerage_per_trade: 20    

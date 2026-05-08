@@ -73,11 +73,11 @@ def run_backtest(
             pnl_pct   = (price - pos["entry_price"]) / pos["entry_price"]
 
             exit_reason = None
-            if pnl_pct <= -0.02:
+            if pnl_pct <= -0.04:
                 exit_reason = "stop_loss"
-            elif days_held >= 7:
+            elif days_held >= 10:
                 exit_reason = "max_hold"
-            elif pnl_pct >= 0.05:
+            elif pnl_pct >= 0.06:
                 exit_reason = "target_hit"
 
             if exit_reason:
@@ -183,8 +183,16 @@ End Capital   : ₹{daily_df['value'].iloc[-1]:>10,.0f}
         print(reasons.to_string())
 
 
+# In scripts/backtest.py, add at the bottom:
 if __name__ == "__main__":
+    print("=== IN-SAMPLE TEST (2025) ===")
     run_backtest(
         start_date=date(2025, 1, 1),
         end_date=date(2025, 12, 31),
+    )
+
+    print("\n=== OUT-OF-SAMPLE TEST (2026 YTD) ===")
+    run_backtest(
+        start_date=date(2026, 1, 1),
+        end_date=date(2026, 4, 30),
     )

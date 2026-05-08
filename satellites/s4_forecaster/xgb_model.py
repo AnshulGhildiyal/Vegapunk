@@ -234,6 +234,33 @@ def save_best_models(regime_models: dict, feature_cols: list):
     logger.info(f"[S4] Feature columns saved: {len(feature_cols)} features")
 
 
+def print_feature_importance(regime: str = "ranging"):
+    """Shows which features the model actually uses."""
+    import json
+    import pickle
+    import pandas as pd
+    from pathlib import Path
+
+    model_path = Path("models/incumbent") / f"xgb_{regime}.pkl"
+    feat_path  = Path("models/incumbent") / "feature_cols.json"
+
+    with open(model_path, "rb") as f:
+        model = pickle.load(f)
+    with open(feat_path) as f:
+        features = json.load(f)
+
+    importance = pd.Series(
+        model.feature_importances_,
+        index=features
+    ).sort_values(ascending=False)
+
+    print(f"\nTop 15 features ({regime.upper()} model):")
+    print("=" * 40)
+    print(importance.head(15).to_string())
+    print()
+    print("Bottom 5 features (likely noise):")
+    print(importance.tail(5).to_string())
+
 # Inference
 def predict_today(
     features_df:  pd.DataFrame,
@@ -346,3 +373,9 @@ if __name__ == "__main__":
     )
 
     save_best_models(results["regime_models"], results["feature_cols"])
+
+    # Add to the bottom of xgb_model.py __main__ block
+if __name__ == "__main__":
+    print_feature_importance("ranging")
+    print_feature_importance("trending")
+    print_feature_importance("crisis")
