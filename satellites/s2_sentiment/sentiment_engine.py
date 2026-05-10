@@ -1,9 +1,3 @@
-"""
-S2 — Full Sentiment Engine
-Combines NSE announcements + Gemini scoring + rolling aggregation.
-Produces 5 sentiment features for S3.
-"""
-
 import pandas as pd
 import numpy as np
 import json
@@ -11,26 +5,41 @@ from pathlib import Path
 from datetime import date, timedelta
 from loguru import logger
 
-from satellites.s2_sentiment.nse_announcements import fetch_nse_announcements
+from satellites.s2_sentiment.nse_announcements import (
+    fetch_nse_announcements,
+    fetch_google_news,
+)
 from satellites.s2_sentiment.finbert_scorer import batch_score_symbols
 
 SENTIMENT_DIR = Path("data/raw/sentiment/scores")
 SENTIMENT_DIR.mkdir(parents=True, exist_ok=True)
 
 
-def get_rolling_headlines(
+def get_all_headlines(
     symbol: str,
     end_date: date,
-    lookback_days: int = 7,
+    lookback_days: int = 5,
 ) -> list[str]:
-    """Gets all headlines for a symbol over the past N days."""
+    """
+    Combines NSE announcements + Google News for a symbol.
+    NSE announcements = high quality structured signal
+    Google News = broader market coverage
+    """
     headlines = []
+
+    # Source 1: NSE Announcements (last N days)
     for i in range(lookback_days):
         d = end_date - timedelta(days=i)
         anns = fetch_nse_announcements(d)
         for ann in anns:
             if ann["symbol"] == symbol and ann["headline"]:
-                headlines.append(f"[{d}] {ann['headline']}")
+                headlines.append(f"[NSE] {ann['headline']}")
+
+    # Source 2: Google News (today only — RSS is already recent)
+    google_headlines = fetch_google_news(symbol)
+    for h in google_headlines:
+        headlines.append(f"[NEWS] {h}")
+
     return headlines
 
 
@@ -39,14 +48,8 @@ def build_sentiment_features(
     universe_symbols: list[str],
 ) -> pd.DataFrame:
     """
-    Main S2 function. Builds full sentiment feature matrix.
-
-    Features:
-    - raw_sentiment: Gemini score for today's news
-    - sentiment_momentum: today vs 5-day average
-    - sentiment_volume: news count vs 30-day average
-    - price_sentiment_divergence: computed in S3
-    - sentiment_volatility: std of scores over 10 days
+    Main S2 function called by S3 daily.
+    Returns DataFrame with 5 sentiment features per symbol.
     """
     score_path = SENTIMENT_DIR / f"scores_{run_date.isoformat()}.json"
 
@@ -54,36 +57,29 @@ def build_sentiment_features(
     if score_path.exists():
         with open(score_path) as f:
             cached = json.load(f)
-        logger.info(f"[S2] Loaded cached scores for {run_date}: {len(cached)} symbols")
+        logger.info(f"[S2] Cached scores loaded: {run_date}")
     else:
-        # Find which symbols have news today
-        today_anns = fetch_nse_announcements(run_date)
-        symbols_with_news = set(a["symbol"] for a in today_anns)
-
-        # Build headline dict for symbols that have news
+        # Build headlines for all universe symbols
         symbol_headlines = {}
         for sym in universe_symbols:
-            if sym in symbols_with_news:
-                headlines = get_rolling_headlines(sym, run_date, lookback_days=7)
-                if headlines:
-                    symbol_headlines[sym] = headlines
+            headlines = get_all_headlines(sym, run_date, lookback_days=5)
+            if headlines:
+                symbol_headlines[sym] = headlines
 
         logger.info(
-            f"[S2] {len(symbol_headlines)} of {len(universe_symbols)} "
+            f"[S2] {len(symbol_headlines)}/{len(universe_symbols)} "
             f"symbols have news for {run_date}"
         )
 
-        # Score with Gemini (only symbols with news)
+        # Score with FinBERT
         if symbol_headlines:
-            scores = batch_score_symbols(symbol_headlines, delay_seconds=1.0)
+            cached = batch_score_symbols(symbol_headlines)
         else:
-            scores = {}
+            cached = {}
 
-        # Save scores
+        # Save
         with open(score_path, "w") as f:
-            json.dump(scores, f, indent=2)
-
-        cached = scores
+            json.dump(cached, f, indent=2)
 
     # Build feature DataFrame
     records = []
@@ -91,62 +87,44 @@ def build_sentiment_features(
         today_score = cached.get(sym, {}).get("score", 0.0)
 
         # Load historical scores for momentum/volatility
-        historical_scores = []
-        for i in range(1, 11):  # Last 10 days
+        hist_scores = []
+        for i in range(1, 11):
             hist_path = SENTIMENT_DIR / f"scores_{(run_date - timedelta(days=i)).isoformat()}.json"
             if hist_path.exists():
                 with open(hist_path) as f:
                     hist = json.load(f)
-                historical_scores.append(hist.get(sym, {}).get("score", 0.0))
+                hist_scores.append(hist.get(sym, {}).get("score", 0.0))
 
-        # Compute derived features
-        if historical_scores:
-            avg_5d = np.mean(historical_scores[:5]) if len(historical_scores) >= 5 else np.mean(historical_scores)
-            sentiment_momentum = today_score - avg_5d
-            sentiment_volatility = np.std(historical_scores)
-        else:
-            sentiment_momentum = 0.0
-            sentiment_volatility = 0.0
+        # Derived features
+        avg_5d = np.mean(hist_scores[:5]) if len(hist_scores) >= 5 else (np.mean(hist_scores) if hist_scores else 0.0)
+        sentiment_momentum   = today_score - avg_5d
+        sentiment_volatility = np.std(hist_scores) if hist_scores else 0.0
 
-        # News volume (count of days with news in last 30 days)
-        news_days = sum(
-            1 for i in range(30)
-            if (SENTIMENT_DIR / f"scores_{(run_date - timedelta(days=i)).isoformat()}.json").exists()
-            and (
-                json.load(open(SENTIMENT_DIR / f"scores_{(run_date - timedelta(days=i)).isoformat()}.json"))
-                .get(sym, {}).get("score", None) is not None
-                and json.load(open(SENTIMENT_DIR / f"scores_{(run_date - timedelta(days=i)).isoformat()}.json"))
-                .get(sym, {}).get("score", 0.0) != 0.0
-            )
-        )
-        avg_news_days = max(news_days / 30, 0.01)
-        today_has_news = 1 if today_score != 0.0 else 0
-        sentiment_volume = today_has_news / avg_news_days
+        # News volume ratio
+        days_with_signal = sum(1 for s in hist_scores if s != 0.0)
+        avg_signal_rate  = max(days_with_signal / max(len(hist_scores), 1), 0.01)
+        today_has_signal = 1 if today_score != 0.0 else 0
+        sentiment_volume = today_has_signal / avg_signal_rate
 
         records.append({
-            "symbol":                    sym,
-            "raw_sentiment":             today_score,
-            "sentiment_momentum":        sentiment_momentum,
-            "sentiment_volume":          sentiment_volume,
-            "sentiment_volatility":      sentiment_volatility,
+            "symbol":               sym,
+            "raw_sentiment":        today_score,
+            "sentiment_momentum":   sentiment_momentum,
+            "sentiment_volume":     sentiment_volume,
+            "sentiment_volatility": sentiment_volatility,
         })
 
     df = pd.DataFrame(records)
-    logger.info(
-        f"[S2] Features built: {(df['raw_sentiment'] != 0).sum()} "
-        f"stocks with non-zero sentiment"
-    )
+    non_zero = (df["raw_sentiment"] != 0).sum()
+    logger.info(f"[S2] Sentiment complete: {non_zero}/{len(df)} stocks with signals")
     return df
 
 
 if __name__ == "__main__":
     from satellites.s1_universe.bhavcopy_downloader import get_nse_universe_symbols
-    symbols = [s.replace(".NS", "") for s in get_nse_universe_symbols()][:20]
+    symbols = [s.replace(".NS", "") for s in get_nse_universe_symbols()]
 
-    result = build_sentiment_features(date.today(), symbols)
+    result = build_sentiment_features(date.today(), symbols[:30])
     non_zero = result[result["raw_sentiment"] != 0]
-    if not non_zero.empty:
-        print("\nSymbols with sentiment today:")
-        print(non_zero[["symbol", "raw_sentiment", "sentiment_momentum"]].to_string())
-    else:
-        print("No sentiment signals today (no NSE announcements for universe stocks)")
+    print(f"\nSymbols with sentiment today: {len(non_zero)}")
+    print(non_zero[["symbol", "raw_sentiment", "sentiment_momentum"]].to_string())
