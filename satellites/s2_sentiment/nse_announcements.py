@@ -13,6 +13,7 @@ from pathlib import Path
 from datetime import date, timedelta
 from loguru import logger
 import time
+import feedparser   
 
 RAW_DIR = Path("data/raw/sentiment/nse_announcements")
 RAW_DIR.mkdir(parents=True, exist_ok=True)
@@ -44,10 +45,10 @@ def fetch_nse_announcements(fetch_date: date) -> list[dict]:
 
     date_str = fetch_date.strftime("%d-%m-%Y")
     url = f"https://www.nseindia.com/api/corporate-announcements?index=equities&from_date={date_str}&to_date={date_str}"
-
+    
     session = requests.Session()
+    
     try:
-        # Hit homepage first for cookies
         session.get("https://www.nseindia.com", headers=NSE_HEADERS, timeout=10)
         time.sleep(1)
 
@@ -56,27 +57,54 @@ def fetch_nse_announcements(fetch_date: date) -> list[dict]:
         data = response.json()
 
     except Exception as e:
-        logger.warning(f"[S2] NSE announcements fetch failed for {fetch_date}: {e}")
+        logger.warning(f"[S2] NSE fetch failed for {fetch_date}: {e}")
         return []
 
     # Normalize
     announcements = []
     for item in (data if isinstance(data, list) else data.get("data", [])):
+        symbol = item.get("symbol", "").strip().upper()  # FIX: strip whitespace
+        if not symbol:
+            continue
         announcements.append({
-            "symbol":    item.get("symbol", ""),
-            "headline":  item.get("desc", item.get("subject", "")),
-            "category":  item.get("an_type", ""),
-            "date":      fetch_date.isoformat(),
-            "exchange":  "NSE",
+            "symbol":   symbol,
+            "headline": item.get("desc", item.get("subject", "")).strip(),
+            "category": item.get("an_type", "").strip(),
+            "date":     fetch_date.isoformat(),
+            "exchange": "NSE",
         })
 
-    # Cache
+
     with open(local, "w") as f:
         json.dump(announcements, f, indent=2)
 
     logger.info(f"[S2] Fetched {len(announcements)} NSE announcements for {fetch_date}")
     return announcements
 
+
+def fetch_google_news(symbol: str, lookback_days: int = 7) -> list[str]:
+    """
+    Fetches recent news headlines for a symbol via Google News RSS.
+    Free, no API key, covers ET/Mint/Business Standard automatically.
+    """
+    # Map common NSE symbols to better search terms
+    search_term = f"{symbol} NSE India stock"
+    url = (
+        f"https://news.google.com/rss/search"
+        f"?q={search_term}&hl=en-IN&gl=IN&ceid=IN:en"
+    )
+
+    try:
+        feed = feedparser.parse(url)
+        headlines = []
+        for entry in feed.entries[:8]:
+            headlines.append(entry.title)
+        if headlines:
+            logger.debug(f"[S2] Google News: {len(headlines)} headlines for {symbol}")
+        return headlines
+    except Exception as e:
+        logger.debug(f"[S2] Google News failed for {symbol}: {e}")
+        return []
 
 def categorize_announcement(headline: str, category: str) -> float:
     """
