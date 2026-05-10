@@ -289,17 +289,28 @@ def build_feature_matrix(universe_df: pd.DataFrame, run_date: date) -> dict | No
     try:
         sentiment_df = build_sentiment_features(run_date, symbols)
         full = full.merge(
-            sentiment_df[["symbol", "raw_sentiment", "sentiment_momentum", "sentiment_volume", "sentiment_volatility"]], on="symbol", how="left"
+            sentiment_df[[
+                "symbol", "raw_sentiment", "sentiment_momentum",
+                "sentiment_volume", "sentiment_volatility"
+            ]],
+            on="symbol", how="left"
         )
         for col in ["raw_sentiment", "sentiment_momentum",
-                "sentiment_volume", "sentiment_volatility"]:
+                    "sentiment_volume", "sentiment_volatility"]:
             full[col] = full[col].fillna(0.0)
-        full["price_sentiment_divergence"] = 0.0  # Computed later with price data
-        logger.info(f"[S3] Sentiment: {(full['raw_sentiment']!=0).sum()} stocks with signals")
+
+        # Price-sentiment divergence: price went up but sentiment is negative = potential reversal
+        full["price_sentiment_divergence"] = (
+            full["ret_5d"].fillna(0) - full["raw_sentiment"].fillna(0)
+        )
+        logger.info(
+            f"[S3] Sentiment wired: "
+            f"{(full['raw_sentiment'] != 0).sum()} stocks with signals"
+        )
     except Exception as e:
         logger.warning(f"[S3] Sentiment failed: {e} — using zeros")
         for col in ["raw_sentiment", "sentiment_momentum", "sentiment_volume",
-                "sentiment_volatility", "price_sentiment_divergence"]:
+                    "sentiment_volatility", "price_sentiment_divergence"]:
             full[col] = 0.0
 
     # Drop rows with too many NaNs
