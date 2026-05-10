@@ -12,7 +12,7 @@ from datetime import date, timedelta
 from loguru import logger
 
 from satellites.s2_sentiment.nse_announcements import fetch_nse_announcements
-from satellites.s2_sentiment.gemini_scorer import batch_score_symbols
+from satellites.s2_sentiment.finbert_scorer import batch_score_symbols
 
 SENTIMENT_DIR = Path("data/raw/sentiment/scores")
 SENTIMENT_DIR.mkdir(parents=True, exist_ok=True)

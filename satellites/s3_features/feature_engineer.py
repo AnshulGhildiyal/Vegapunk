@@ -5,6 +5,8 @@ from datetime import date, timedelta
 from loguru import logger
 import yaml
 
+from satellites.s2_sentiment.sentiment_engine import build_sentiment_features
+
 with open("config/config.yaml") as f:
     CONFIG = yaml.safe_load(f)
 
@@ -284,12 +286,21 @@ def build_feature_matrix(universe_df: pd.DataFrame, run_date: date) -> dict | No
     full = compute_cross_sectional_features(full)
 
     # Sentiment placeholder (zeros until S2 is live)
-    sentiment_cols = [
-        "raw_sentiment", "sentiment_momentum",
-        "sentiment_volume", "price_sentiment_divergence", "sentiment_volatility"
-    ]
-    for col in sentiment_cols:
-        full[col] = 0.0
+    try:
+        sentiment_df = build_sentiment_features(run_date, symbols)
+        full = full.merge(
+            sentiment_df[["symbol", "raw_sentiment", "sentiment_momentum", "sentiment_volume", "sentiment_volatility"]], on="symbol", how="left"
+        )
+        for col in ["raw_sentiment", "sentiment_momentum",
+                "sentiment_volume", "sentiment_volatility"]:
+            full[col] = full[col].fillna(0.0)
+        full["price_sentiment_divergence"] = 0.0  # Computed later with price data
+        logger.info(f"[S3] Sentiment: {(full['raw_sentiment']!=0).sum()} stocks with signals")
+    except Exception as e:
+        logger.warning(f"[S3] Sentiment failed: {e} — using zeros")
+        for col in ["raw_sentiment", "sentiment_momentum", "sentiment_volume",
+                "sentiment_volatility", "price_sentiment_divergence"]:
+            full[col] = 0.0
 
     # Drop rows with too many NaNs
     feature_cols = [c for c in full.columns if c not in ["symbol", "date", "close"]]
