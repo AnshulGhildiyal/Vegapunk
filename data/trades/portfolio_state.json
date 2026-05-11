@@ -1,5 +1,5 @@
 {
-  "cash": 205271.51043320293,
+  "cash": 713.9451130249308,
   "initial_capital": 500000,
   "positions": {
     "VEDL": {
@@ -86,13 +86,6 @@
       "direction": "LONG",
       "win_prob": 0.5303
     },
-    "BRIGADE": {
-      "shares": 19,
-      "entry_price": 792.0,
-      "entry_date": "2026-05-04",
-      "direction": "LONG",
-      "win_prob": 0.5303
-    },
     "CANFINHOME": {
       "shares": 17,
       "entry_price": 883.25,
@@ -141,6 +134,111 @@
       "entry_date": "2026-05-04",
       "direction": "LONG",
       "win_prob": 0.5303
+    },
+    "ADANIENT": {
+      "shares": 6,
+      "entry_price": 2505.89990234375,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "BAJFINANCE": {
+      "shares": 16,
+      "entry_price": 955.3499755859375,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "CESC": {
+      "shares": 83,
+      "entry_price": 184.41000366210938,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "CIPLA": {
+      "shares": 11,
+      "entry_price": 1347.0,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "BRIGADE": {
+      "shares": 20,
+      "entry_price": 758.25,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "DELHIVERY": {
+      "shares": 32,
+      "entry_price": 479.1000061035156,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "DLF": {
+      "shares": 25,
+      "entry_price": 608.25,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "GODREJPROP": {
+      "shares": 8,
+      "entry_price": 1873.5999755859375,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "GLENMARK": {
+      "shares": 6,
+      "entry_price": 2366.39990234375,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "DRREDDY": {
+      "shares": 11,
+      "entry_price": 1293.9000244140625,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "DMART": {
+      "shares": 3,
+      "entry_price": 4402.10009765625,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "GUJGASLTD": {
+      "shares": 38,
+      "entry_price": 396.45001220703125,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "IGL": {
+      "shares": 92,
+      "entry_price": 165.99000549316406,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "IRFC": {
+      "shares": 144,
+      "entry_price": 106.02999877929688,
+      "entry_date": "2026-05-10",
+      "direction": "LONG",
+      "win_prob": 0.5303
+    },
+    "M&M": {
+      "shares": 3,
+      "entry_price": 3330.39990234375,
+      "entry_date": "2026-05-10",
+      "direction": "SHORT",
+      "win_prob": 0.5255
     }
   },
   "trade_log": [
@@ -383,6 +481,199 @@
       "costs": 36.97,
       "win_prob": 0.5303,
       "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "BRIGADE",
+      "direction": "LONG",
+      "entry_price": 792.0,
+      "exit_price": 758.25,
+      "shares": 19,
+      "pnl": -689.84,
+      "pnl_pct": -4.261,
+      "exit_reason": "stop_loss",
+      "days_held": 6,
+      "costs": 48.59
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "ADANIENT",
+      "direction": "LONG",
+      "entry_price": 2505.89990234375,
+      "shares": 6,
+      "position_value": 15035.4,
+      "pct_of_capital": 2.96,
+      "costs": 36.9,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "BAJFINANCE",
+      "direction": "LONG",
+      "entry_price": 955.3499755859375,
+      "shares": 16,
+      "position_value": 15285.6,
+      "pct_of_capital": 3.01,
+      "costs": 37.12,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "CESC",
+      "direction": "LONG",
+      "entry_price": 184.41000366210938,
+      "shares": 83,
+      "position_value": 15306.03,
+      "pct_of_capital": 3.02,
+      "costs": 37.14,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "CIPLA",
+      "direction": "LONG",
+      "entry_price": 1347.0,
+      "shares": 11,
+      "position_value": 14817.0,
+      "pct_of_capital": 2.92,
+      "costs": 36.71,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "BRIGADE",
+      "direction": "LONG",
+      "entry_price": 758.25,
+      "shares": 20,
+      "position_value": 15165.0,
+      "pct_of_capital": 2.99,
+      "costs": 37.01,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "DELHIVERY",
+      "direction": "LONG",
+      "entry_price": 479.1000061035156,
+      "shares": 32,
+      "position_value": 15331.2,
+      "pct_of_capital": 3.02,
+      "costs": 37.16,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "DLF",
+      "direction": "LONG",
+      "entry_price": 608.25,
+      "shares": 25,
+      "position_value": 15206.25,
+      "pct_of_capital": 3.0,
+      "costs": 37.05,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "GODREJPROP",
+      "direction": "LONG",
+      "entry_price": 1873.5999755859375,
+      "shares": 8,
+      "position_value": 14988.8,
+      "pct_of_capital": 2.95,
+      "costs": 36.86,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "GLENMARK",
+      "direction": "LONG",
+      "entry_price": 2366.39990234375,
+      "shares": 6,
+      "position_value": 14198.4,
+      "pct_of_capital": 2.8,
+      "costs": 36.16,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "DRREDDY",
+      "direction": "LONG",
+      "entry_price": 1293.9000244140625,
+      "shares": 11,
+      "position_value": 14232.9,
+      "pct_of_capital": 2.8,
+      "costs": 36.19,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "DMART",
+      "direction": "LONG",
+      "entry_price": 4402.10009765625,
+      "shares": 3,
+      "position_value": 13206.3,
+      "pct_of_capital": 2.6,
+      "costs": 35.28,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "GUJGASLTD",
+      "direction": "LONG",
+      "entry_price": 396.45001220703125,
+      "shares": 38,
+      "position_value": 15065.1,
+      "pct_of_capital": 2.97,
+      "costs": 36.93,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "IGL",
+      "direction": "LONG",
+      "entry_price": 165.99000549316406,
+      "shares": 92,
+      "position_value": 15271.08,
+      "pct_of_capital": 3.01,
+      "costs": 37.11,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "IRFC",
+      "direction": "LONG",
+      "entry_price": 106.02999877929688,
+      "shares": 144,
+      "position_value": 15268.32,
+      "pct_of_capital": 3.01,
+      "costs": 37.1,
+      "win_prob": 0.5303,
+      "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "symbol": "M&M",
+      "direction": "SHORT",
+      "entry_price": 3330.39990234375,
+      "shares": 3,
+      "position_value": 9991.2,
+      "pct_of_capital": 1.97,
+      "costs": 32.44,
+      "win_prob": 0.5255,
+      "regime": "RANGING"
     }
   ],
   "daily_log": [
@@ -396,8 +687,19 @@
       "total_return_pct": -0.146,
       "circuit_breaker": "CLEAR",
       "regime": "RANGING"
+    },
+    {
+      "date": "2026-05-10",
+      "portfolio_value": 507114.85,
+      "cash": 713.95,
+      "n_positions": 34,
+      "entries_today": 15,
+      "exits_today": 1,
+      "total_return_pct": 1.423,
+      "circuit_breaker": "CLEAR",
+      "regime": "RANGING"
     }
   ],
-  "peak_value": 500000,
+  "peak_value": 507710.5900230467,
   "circuit_breaker": "CLEAR"
 }

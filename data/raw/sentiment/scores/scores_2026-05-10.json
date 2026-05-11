@@ -1,0 +1,112 @@
+{
+  "RELIANCE": {
+    "score": -0.0542,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Acquisition"
+  },
+  "TCS": {
+    "score": -0.0386,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "HDFCBANK": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "INFY": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "ICICIBANK": {
+    "score": -0.0195,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "HINDUNILVR": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ITC": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "SBIN": {
+    "score": -0.0675,
+    "reasoning": "Based on 8 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "BHARTIARTL": {
+    "score": -0.0357,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "KOTAKBANK": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "LT": {
+    "score": -0.1197,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Bagging/Receiving of orders/contracts"
+  },
+  "TITAN": {
+    "score": -0.0364,
+    "reasoning": "Based on 7 headlines",
+    "key_signal": "[NSE] Retirement"
+  },
+  "WIPRO": {
+    "score": -0.0563,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "ULTRACEMCO": {
+    "score": -0.1773,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company"
+  },
+  "NESTLEIND": {
+    "score": -0.0466,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "NTPC": {
+    "score": -0.0542,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Acquisition"
+  },
+  "POWERGRID": {
+    "score": -0.0447,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Trading Window"
+  },
+  "SUNPHARMA": {
+    "score": -0.0256,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "HCLTECH": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "ADANIENT": {
+    "score": -0.0282,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ADANIPORTS": {
+    "score": -0.0282,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "BAJAJFINSV": {
+    "score": -0.0315,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] General Updates"
+  }
+}

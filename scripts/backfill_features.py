@@ -48,6 +48,6 @@ def backfill_features(start_date: date, end_date: date):
 
 if __name__ == "__main__":
     backfill_features(
-        start_date=date(2022, 1, 1),
-        end_date=date(2025, 12, 31),
+        start_date=date(2026, 1, 1),
+        end_date=date(2026, 4, 30),
     )

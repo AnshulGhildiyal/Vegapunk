@@ -1,0 +1,2424 @@
+[
+  {
+    "symbol": "ICICIGI",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CHALET",
+    "headline": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JSLL",
+    "headline": "Arrangements for strategic, technical, manufacturing, or marketing tie up",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "POWERINDIA",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VIKASLIFE",
+    "headline": "Committee Meeting Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VEDL",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MONEYBOXX",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ACC",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FORCEMOT",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NUVOCO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DRREDDY",
+    "headline": "Action(s) taken or orders passed",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRESTIGE",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NUVOCO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NUVOCO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BLUSPRING",
+    "headline": "Allotment of Securities",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RALLIS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PFC",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NUVOCO",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NUVOCO",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "OLAELEC",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "QPOWER",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATATECH",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CUBEXTUB",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TCS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CUBEXTUB",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IRCTC",
+    "headline": "Change in Director(s)",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TRF",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODREJPROP",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PWL",
+    "headline": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATATECH",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATATECH",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GROWW",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MAHLOG",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SPLPETRO",
+    "headline": "Capacity addition",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GRAVITA",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATATECH",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATACHEM",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LANDMARK",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DELPHIFX",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BCONCEPTS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KALPATARU",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ACUTAAS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KPIGREEN",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HEADSUP",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JPOLYINVST",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "OBEROIRLTY",
+    "headline": "Amalgamation/Merger",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DELPHIFX",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INNOVACAP",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RPTECH",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "M&M",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INNOVACAP",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TARSONS",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODIGIT",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SCILAL",
+    "headline": "Cessation",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VIKASECO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AAREYDRUGS",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CIFL",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NECCLTD",
+    "headline": "Issue of Securities",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MFML",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VIKASLIFE",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TRANSWORLD",
+    "headline": "Memorandum of Understanding/Agreements",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NECCLTD",
+    "headline": "Amendment to AOA/MOA",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RAILTEL",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RAILTEL",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TANLA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NECCLTD",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DEN",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KOKUYOCMLN",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "APOLLOTYRE",
+    "headline": "Action(s) taken or orders passed",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STYRENIX",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EMBDL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARSSBL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IFGLEXPOR",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DABUR",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SRM",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BRITANNIA",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TIMETECHNO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAHLIBHFI",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SYRMA",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SRHHYPOLTD",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RESPONIND",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARTNIRMAN",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MBLINFRA",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DEN",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PYRAMID",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VHLTD",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UNITDSPR",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VHLTD",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LYPSAGEMS",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UNIDT",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EIMCOELECO",
+    "headline": "Product launch",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SOMANYCERA",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HITECHCORP",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RMC",
+    "headline": "Credit Rating- Others",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ZAGGLE",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CUMMINSIND",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NAUKRI",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UMESLTD",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHANTIGOLD",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WAAREERTL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARSSBL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SBC",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SILINV",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARSSBL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PARSVNATH",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HATSUN",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JPASSOCIAT",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HATSUN",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RUSTOMJEE",
+    "headline": "Cessation",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ENERGYDEV",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ELGIEQUIP",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARSSBL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TEXRAIL",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GPIL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PGIL",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KOHINOOR",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TECHIN",
+    "headline": "Record Date",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TEAMLEASE",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "XLENERGY",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "OMKARCHEM",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHARDAMOTR",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WINDMACHIN",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HBSL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UTTAMSUGAR",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MUTHOOTMF",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MALUPAPER",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BODALCHEM",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GHCL",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARSSBL",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ACC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARSSBL",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ACL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRAKASH",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PERSISTENT",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ATLASCYCLE",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BALAJITELE",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IVALUE",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAKATCEM",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BAJAJHFL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GROWW",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARSSBL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JAIBALAJI",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KRISHIVAL",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GENCON",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BOMDYEING",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AARVI",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KRISHIVAL",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CREDITACC",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "headline": "Credit Rating- Revision",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VBL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIAMC",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GOYALALUM",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MUTHOOTMF",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SPIC",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DIXON",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DICIND",
+    "headline": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMIRCHAND",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SANCO",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RKFORGE",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SICALLOG",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CIEINDIA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDIANCARD",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TRUALT",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAHLIBHFI",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JSWCEMENT",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JAGSNPHARM",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ONWARDTEC",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TI",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GRASIM",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BALKRISIND",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AFFORDABLE",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATAELXSI",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VMSTMT",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NHPC",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JSWCEMENT",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JKTYRE",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JYOTICNC",
+    "headline": "Change in Director(s)",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JSWINFRA",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JYOTICNC",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TALWALKARS",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BAJAJCON",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SWARAJENG",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TALWALKARS",
+    "headline": "Address Change",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TALWALKARS",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TALWALKARS",
+    "headline": "Change in Auditors",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JYOTICNC",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TALWALKARS",
+    "headline": "Change in Company Secretary/Compliance Officer",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PPL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NRL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TALWALKARS",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HDFCBANK",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TALWALKARS",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HIKAL",
+    "headline": "Retirement",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HMVL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARSSBL",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEGASTAR",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ZOTA",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GVKPIL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "COFORGE",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ELGIRUBCO",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LUMAXTECH",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FUSION",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LUMAXIND",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRINCEPIPE",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "headline": "Change in Auditors",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIAMC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRESTIGE",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "COFORGE",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SPLPETRO",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "headline": "Options to purchase securities",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "XLENERGY",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HUHTAMAKI",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MALLCOM",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WEWORK",
+    "headline": "Capacity addition",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RAIN",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LFIC",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "THERMAX",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CGPOWER",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TRACXN",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GULFOILLUB",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SATIN",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CONTROLPR",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MOKSH",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AGSTRA",
+    "headline": "Corporate Insolvency Resolution Process",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TICL",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EIMCOELECO",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SIGIND",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MOKSH",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GLAND",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DSFCL",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RMCL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AFSL",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EIMCOELECO",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CTE",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EIMCOELECO",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GNFC",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KRISHANA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DEVIT",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KELLTONTEC",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GNFC",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KFINTECH",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INA",
+    "headline": "Price movement",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WILLAMAGOR",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PASHUPATI",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INTLCONV",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TOLINS",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VIKRAMSOLR",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ANANDRATHI",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BPL",
+    "headline": "Action(s) initiated or orders passed",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GICL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SARVESHWAR",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANORG",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LAXMIINDIA",
+    "headline": "Price movement",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KILITCH",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICIL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FIVESTAR",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DSFCL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FINKURVE",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "XLENERGY",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VMM",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ODIGMA",
+    "headline": "Price movement",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ZENITHEXPO",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PURVA",
+    "headline": "Giving guarantees/indemnity/ becoming a surety for third party",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PLAZACABLE",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INNOVISION",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GEECEE",
+    "headline": "Price movement",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "APOLLOPIPE",
+    "headline": "Commencement of commercial production/operations",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "OMFREIGHT",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CNL",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EQUIPPP",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STERTOOLS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUTLEJTEX",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DHUNINV",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AYMSYNTEX",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CGPOWER",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CASTROLIND",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CHOICEIN",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NAGREEKEXP",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EMAMIREAL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UNIPARTS",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HEIDELBERG",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TIL",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIBL",
+    "headline": "Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BALAXI",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SILGO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODREJIND",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WAAREEINDO",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SBILIFE",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UFBL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TIL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMAGI",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADVENTHTL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PICCADIL",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHILCTECH",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATACONSUM",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ALICON",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "URAVIDEF",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LENSKART",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LAMBODHARA",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ABREL",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ALMONDZ",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LT",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ACL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TOKYOPLAST",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SRPL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CEATLTD",
+    "headline": "Loss of Share Certificates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IDEAFORGE",
+    "headline": "Allotment of Securities",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODAVARIB",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LATTEYS",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IZMO",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HINDWAREAP",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IKS",
+    "headline": "News Verification",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RUSHIL",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRAJIND",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NAVINFLUOR",
+    "headline": "Loss of Share Certificates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "APOLLO",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NEULANDLAB",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AGI",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RAILTEL",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANOMAY",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RAILTEL",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WALCHANNAG",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NPST",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NOCIL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MIRCELECTR",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JINDALPOLY",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DCMSRIND",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDIANHUME",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICDSLTD",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BHARATRAS",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DCXINDIA",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "POONAWALLA",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-04-14",
+    "exchange": "NSE"
+  }
+]

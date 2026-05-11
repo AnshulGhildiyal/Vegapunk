@@ -13,7 +13,8 @@ from pathlib import Path
 from datetime import date, timedelta
 from loguru import logger
 import time
-import feedparser   
+import feedparser
+from urllib.parse import quote 
 
 RAW_DIR = Path("data/raw/sentiment/nse_announcements")
 RAW_DIR.mkdir(parents=True, exist_ok=True)
@@ -91,7 +92,7 @@ def fetch_google_news(symbol: str, lookback_days: int = 7) -> list[str]:
     search_term = f"{symbol} NSE India stock"
     url = (
         f"https://news.google.com/rss/search"
-        f"?q={search_term}&hl=en-IN&gl=IN&ceid=IN:en"
+        f"?q={quote(search_term)}&hl=en-IN&gl=IN&ceid=IN:en"
     )
 
     try:

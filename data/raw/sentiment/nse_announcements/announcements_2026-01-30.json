@@ -1,0 +1,6463 @@
+[
+  {
+    "symbol": "MPSLTD",
+    "headline": "Acquisition",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRAXIS",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PERSISTENT",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NDTV",
+    "headline": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DEEPAKFERT",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NAZARA",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KPITTECH",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KPITTECH",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KPITTECH",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KPITTECH",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SYRMA",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INTELLECT",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SYRMA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "URBANCO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NACLIND",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "METROPOLIS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASHOKA",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LICHSGFIN",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PGHH",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAMHI",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INFOBEAN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANALIPETC",
+    "headline": "Retirement",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HOMEFIRST",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INFOBEAN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BRITANNIA",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LICHSGFIN",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LLOYDSENGG",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "POWERGRID",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LLOYDSENGG",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SEAMECLTD",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INTERARCH",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ESSARSHPNG",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NTPC",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEESHO",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRSMJOHNSN",
+    "headline": "Action(s) initiated or orders passed",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CGPOWER",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MSUMI",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BANDHANBNK",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEESHO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KEC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SWSOLAR",
+    "headline": "Action(s) initiated or orders passed",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HONAUT",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DCBBANK",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GICRE",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "APCOTEXIND",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASHOKA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LICHSGFIN",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SCPL",
+    "headline": "Corrigendum",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BLUESTARCO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASHOKA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ONESOURCE",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "POWERGRID",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BLUESTARCO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "COMPINFO",
+    "headline": "Corporate Insolvency Resolution Process",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RADICO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAMBHV",
+    "headline": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ORIENTCEM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SIMBHALS",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BASF",
+    "headline": "Demerger",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LUMAXTECH",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LICHSGFIN",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LGEINDIA",
+    "headline": "Action(s) taken or orders passed",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GREENPANEL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BSHSL",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SOLARINDS",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTERDM",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ACC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IIFL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UFO",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BCG",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDIASHLTR",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HAPPSTMNDS",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HEMIPROP",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FINOPB",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NTPCGREEN",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTERDM",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KSOLVES",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KSOLVES",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AADHARHFC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMJLAND",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KSOLVES",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KSOLVES",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMJLAND",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTEC",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TRIVENI",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SWIGGY",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WEBELSOLAR",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PINELABS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SOLARA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AGARWALEYE",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IIFL",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GAEL",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RPOWER",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IDFCFIRSTB",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "3PLAND",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "3PLAND",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GLENMARK",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SERVOTECH",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NORTHARC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GAEL",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATACONSUM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TREL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GLENMARK",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAIL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STAR",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CANBK",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EXCELSOFT",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GAEL",
+    "headline": "Change in Director(s)",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GLENMARK",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TREL",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AADHARHFC",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHREDIGCEM",
+    "headline": "Public Announcement-Open Offer",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "OMAXE",
+    "headline": "Trading Window",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ESAFSFB",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAIL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TREL",
+    "headline": "Cessation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRAXIS",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTERDM",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JSWENERGY",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TREL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KIRLOSENG",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JARO",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UFO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SIS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STYL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NAVNETEDUL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EMKAY",
+    "headline": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CHOICEIN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAIL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NATIONALUM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEGISLOG",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AIAENG",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GAEL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GRAPHITE",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MAYURUNIQ",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INFY",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INSECTICID",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SERVOTECH",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARIS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RBLBANK",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LLOYDSME",
+    "headline": "Allotment of Securities",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NEPHROPLUS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SERVOTECH",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AVANTIFEED",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NTPC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CENTRUM",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GULFOILLUB",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BROOKS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UFBL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RPOWER",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NHPC",
+    "headline": "Commencement of commercial production/operations",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RUBICON",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SASKEN",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RPOWER",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEGISLOG",
+    "headline": "Agreements",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MTARTECH",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IVALUE",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEGISVOPAK",
+    "headline": "Agreements",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STEELCAS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AUBANK",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AFCONS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CUPID",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AUBANK",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PERSISTENT",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIITLTD",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEDPLUS",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PARASPETRO",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CDSL",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASIANHOTNR",
+    "headline": "Allotment of Securities",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIITMTS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEESHO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CREST",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EXPLEOSOL",
+    "headline": "Action(s) taken or orders passed",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUBROS",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODREJCP",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODREJCP",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODREJCP",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANBA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HIRECT",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUBROS",
+    "headline": "Capacity addition",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AWHCL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HIRECT",
+    "headline": "Change in Company Secretary/Compliance Officer",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTERDM",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ABCOTS",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GOCOLORS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HAL",
+    "headline": "News Verification",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CENTRUM",
+    "headline": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SANGHIIND",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CONTROLPR",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANAKSIA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EUROPRATIK",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIACL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUBROS",
+    "headline": "Change in Director(s)",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STEELXIND",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HIRECT",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CANTABIL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PKTEA",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ALIVUS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JARO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CENTRUM",
+    "headline": "Sale or disposal",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IEX",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SITINET",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MAITHANALL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BLUEDART",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTERDM",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CONTROLPR",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DCAL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TRIVENI",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUBROS",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PSPPROJECT",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "POONAWALLA",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HYBRIDFIN",
+    "headline": "Price movement",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ZOTA",
+    "headline": "Memorandum of Understanding/Agreements",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TRANSWORLD",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IXIGO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SENCO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIACL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MAITHANALL",
+    "headline": "Amendment to AOA/MOA",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TRIVENI",
+    "headline": "Record Date",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KEC",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ACMESOLAR",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ABDL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SATIN",
+    "headline": "Allotment of Securities",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEDPLUS",
+    "headline": "Options to purchase securities",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ACC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EMIL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VERANDA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IXIGO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANAKSIA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTERDM",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ALGOQUANT",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JBCHEPHARM",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "QUESS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CARTRADE",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TTML",
+    "headline": "Spurt in Volume",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VTL",
+    "headline": "Spurt in Volume",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PARASPETRO",
+    "headline": "Price movement",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AUROPHARMA",
+    "headline": "Spurt in Volume",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GESHIP",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIACL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BAJAJELEC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DELTAMAGNT",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CARBORUNIV",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ORIENTCEM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "OIL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FLEXITUFF",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AXISBANK",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHADOWFAX",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EUREKAFORB",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TI",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AERONEU",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAJARIACER",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARVIND",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MAYURUNIQ",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NHPC",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TFCILTD",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHADOWFAX",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEDPLUS",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CORONA",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SETL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MPHASIS",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEGISLOG",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEGISLOG",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEGISLOG",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DOMS",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BLACKBUCK",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BLISSGVS",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATASTEEL",
+    "headline": "Acquisition",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BLUEDART",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UDS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NATIONALUM",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ZAGGLE",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ABCOTS",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DOMS",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AVALON",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUPREMEINF",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CCCL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SURAJEST",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTEC",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTEC",
+    "headline": "Cessation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TRIVENI",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RHIM",
+    "headline": "Amalgamation/Merger",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TFCILTD",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KOKUYOCMLN",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FIEMIND",
+    "headline": "Strikes/Lockouts/Disturbances",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PPLPHARMA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LEMONTREE",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TRIVENI",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODFRYPHLP",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATAINVEST",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "headline": "Record Date",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RPGLIFE",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SYNGENE",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KMEW",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DOMS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VIPIND",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UTIAMC",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STARHEALTH",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UNITDSPR",
+    "headline": "Cessation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEESHO",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BETA",
+    "headline": "Corrigendum",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TTKPRESTIG",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DOMS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SJVN",
+    "headline": "Change in Director(s)",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASIANENE",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LINC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TNPL",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTEC",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRICOLLTD",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEESHO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SGIL",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AJANTPHARM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASTEC",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VMM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHYAMMETL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARIS",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NORTHARC",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEESHO",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRICOLLTD",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CROMPTON",
+    "headline": "Product launch",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DOMS",
+    "headline": "Allotment of Securities",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ALIVUS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NAVA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SCODATUBES",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MAYURUNIQ",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MAITHANALL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEESHO",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FISCHER",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AXISBANK",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NELCO",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ACUTAAS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TNPL",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RELAXO",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DOMS",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JLHL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KOKUYOCMLN",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODREJCP",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GREENLAM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JBMA",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KANORICHEM",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "headline": "Acquisition",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GALAPREC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PARKHOSPS",
+    "headline": "Acquisition",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RECLTD",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MUTHOOTMF",
+    "headline": "Issue of Securities",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ORBTEXP",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ORBTEXP",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JLHL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KIRLOSBROS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARIS",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RELAXO",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FISCHER",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EUROPRATIK",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDIAMART",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MARICO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARROWGREEN",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHEMAROO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATACAP",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BEML",
+    "headline": "Record Date",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARIS",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GANDHAR",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IFBAGRO",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NTPC",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDGN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TRACXN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODFRYPHLP",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SBC",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FISCHER",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VINCOFE",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDIANHUME",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEDPLUS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ORBTEXP",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARIS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FISCHER",
+    "headline": "Disclosure of material issue",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODFRYPHLP",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "APCOTEXIND",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STEELCAS",
+    "headline": "Record Date",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MUTHOOTMF",
+    "headline": "Allotment of Securities",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARIS",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEGISVOPAK",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ELECTCAST",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JSWDULUX",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ORBTEXP",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AGRITECH",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RELAXO",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STEELCAS",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NTPC",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "APCOTEXIND",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "QUICKHEAL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KEC",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WINDMACHIN",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CHEMFAB",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KEC",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "POONAWALLA",
+    "headline": "Reply to Clarification- Financial results",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JLHL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GMMPFAUDLR",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FISCHER",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KEC",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDIANB",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAGILITY",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EQUITASBNK",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARIS",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SYRMA",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FISCHER",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DEEPAKFERT",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MUTHOOTMF",
+    "headline": "Committee Meeting Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BHAGYANGR",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STEELCAS",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUNDRMFAST",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STEELCITY",
+    "headline": "Action(s) taken or orders passed",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AADHARHFC",
+    "headline": "Statement of deviation(s) or variation(s) under Reg. 32",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DEEPAKFERT",
+    "headline": "Cessation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GHCLTEXTIL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GENESYS",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GHCLTEXTIL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WIPRO",
+    "headline": "Reply to Clarification- Financial results",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GSFC",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AADHARHFC",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ELLEN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARIS",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STEELCAS",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FIBERWEB",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAREGAMA",
+    "headline": "Acquisition",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STYRENIX",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "headline": "Record Date",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "APARINDS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SURANASOL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MHRIL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NORTHARC",
+    "headline": "Statement of deviation(s) or variation(s) under Reg. 32",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RELAXO",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NTPC",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AADHARHFC",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDIQUBE",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TARSONS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FIBERWEB",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NTPC",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MIRCELECTR",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TOUCHWOOD",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FIBERWEB",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PCBL",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANORAMA",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "REDINGTON",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "QUESS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRICOLLTD",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DIXON",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EQUITASBNK",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NAM-INDIA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEDIASSIST",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AADHARHFC",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INTELLECT",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INTELLECT",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHARDACROP",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TDPOWERSYS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ESAFSFB",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INTELLECT",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UFBL",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SKIPPER",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HINDPETRO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATAPOWER",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CAPITALSFB",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KROSS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VSTTILLERS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NORTHARC",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NATIONALUM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AADHARHFC",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "OPTIEMUS",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LXCHEM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ZFCVINDIA",
+    "headline": "Retirement",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VMART",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "QUESS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MIRCELECTR",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INTELLECT",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WALCHANNAG",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FEDFINA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUMMITSEC",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BANARBEADS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ORIENTBELL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SEAMECLTD",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "COLPAL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INTELLECT",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ALOKINDS",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "QUESS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRAENG",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EMBDL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ANANTRAJ",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NILASPACES",
+    "headline": "Resignation of Independent director",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SKIPPER",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PATINTLOG",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NEOGEN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NEULANDLAB",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NILASPACES",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SURAJEST",
+    "headline": "Statement of deviation(s) or variation(s) under Reg. 32",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "USHAMART",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SESHAPAPER",
+    "headline": "Credit Rating- New",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HPAL",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NEOGEN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SURAJEST",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DCW",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "APOLLOPIPE",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CRIZAC",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PAYTM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AADHARHFC",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAJARIACER",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANBA",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NOIDATOLL",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAJARIACER",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LCCINFOTEC",
+    "headline": "Corrigendum",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ELECTHERM",
+    "headline": "Defaults on Payment of Interest/Principal",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUVEN",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NAVNETEDUL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INTELLECT",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SJVN",
+    "headline": "Retirement",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WALCHANNAG",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CANBK",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DBREALTY",
+    "headline": "Amalgamation/Merger",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BANARBEADS",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WALCHANNAG",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SALZERELEC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WALCHANNAG",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NOIDATOLL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JINDRILL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAJARIACER",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "COLPAL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UTKARSHBNK",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAJARIACER",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HINDPETRO",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SIGNPOST",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SWIGGY",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LICI",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VEDL",
+    "headline": "News Verification",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ABB",
+    "headline": "News Verification",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAJARIACER",
+    "headline": "Retirement",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAJARIACER",
+    "headline": "Change in Company Secretary/Compliance Officer",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HESTERBIO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAJARIACER",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TARACHAND",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATACOMM",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MSUMI",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CONCOR",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAJARIACER",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KPEL",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JSWENERGY",
+    "headline": "News Verification",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STALLION",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NATIONALUM",
+    "headline": "Record Date",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WINDMACHIN",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AJANTPHARM",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CGPOWER",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GVT&D",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAJARIACER",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HINDPETRO",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INSECTICID",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KSCL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADVANIHOTR",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JKIL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASIANTILES",
+    "headline": "Statement of deviation(s) or variation(s) under Reg. 32",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ZEEL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NDTV",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LICI",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEDANTA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "URBANCO",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INSECTICID",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MSUMI",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANUGRAPH",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SANGHIIND",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MSUMI",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ONWARDTEC",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ORIENTELEC",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ORIENTCEM",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MSUMI",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDIGOPNTS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AJANTPHARM",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NATCAPSUQ",
+    "headline": "Action(s) taken or orders passed",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CONCOR",
+    "headline": "Resignation of Independent director",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TTL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CONCOR",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARCHIDPLY",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NATIONALUM",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ACC",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INFOBEAN",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WELCORP",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARCHIDPLY",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HEIDELBERG",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AJANTPHARM",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DHANUKA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INSECTICID",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HINDWAREAP",
+    "headline": "Commencement of commercial production/operations",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CONCOR",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GRASIM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INSECTICID",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GREENPANEL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MTNL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ABREL",
+    "headline": "Corrigendum",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SURYODAY",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FLAIR",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BRIGADE",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ORIENTCER",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WELCORP",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NATIONALUM",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CCAVENUE",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BRIGADE",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GHCL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "headline": "Action(s) taken or orders passed",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "headline": "Action(s) taken or orders passed",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DIGITIDE",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INSECTICID",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BRIGADE",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GREENPANEL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JBFIND",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FIBERWEB",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "headline": "Statement of deviation(s) or variation(s) under Reg. 32",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BRIGADE",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HUDCO",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DOLPHIN",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JBFIND",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "headline": "Cessation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAYA",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BRIGADE",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INSECTICID",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PNBGILTS",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EPIGRAL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AIAENG",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SYSTMTXC",
+    "headline": "Acquisition",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EPIGRAL",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EPIGRAL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CAPITALSFB",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DABUR",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ONWARDTEC",
+    "headline": "Allotment of Securities",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BRIGADE",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BHARATRAS",
+    "headline": "Trading Window",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EPIGRAL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHADOWFAX",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "POWERMECH",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JBMA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAMBHAAV",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PGHH",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SYRMA",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SIS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PGHH",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JBMA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PGHH",
+    "headline": "Record Date",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BRIGADE",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KROSS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PGHH",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "THOMASCOOK",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUZLON",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HINDPETRO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WALCHANNAG",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UFBL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "OLAELEC",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PGHH",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KSB",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "COROMANDEL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NILASPACES",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SPARC",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASAHISONG",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UFBL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TMCV",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ODIGMA",
+    "headline": "Address Change",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UFBL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHARDACROP",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ODIGMA",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EXIDEIND",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FABTECH",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WELCORP",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NILASPACES",
+    "headline": "Acquisition",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ODIGMA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PONNIERODE",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EXIDEIND",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASHOKAMET",
+    "headline": "Amendment to AOA/MOA",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NILASPACES",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIITLTD",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NILASPACES",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BALAMINES",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MASKINVEST",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ODIGMA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASHOKAMET",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASAHIINDIA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EXIDEIND",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SCHAND",
+    "headline": "Acquisition",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JARO",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PSPPROJECT",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PAKKA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SVLL",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASAHIINDIA",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JARO",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AIAENG",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BALAMINES",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NMDC",
+    "headline": "Rumour Verification - Regulation 30(11)",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASAHIINDIA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AIAENG",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "headline": "Record Date",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WORTHPERI",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HAPPSTMNDS",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHAREINDIA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FCONSUMER",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SOLARINDS",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDIASHLTR",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIITLTD",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIITLTD",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIITLTD",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RISHABH",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FCONSUMER",
+    "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDOCO",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARVIND",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AIAENG",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIITLTD",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AGI",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ESCORTS",
+    "headline": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIITLTD",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WEBELSOLAR",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FINOPB",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RAMCOIND",
+    "headline": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARVIND",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RBA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PGEL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STARHEALTH",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARVIND",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIITLTD",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MOIL",
+    "headline": "Dividend",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIITLTD",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEGISLOG",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MOIL",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASHAPURMIN",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UDS",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PNBGILTS",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEROFLEX",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RMDRIP",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AJMERA",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ZYDUSLIFE",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NRBBEARING",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IKS",
+    "headline": "Options to purchase securities",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "APCOTEXIND",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANBA",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RTNPOWER",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ANGELONE",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MARKOLINES",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STAR",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TEGA",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DEEPINDS",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHILPAMED",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDIASHLTR",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GENESYS",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RTNPOWER",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STAR",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MARKOLINES",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BALAMINES",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEIL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SSWL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RSSOFTWARE",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JSWHL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STAR",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARVIND",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TNPL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NATCOPHARM",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CGPOWER",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NACLIND",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JAMNAAUTO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PSPPROJECT",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEGISLOG",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "WHEELS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDIACEM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VEDL",
+    "headline": "News Verification",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PSPPROJECT",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEQUS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SAKAR",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PVSL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHEMAROO",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KRSNAA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HDFCBANK",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CENTUM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VEDL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANAPPURAM",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SWANCORP",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KAPSTON",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AJOONI",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CHAMBLFERT",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RELIGARE",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ATGL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PGIL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KARURVYSYA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STLNETWORK",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "COCHINSHIP",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BHAGYANGR",
+    "headline": "Scheme of Arrangement",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GANGOTRI",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RAILTEL",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STLNETWORK",
+    "headline": "Allotment of Securities",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NOCIL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JTEKTINDIA",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BRIGADE",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TARACHAND",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HESTERBIO",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BRIGADE",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BLUESTARCO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CUPID",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BLUESTARCO",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RADIOCITY",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ALLCARGO",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "21STCENMGM",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KRSNAA",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "QUICKHEAL",
+    "headline": "Allotment of Securities",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASIANENE",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IDEA",
+    "headline": "Credit Rating- Others",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASIANTILES",
+    "headline": "Monitoring Agency Report",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BLUESTARCO",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HESTERBIO",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PAVNAIND",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ABINFRA",
+    "headline": "Awarding of order(s)/contract(s)",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BHAGYANGR",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "UGROCAP",
+    "headline": "Credit Rating",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDOWIND",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BHAGYANGR",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PAYTM",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FOODSIN",
+    "headline": "Structural Digital Database",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "APOLLOPIPE",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VINCOFE",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ARKADE",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GROWW",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MAMATA",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NMDC",
+    "headline": "News Verification",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "USHAMART",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PATINTLOG",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MAMATA",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "IEX",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FLAIR",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TMCV",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CRIZAC",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LTFOODS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ALGOQUANT",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ALGOQUANT",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BIRLACABLE",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LTFOODS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "INDOWIND",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GCSL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ICICIBANK",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CONTROLPR",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "THERMAX",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEGISVOPAK",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MUTHOOTFIN",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KRYSTAL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ASAL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANBA",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EASEMYTRIP",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STYL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRICOLLTD",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "KRYSTAL",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STYL",
+    "headline": "Press Release (Revised)",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "STYRENIX",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GHCL",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SKMEGGPROD",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BHARATFORG",
+    "headline": "Acquisition",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JINDRILL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MANAPPURAM",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RMDRIP",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ACMESOLAR",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LMW",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRESTIGE",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GODREJPROP",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MTARTECH",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-01-30",
+    "exchange": "NSE"
+  }
+]
