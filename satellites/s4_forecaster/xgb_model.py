@@ -233,74 +233,6 @@ def save_best_models(regime_models: dict, feature_cols: list):
 
     logger.info(f"[S4] Feature columns saved: {len(feature_cols)} features")
 
-def train_crisis_fallback(
-    features_df: pd.DataFrame,
-    targets_df:  pd.DataFrame,
-    regime_map:  dict,
-):
-    """
-    Trains a dedicated CRISIS model using high-volatility periods.
-    Uses tighter features focused on risk-off behavior.
-    """
-    logger.info("[S4] Training CRISIS fallback model")
-
-    # Merge data
-    merged = features_df.merge(targets_df, on=["symbol", "date"], how="inner")
-    merged["date_ts"] = pd.to_datetime(merged["date"])
-    merged["regime"]  = merged["date_ts"].map(
-        lambda d: regime_map.get(d.strftime("%Y-%m-%d"), -1)
-    )
-
-    # For crisis model: use high-volatility samples regardless of regime label
-    # High vol = atr_14_norm in top 30% + negative recent returns
-    if "atr_14_norm" in merged.columns and "ret_5d" in merged.columns:
-        high_vol_mask = (
-            (merged["atr_14_norm"] >= merged["atr_14_norm"].quantile(0.70)) |
-            (merged["ret_5d"] <= merged["ret_5d"].quantile(0.20))
-        )
-        crisis_data = merged[high_vol_mask]
-    else:
-        crisis_data = merged
-
-    logger.info(f"[S4] Crisis training samples: {len(crisis_data)}")
-
-    if len(crisis_data) < 100:
-        logger.warning("[S4] Insufficient crisis data — skipping")
-        return
-
-    feature_cols = [
-        c for c in features_df.columns
-        if c not in ["symbol", "date", "close"]
-    ]
-
-    X = crisis_data[feature_cols].fillna(0).values
-    y = crisis_data["target"].values
-
-    # Split 80/20
-    split = int(len(X) * 0.8)
-    X_train, X_val = X[:split], X[split:]
-    y_train, y_val = y[:split], y[split:]
-
-    # Crisis-specific XGB: more conservative, stronger regularization
-    crisis_params = {**XGB_PARAMS}
-    crisis_params["max_depth"]         = 3   # Shallower
-    crisis_params["learning_rate"]     = 0.01
-    crisis_params["min_child_weight"]  = 50  # Conservative
-    crisis_params["reg_lambda"]        = 3.0 # Stronger regularization
-
-    model = xgb.XGBClassifier(**crisis_params, early_stopping_rounds=30)
-    model.fit(X_train, y_train, eval_set=[(X_val, y_val)], verbose=False)
-
-    val_preds  = model.predict_proba(X_val)[:, 1]
-    val_binary = (val_preds >= 0.5).astype(int)
-    acc = accuracy_score(y_val, val_binary)
-
-    logger.success(f"[S4] CRISIS model trained: acc={acc:.4f} (n={len(X_train)})")
-
-    # Save
-    MODEL_DIR.mkdir(parents=True, exist_ok=True)
-    with open(MODEL_DIR / "xgb_crisis.pkl", "wb") as f:
-        pickle.dump(model, f)
 
 def print_feature_importance(regime: str = "ranging"):
     """Shows which features the model actually uses."""
@@ -391,7 +323,7 @@ def predict_today(
     result = result[result["direction"] != "NEUTRAL"]
     result = result.sort_values("xgb_pred", ascending=False)
 
-    logger.debug(
+    logger.info(
         f"[S4] Predictions: {len(features_df)} stocks → "
         f"{(result['direction']=='LONG').sum()} LONG, "
         f"{(result['direction']=='SHORT').sum()} SHORT | "
@@ -441,9 +373,6 @@ if __name__ == "__main__":
     )
 
     save_best_models(results["regime_models"], results["feature_cols"])
-
-    logger.info("[S4] Training CRISIS fallback model")
-    train_crisis_fallback(features_df, targets_df, regime_map)
 
     # Add to the bottom of xgb_model.py __main__ block
 if __name__ == "__main__":

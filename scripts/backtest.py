@@ -73,15 +73,11 @@ def run_backtest(
             pnl_pct   = (price - pos["entry_price"]) / pos["entry_price"]
 
             exit_reason = None
-            stop_pct   = -0.02 if regime_label == "CRISIS" else -0.04
-            hold_days  = 5    if regime_label == "CRISIS" else 10
-            target_pct = 0.04 if regime_label == "CRISIS" else 0.06
-
-            if pnl_pct <= stop_pct:
+            if pnl_pct <= -0.04:
                 exit_reason = "stop_loss"
-            elif days_held >= hold_days:
+            elif days_held >= 10:
                 exit_reason = "max_hold"
-            elif pnl_pct >= target_pct:
+            elif pnl_pct >= 0.06:
                 exit_reason = "target_hit"
 
             if exit_reason:
@@ -109,9 +105,7 @@ def run_backtest(
                 for sym, pos in positions.items()
             )
 
-            min_signals = 1 if regime_label == "CRISIS" else 10
-
-            for _, sig in signals.head(min_signals).iterrows():
+            for _, sig in signals.head(20).iterrows():
                 if sig["direction"] != "LONG":
                     continue
                 if sig["symbol"] in positions:
