@@ -10,6 +10,7 @@ import xgboost as xgb
 from sklearn.metrics import (
     accuracy_score, roc_auc_score, log_loss
 )
+import config
 
 with open("config/config.yaml") as f:
     CONFIG = yaml.safe_load(f)
@@ -43,7 +44,9 @@ REGIME_IDS    = {v: k for k, v in REGIME_LABELS.items()}
 
 # Data Loading
 
-def load_all_features(start_date: str, end_date: str) -> pd.DataFrame:
+def load_all_features(start_date=date(2022, 1, 1), end_date=None):
+    if end_date is None:
+        end_date = date.today() - timedelta(days=10)
     frames = []
     current = pd.Timestamp(start_date)
     end     = pd.Timestamp(end_date)
@@ -216,7 +219,7 @@ def save_best_models(regime_models: dict, feature_cols: list):
             continue
 
         # Take the most recent split's model
-        best = max(model_list, key=lambda x: x["split_id"])
+        best = max(model_list, key=lambda x: x["accuracy"])
         model_path = MODEL_DIR / f"xgb_{regime_name.lower()}.pkl"
 
         with open(model_path, "wb") as f:
@@ -411,29 +414,40 @@ if __name__ == "__main__":
     symbols = [s.replace(".NS", "") for s in get_nse_universe_symbols()]
 
     logger.info("[S4] Loading features for walk-forward training...")
-    features_df = load_all_features("2022-01-01", "2025-12-31")
+
+    train_end = date.today() - timedelta(days=10)
+
+    features_df = load_all_features(
+        start_date=date(2022, 1, 1),
+        end_date=train_end,   
+    )
 
     if features_df.empty:
         logger.error("No features found. Run the pipeline for historical dates first.")
         sys.exit(1)
 
     logger.info("[S4] Building targets...")
+
+    train_end = date.today() - timedelta(days=10)
+
     targets_df = build_target_series(
         symbols    = symbols,
         start_date = date(2022, 1, 1),
-        end_date   = date(2025, 12, 31),
+        end_date   = train_end,
     )
 
     logger.info("[S4] Loading regime map...")
-    regime_map = load_regime_map("2022-01-01", "2025-12-31")
+    regime_map = load_regime_map(
+        "2022-01-01",
+        train_end.strftime("%Y-%m-%d"),  
+    )
 
     splits = generate_splits(
-        start_date    = "2022-01-01",
-        end_date      = "2025-09-30",
-        train_months  = 12,
-        val_months    = 3,
-        step_months   = 3,
-        embargo_days  = 5,
+        start_date=date(2022, 1, 1),
+        end_date=date.today() - timedelta(days=10), 
+        train_months=18,
+        val_months=3,
+        embargo_days=5,
     )
 
     results = run_walk_forward_training(
