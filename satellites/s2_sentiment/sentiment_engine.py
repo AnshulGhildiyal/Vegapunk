@@ -15,29 +15,31 @@ SENTIMENT_DIR = Path("data/raw/sentiment/scores")
 SENTIMENT_DIR.mkdir(parents=True, exist_ok=True)
 
 
+# Add module-level cache
+_announcement_cache: dict[str, list[dict]] = {}
+
 def get_all_headlines(
     symbol: str,
     end_date: date,
     lookback_days: int = 5,
 ) -> list[str]:
-    """
-    Combines NSE announcements + Google News for a symbol.
-    NSE announcements = high quality structured signal
-    Google News = broader market coverage
-    """
     headlines = []
 
-    # Source 1: NSE Announcements (last N days)
+    # NSE Announcements — use cached data
     for i in range(lookback_days):
         d = end_date - timedelta(days=i)
-        anns = fetch_nse_announcements(d)
-        for ann in anns:
+        date_str = d.isoformat()
+
+        # Load once per date, cache in memory
+        if date_str not in _announcement_cache:
+            _announcement_cache[date_str] = fetch_nse_announcements(d)
+
+        for ann in _announcement_cache[date_str]:
             if ann["symbol"] == symbol and ann["headline"]:
                 headlines.append(f"[NSE] {ann['headline']}")
 
-    # Source 2: Google News (today only — RSS is already recent)
-    google_headlines = fetch_google_news(symbol)
-    for h in google_headlines:
+    # Google News (already fast)
+    for h in fetch_google_news(symbol):
         headlines.append(f"[NEWS] {h}")
 
     return headlines
