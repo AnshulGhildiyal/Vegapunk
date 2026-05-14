@@ -75,7 +75,19 @@ def print_report():
 ║  Total P&L     : ₹{sum(t['pnl'] for t in closed):>+10,.0f}                         ║
 ╚══════════════════════════════════════════════════════╝""")
 
+    if closed:
+        stop_loss_trades = [t for t in closed if t.get("exit_reason") == "stop_loss"]
+        max_hold_trades  = [t for t in closed if t.get("exit_reason") == "max_hold_period"]
+
+        sl_wins = sum(1 for t in stop_loss_trades if t.get("pnl", 0) > 0)
+        mh_wins = sum(1 for t in max_hold_trades  if t.get("pnl", 0) > 0)
+
+        print(f"  Exit breakdown:")
+        print(f"  Stop-loss : {len(stop_loss_trades):>3} trades | {sl_wins} wins ({sl_wins/max(len(stop_loss_trades),1)*100:.0f}%)")
+        print(f"  Max-hold  : {len(max_hold_trades):>3} trades | {mh_wins} wins ({mh_wins/max(len(max_hold_trades),1)*100:.0f}%)")
+    
     # Open positions
+    
     if positions:
         print(f"\n  OPEN POSITIONS ({len(positions)}) — Mark-to-Market:")
         print(f"  {'Symbol':12} {'Dir':5} {'Shares':>6} {'Entry':>8} {'Now':>8} {'P&L':>10} {'Days':>5}")
