@@ -17,7 +17,7 @@ class WalkForwardSplit:
 
 def generate_splits(
     start_date: str = "2020-06-01",
-    end_date:   str = "2025-12-31",
+    end_date=date.today() - timedelta(days=10),
     train_months: int = 18,
     val_months:   int = 3,
     step_months:  int = 3,
