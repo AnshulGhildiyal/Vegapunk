@@ -105,8 +105,8 @@ s6:
 # --- S5: Retraining ---
 s5:
   directional_accuracy_threshold: 0.52
-  psi_drift_threshold: 0.2
-  psi_feature_breach_pct: 0.20
+  psi_drift_threshold: 0.25
+  psi_feature_breach_pct: 0.6
   challenger_promotion_margin: 0.01
   holdout_days: 30
   retraining_check_days: 7
