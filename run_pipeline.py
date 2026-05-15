@@ -188,16 +188,30 @@ def run_s6(run_date: str, signals: dict, regime: dict) -> dict:
     }
 
 def run_s5(run_date: str) -> dict:
-    """S5 — Monitoring & Retraining"""
     logger.info(f"[S5] Running monitoring checks for {run_date}")
     result = run_monitoring()
+    
+    if result.get("retrain_triggered"):
+        logger.info("[PIPELINE] Retraining XGBoost models...")
+        try:
+            import subprocess
+            retrain = subprocess.run(
+                ["python", "satellites/s4_forecaster/xgb_model.py"],
+                capture_output=True, text=True, timeout=300
+            )
+            if retrain.returncode == 0:
+                logger.success("[PIPELINE] Retrain complete")
+            else:
+                logger.warning(f"[PIPELINE] Retrain failed: {retrain.stderr[-200:]}")
+        except Exception as e:
+            logger.warning(f"[PIPELINE] Retrain error: {e}")
+
     return {
-        "status":            "OK",
+        "status":           "OK",
         "retrain_triggered": result["retrain_triggered"],
         "accuracy":          result["accuracy"].get("accuracy"),
         "portfolio_health":  result["portfolio_health"],
     }
-
 
 def run_pipeline(run_date: str = None):
     if run_date is None:
