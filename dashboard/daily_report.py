@@ -30,11 +30,23 @@ def print_report():
         with open(regime_file) as f:
             regime = json.load(f)
 
-    universe_files = sorted(Path("data/universes").glob("universe_*.parquet"))
-    current_prices = {}
-    if universe_files:
-        u = pd.read_parquet(universe_files[-1])
-        current_prices = dict(zip(u["symbol"], u["close"]))
+    def get_current_prices() -> dict:
+        today = date.today().isoformat()
+        feature_path = Path(f"data/processed/features_{today}.parquet")
+
+        if feature_path.exists():
+            df = pd.read_parquet(feature_path)
+            if "close" in df.columns:
+                return dict(zip(df["symbol"], df["close"]))
+
+        # Fallback: most recent universe
+        universe_files = sorted(Path("data/universes").glob("universe_*.parquet"))
+        if universe_files:
+            u = pd.read_parquet(universe_files[-1])
+            return dict(zip(u["symbol"], u["close"]))
+        return {}
+
+    current_prices = get_current_prices()
 
     # Closed trades
     closed = [t for t in trade_log if "exit_price" in t]
