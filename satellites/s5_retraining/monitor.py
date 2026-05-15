@@ -142,7 +142,7 @@ def check_feature_drift(reference_days: int = 60, current_days: int = 10) -> dic
 
     retrain_flag = drift_pct >= S5_CFG["psi_feature_breach_pct"]
     if retrain_flag:
-        logger.warning(f"[S5] 🔄 Drift threshold exceeded — retraining recommended")
+        logger.warning(f"[S5] Drift threshold exceeded — retraining recommended")
 
     return {
         "status":        "ok",
@@ -222,9 +222,9 @@ def run_monitoring() -> dict:
     )
 
     if retrain_triggered:
-        logger.warning("[S5] 🔄 RETRAINING TRIGGERED")
+        logger.warning("[S5] RETRAINING TRIGGERED")
     else:
-        logger.info("[S5] ✅ All checks passed — no retraining needed")
+        logger.info("[S5] All checks passed — no retraining needed")
 
     return {
         "accuracy":          accuracy,
