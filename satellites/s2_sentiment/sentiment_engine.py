@@ -61,19 +61,43 @@ def build_sentiment_features(
             cached = json.load(f)
         logger.info(f"[S2] Cached scores loaded: {run_date}")
     else:
-        # Build headlines for all universe symbols
+        # Pre-load NSE announcements for all lookback days into cache
+        for i in range(5):
+            d = run_date - timedelta(days=i)
+            date_str = d.isoformat()
+            if date_str not in _announcement_cache:
+                _announcement_cache[date_str] = fetch_nse_announcements(d)
+
+        # Only fetch Google News for stocks with NSE activity today
+        symbols_with_nse = {
+            ann["symbol"]
+            for ann in _announcement_cache.get(run_date.isoformat(), [])
+        }
+
         symbol_headlines = {}
         for sym in universe_symbols:
-            headlines = get_all_headlines(sym, run_date, lookback_days=5)
-            if headlines:
-                symbol_headlines[sym] = headlines
+            nse_headlines = []
+            for i in range(5):
+                d = run_date - timedelta(days=i)
+                for ann in _announcement_cache.get(d.isoformat(), []):
+                    if ann["symbol"] == sym and ann["headline"]:
+                        nse_headlines.append(f"[NSE] {ann['headline']}")
+
+            google_headlines = []
+            if sym in symbols_with_nse:
+                google_headlines = [
+                    f"[NEWS] {h}" for h in fetch_google_news(sym)
+                ]
+
+            all_headlines = nse_headlines + google_headlines
+            if all_headlines:
+                symbol_headlines[sym] = all_headlines
 
         logger.info(
             f"[S2] {len(symbol_headlines)}/{len(universe_symbols)} "
-            f"symbols have news for {run_date}"
+            f"symbols have news for {run_date} "
+            f"({len(symbols_with_nse)} with NSE announcements)"
         )
-
-        # Score with FinBERT
         if symbol_headlines:
             cached = batch_score_symbols(symbol_headlines)
         else:
