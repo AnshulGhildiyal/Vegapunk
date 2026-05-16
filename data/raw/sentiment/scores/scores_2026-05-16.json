@@ -1,0 +1,367 @@
+{
+  "TCS": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "HDFCBANK": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "ICICIBANK": {
+    "score": -0.0158,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "ITC": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "SBIN": {
+    "score": -0.0297,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Outcome of Board Meeting"
+  },
+  "BHARTIARTL": {
+    "score": -0.0489,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32"
+  },
+  "LT": {
+    "score": -0.0976,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Bagging/Receiving of orders/contracts"
+  },
+  "AXISBANK": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "BAJFINANCE": {
+    "score": -0.0273,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "WIPRO": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "NESTLEIND": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "SUNPHARMA": {
+    "score": -0.1786,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "HCLTECH": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "ADANIENT": {
+    "score": -0.05,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Committee Meeting Updates"
+  },
+  "ADANIPORTS": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "DRREDDY": {
+    "score": -0.1951,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Change in Auditors"
+  },
+  "CIPLA": {
+    "score": -0.0437,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Appointment"
+  },
+  "HINDALCO": {
+    "score": -0.0335,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "JSWSTEEL": {
+    "score": -0.0414,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "COALINDIA": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TATACONSUM": {
+    "score": -0.0424,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "UPL": {
+    "score": -0.0329,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "HAVELLS": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "BERGEPAINT": {
+    "score": -0.0404,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "MARICO": {
+    "score": -0.0371,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "DABUR": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "GODREJCP": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "TORNTPHARM": {
+    "score": -0.0282,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "LUPIN": {
+    "score": -0.0447,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "AUROPHARMA": {
+    "score": 0.2056,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Aurobindo Pharma Ltd stock (INE406A01037): up 0.43% on NSE - AD HOC NEWS"
+  },
+  "LALPATHLAB": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "APOLLOTYRE": {
+    "score": -0.041,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "HDFCAMC": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "ICICIGI": {
+    "score": -0.0195,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "ICICIPRULI": {
+    "score": -0.0211,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "SBICARD": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "M&MFIN": {
+    "score": -0.0249,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Allotment of Securities"
+  },
+  "LICHSGFIN": {
+    "score": -0.0407,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Appointment"
+  },
+  "PFC": {
+    "score": -0.0408,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "HUDCO": {
+    "score": -0.2024,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "MANAPPURAM": {
+    "score": -0.3591,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "MUTHOOTFIN": {
+    "score": -0.1192,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Muthoot Finance Explains Dividend TDS to Shareholders; Shares Down 0.53% - HDFC Sky"
+  },
+  "SHRIRAMFIN": {
+    "score": -0.0282,
+    "reasoning": "Based on 8 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "INDIAMART": {
+    "score": -0.0282,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "NAUKRI": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "POLICYBZR": {
+    "score": -0.0446,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "PAYTM": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "NYKAA": {
+    "score": -0.0282,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "DELHIVERY": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "TATAPOWER": {
+    "score": -0.0398,
+    "reasoning": "Based on 8 headlines",
+    "key_signal": "[NSE] Appointment"
+  },
+  "ADANIGREEN": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TORNTPOWER": {
+    "score": -0.0345,
+    "reasoning": "Based on 7 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "NHPC": {
+    "score": -0.2087,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "SJVN": {
+    "score": -0.0565,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Appointment"
+  },
+  "DLF": {
+    "score": -0.1235,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Change in Auditors"
+  },
+  "PRESTIGE": {
+    "score": -0.0306,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Monitoring Agency Report"
+  },
+  "BRIGADE": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "PHOENIXLTD": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ZYDUSLIFE": {
+    "score": -0.0541,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Cessation"
+  },
+  "LAURUSLABS": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "DEEPAKNTR": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "PETRONET": {
+    "score": -0.0162,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Credit Rating- New"
+  },
+  "IOC": {
+    "score": 0.2814,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Q1 Results impact: Coffee Day Enterprises, AstraZeneca Pharma shares jump up to 2%, IOC share"
+  },
+  "HINDZINC": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "SAIL": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "WHIRLPOOL": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "SYMPHONY": {
+    "score": -0.2195,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Symphony Q1FY26 Revenue Falls 39%; \u20b91 Dividend Announced - HDFC Sky"
+  },
+  "TRENT": {
+    "score": -0.0282,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "MANYAVAR": {
+    "score": -0.0328,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "AAVAS": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "MAXHEALTH": {
+    "score": -0.042,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "THYROCARE": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "MFSL": {
+    "score": -0.0564,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Cessation"
+  }
+}
