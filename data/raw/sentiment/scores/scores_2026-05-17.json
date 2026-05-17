@@ -1,0 +1,262 @@
+{
+  "HDFCBANK": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "ICICIBANK": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "BHARTIARTL": {
+    "score": -0.0489,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Statement of deviation(s) or variation(s) under Reg. 32"
+  },
+  "LT": {
+    "score": -0.0976,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Bagging/Receiving of orders/contracts"
+  },
+  "BAJFINANCE": {
+    "score": -0.0282,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "WIPRO": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "SUNPHARMA": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "TATASTEEL": {
+    "score": 0.0564,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Tata Steel Q4 business update: Crude Steel production surges 15% YoY to 6.25 MT in March quar"
+  },
+  "ADANIENT": {
+    "score": -0.0676,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Committee Meeting Updates"
+  },
+  "DRREDDY": {
+    "score": -0.0419,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "CIPLA": {
+    "score": -0.0437,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Appointment"
+  },
+  "HINDALCO": {
+    "score": -0.0323,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "JSWSTEEL": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "TATACONSUM": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "HAVELLS": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "BERGEPAINT": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "MARICO": {
+    "score": -0.0446,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "GODREJCP": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "LUPIN": {
+    "score": -0.0447,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "AUROPHARMA": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "LALPATHLAB": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "APOLLOTYRE": {
+    "score": -0.041,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "HDFCAMC": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "ICICIGI": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "SBICARD": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "LICHSGFIN": {
+    "score": -0.0407,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Appointment"
+  },
+  "RECLTD": {
+    "score": -0.1966,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] REC Ltd down for fifth straight session - Business Standard"
+  },
+  "PFC": {
+    "score": -0.0408,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "HUDCO": {
+    "score": -0.2024,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "MUTHOOTFIN": {
+    "score": 0.0186,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Muthoot Finance Explains Dividend TDS to Shareholders; Shares Down 0.53% - HDFC Sky"
+  },
+  "SHRIRAMFIN": {
+    "score": -0.0282,
+    "reasoning": "Based on 8 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "POLICYBZR": {
+    "score": -0.0446,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "NYKAA": {
+    "score": -0.0282,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "DELHIVERY": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "TATAPOWER": {
+    "score": 0.0168,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Tata Power Slips 5% After Q4 Profit Drop; Brokers Stay Positive - HDFC Sky"
+  },
+  "ADANIGREEN": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TORNTPOWER": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "NHPC": {
+    "score": -0.2087,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "SJVN": {
+    "score": -0.0565,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Appointment"
+  },
+  "DLF": {
+    "score": -0.1235,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Change in Auditors"
+  },
+  "PRESTIGE": {
+    "score": -0.0306,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Monitoring Agency Report"
+  },
+  "PHOENIXLTD": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ZYDUSLIFE": {
+    "score": -0.0541,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Cessation"
+  },
+  "LAURUSLABS": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "DEEPAKNTR": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "IOC": {
+    "score": -0.0162,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Credit Rating- New"
+  },
+  "WHIRLPOOL": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "SYMPHONY": {
+    "score": -0.038,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "TRENT": {
+    "score": -0.0282,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "MANYAVAR": {
+    "score": -0.0328,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "MAXHEALTH": {
+    "score": -0.041,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "MFSL": {
+    "score": -0.051,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  }
+}

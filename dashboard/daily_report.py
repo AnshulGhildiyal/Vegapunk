@@ -141,7 +141,21 @@ def print_report():
                 f"{t.get('days_held',0):>5}d "
                 f"{t.get('exit_reason',''):>15}"
             )
+    if len(daily_log) > 1:
+        print("\n  EQUITY CURVE (last 20 days):")
+        recent = daily_log[-20:]
+        max_val = max(d.get("portfolio_value", 500000) for d in recent)
+        min_val = min(d.get("portfolio_value", 500000) for d in recent)
+        val_range = max_val - min_val if max_val != min_val else 1
 
+        for entry in recent:
+            val = entry.get("portfolio_value", 500000)
+            ret = entry.get("total_return_pct", 0)
+            bar_len = int((val - min_val) / val_range * 30)
+            bar = "*" * bar_len
+            sign = "+" if ret >= 0 else ""
+            date_str = entry.get("date", "")[-5:]
+            print(f"  {date_str}  {bar:<30} {sign}{ret:.2f}%")
 
 if __name__ == "__main__":
     print_report()
