@@ -1,21 +1,7 @@
 {
-  "cash": 15790.25960168731,
+  "cash": 68052.289655312,
   "initial_capital": 500000,
   "positions": {
-    "CESC": {
-      "shares": 83,
-      "entry_price": 184.41000366210938,
-      "entry_date": "2026-05-10",
-      "direction": "LONG",
-      "win_prob": 0.5303
-    },
-    "DELHIVERY": {
-      "shares": 32,
-      "entry_price": 479.1000061035156,
-      "entry_date": "2026-05-10",
-      "direction": "LONG",
-      "win_prob": 0.5303
-    },
     "DRREDDY": {
       "shares": 11,
       "entry_price": 1293.9000244140625,
@@ -134,13 +120,6 @@
       "entry_date": "2026-05-14",
       "direction": "LONG",
       "win_prob": 0.7433
-    },
-    "IOC": {
-      "shares": 176,
-      "entry_price": 137.64999389648438,
-      "entry_date": "2026-05-14",
-      "direction": "LONG",
-      "win_prob": 0.7418
     },
     "MUTHOOTFIN": {
       "shares": 7,
@@ -1171,6 +1150,45 @@
       "costs": 44.84,
       "win_prob": 0.7372,
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-18",
+      "symbol": "CESC",
+      "direction": "LONG",
+      "entry_price": 184.41000366210938,
+      "exit_price": 176.39999389648438,
+      "shares": 83,
+      "pnl": -713.83,
+      "pnl_pct": -4.344,
+      "exit_reason": "stop_loss",
+      "days_held": 8,
+      "costs": 49.0
+    },
+    {
+      "date": "2026-05-18",
+      "symbol": "DELHIVERY",
+      "direction": "LONG",
+      "entry_price": 479.1000061035156,
+      "exit_price": 455.75,
+      "shares": 32,
+      "pnl": -796.1,
+      "pnl_pct": -4.874,
+      "exit_reason": "stop_loss",
+      "days_held": 8,
+      "costs": 48.9
+    },
+    {
+      "date": "2026-05-18",
+      "symbol": "IOC",
+      "direction": "LONG",
+      "entry_price": 137.64999389648438,
+      "exit_price": 131.80999755859375,
+      "shares": 176,
+      "pnl": -1091.68,
+      "pnl_pct": -4.243,
+      "exit_reason": "stop_loss",
+      "days_held": 4,
+      "costs": 63.84
     }
   ],
   "daily_log": [
@@ -1270,6 +1288,28 @@
       "entries_today": 0,
       "exits_today": 0,
       "total_return_pct": -1.715,
+      "circuit_breaker": "CLEAR",
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-18",
+      "portfolio_value": 491423.75,
+      "cash": 15790.26,
+      "n_positions": 22,
+      "entries_today": 0,
+      "exits_today": 0,
+      "total_return_pct": -1.715,
+      "circuit_breaker": "CLEAR",
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-18",
+      "portfolio_value": 487791.34,
+      "cash": 68052.29,
+      "n_positions": 19,
+      "entries_today": 0,
+      "exits_today": 3,
+      "total_return_pct": -2.442,
       "circuit_breaker": "CLEAR",
       "regime": "TRENDING"
     }
