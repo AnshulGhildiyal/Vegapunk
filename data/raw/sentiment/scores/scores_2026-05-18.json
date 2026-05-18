@@ -1,0 +1,107 @@
+{
+  "ICICIBANK": {
+    "score": -0.2457,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] ICICI Bank Share Price Down 2.21% As Bank Allots 8,906 Equity Shares Under ESUS 2022 - HDFC S"
+  },
+  "TATASTEEL": {
+    "score": -0.0339,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "DRREDDY": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "LUPIN": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "AUROPHARMA": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "GLENMARK": {
+    "score": 0.0651,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Glenmark Pharma stock gains 3% on launch novel COPD treatment; details here - Business Standa"
+  },
+  "APOLLOTYRE": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "HDFCAMC": {
+    "score": 0.2825,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Some Shareholders Feeling Restless Over HDFC Asset Management Company Limited's (NSE:HDFCAMC)"
+  },
+  "RECLTD": {
+    "score": -0.591,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "HUDCO": {
+    "score": -0.3591,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "MUTHOOTFIN": {
+    "score": -0.0321,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "PAYTM": {
+    "score": 0.0447,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Paytm stock down 2% after over 2% equity change hands in large deal on NSE - Business Standar"
+  },
+  "TATAPOWER": {
+    "score": -0.0354,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Tata Power Databricks Deal; Shares Slip Marginally - HDFC Sky"
+  },
+  "ADANIGREEN": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "JSWENERGY": {
+    "score": -0.0346,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] JSW Energy Shares Drop Up to 8% After Q4 Results Disappoint - HDFC Sky"
+  },
+  "NHPC": {
+    "score": -0.3591,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "ZYDUSLIFE": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "IOC": {
+    "score": -0.0162,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Credit Rating- New"
+  },
+  "SYMPHONY": {
+    "score": -0.038,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "TRENT": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "MAXHEALTH": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  }
+}

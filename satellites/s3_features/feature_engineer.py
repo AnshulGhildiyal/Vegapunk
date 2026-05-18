@@ -302,7 +302,7 @@ def build_feature_matrix(universe_df: pd.DataFrame, run_date: date) -> dict | No
         # Price-sentiment divergence: price went up but sentiment is negative = potential reversal
         full["price_sentiment_divergence"] = (
             full["ret_5d"].fillna(0) - full["raw_sentiment"].fillna(0)
-        )
+        ).clip(-2,2)
         logger.info(
             f"[S3] Sentiment wired: "
             f"{(full['raw_sentiment'] != 0).sum()} stocks with signals"
