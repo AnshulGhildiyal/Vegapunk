@@ -143,7 +143,14 @@ def print_report():
             )
     if len(daily_log) > 1:
         print("\n  EQUITY CURVE (last 20 days):")
-        recent = daily_log[-20:]
+        seen_dates = set()
+        unique_log = []
+        for entry in daily_log:
+            d = entry.get("date", "")
+            if d not in seen_dates:
+                seen_dates.add(d)
+                unique_log.append(entry)
+        recent = unique_log[-20:]
         max_val = max(d.get("portfolio_value", 500000) for d in recent)
         min_val = min(d.get("portfolio_value", 500000) for d in recent)
         val_range = max_val - min_val if max_val != min_val else 1
