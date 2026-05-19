@@ -1,7 +1,5 @@
 # 🛰️ VEGAPUNK
 
-![Vegapunk Banner](assets\Vegapunk.png)
-
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Regime--Conditional-orange)](https://xgboost.readthedocs.io)
 [![hmmlearn](https://img.shields.io/badge/hmmlearn-HMM%20Regime-green)](https://hmmlearn.readthedocs.io)
