@@ -206,4 +206,4 @@ s7:
 
 ---
 
-*Built by Anshul Ghildiyal — MCA candidate, UPES Dehradun (2026–2028)*
+*Built by Anshul Ghildiyal — MCA student, UPES Dehradun (2026–2028)*
