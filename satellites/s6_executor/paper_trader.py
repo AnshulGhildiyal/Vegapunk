@@ -178,6 +178,16 @@ class PaperTrader:
                 to_close.append(symbol)
                 exits.append(trade_record)
 
+                if exit_reason == "stop_loss":
+                    cooldown = self.state.get("cooldown_symbols", {})
+                    from datetime import timedelta
+                    cooldown_until = (
+                        pd.Timestamp(run_date) + pd.Timedelta(days=5)
+                    ).strftime("%Y-%m-%d")
+                    cooldown[symbol] = cooldown_until
+                    self.state["cooldown_symbols"] = cooldown
+                    logger.debug(f"[S6] {symbol} cooldown until {cooldown_until}")
+
                 logger.info(
                     f"[S6] EXIT {symbol}: {exit_reason} | "
                     f"P&L ₹{pnl:+,.0f} ({pnl_pct:+.1%}) | "
@@ -228,6 +238,18 @@ class PaperTrader:
                 continue
 
             if symbol in self.state["positions"]:
+                continue
+
+            cooldown = self.state.get("cooldown_symbols", {})
+            today_str = run_date
+            # Expire old cooldowns
+            cooldown = {s: d for s, d in cooldown.items() if d > today_str}
+            self.state["cooldown_symbols"] = cooldown
+            if symbol in cooldown:
+                logger.debug(
+                    f"[S6] {symbol} in cooldown until "
+                    f"{cooldown[symbol]} — skipping"
+                )
                 continue
 
         # Skip shorts in crisis or if not allowed
