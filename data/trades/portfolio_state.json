@@ -1,28 +1,7 @@
 {
-  "cash": 68052.289655312,
+  "cash": 5827.241531181752,
   "initial_capital": 500000,
   "positions": {
-    "DRREDDY": {
-      "shares": 11,
-      "entry_price": 1293.9000244140625,
-      "entry_date": "2026-05-10",
-      "direction": "LONG",
-      "win_prob": 0.5303
-    },
-    "DMART": {
-      "shares": 3,
-      "entry_price": 4402.10009765625,
-      "entry_date": "2026-05-10",
-      "direction": "LONG",
-      "win_prob": 0.5303
-    },
-    "M&M": {
-      "shares": 3,
-      "entry_price": 3330.39990234375,
-      "entry_date": "2026-05-10",
-      "direction": "SHORT",
-      "win_prob": 0.5255
-    },
     "TCS": {
       "shares": 10,
       "entry_price": 2300.300048828125,
@@ -134,6 +113,48 @@
       "entry_date": "2026-05-14",
       "direction": "LONG",
       "win_prob": 0.7372
+    },
+    "SJVN": {
+      "shares": 333,
+      "entry_price": 73.12999725341797,
+      "entry_date": "2026-05-20",
+      "direction": "LONG",
+      "win_prob": 0.9086
+    },
+    "JSWENERGY": {
+      "shares": 46,
+      "entry_price": 529.0499877929688,
+      "entry_date": "2026-05-20",
+      "direction": "LONG",
+      "win_prob": 0.8914
+    },
+    "IOC": {
+      "shares": 185,
+      "entry_price": 131.80999755859375,
+      "entry_date": "2026-05-20",
+      "direction": "LONG",
+      "win_prob": 0.868
+    },
+    "POWERGRID": {
+      "shares": 82,
+      "entry_price": 296.54998779296875,
+      "entry_date": "2026-05-20",
+      "direction": "LONG",
+      "win_prob": 0.8641
+    },
+    "POLICYBZR": {
+      "shares": 1,
+      "entry_price": 1748.300048828125,
+      "entry_date": "2026-05-20",
+      "direction": "SHORT",
+      "win_prob": 0.5049
+    },
+    "ITC": {
+      "shares": 1,
+      "entry_price": 310.1499938964844,
+      "entry_date": "2026-05-20",
+      "direction": "SHORT",
+      "win_prob": 0.5007
     }
   },
   "trade_log": [
@@ -1189,6 +1210,117 @@
       "exit_reason": "stop_loss",
       "days_held": 4,
       "costs": 63.84
+    },
+    {
+      "date": "2026-05-20",
+      "symbol": "DRREDDY",
+      "direction": "LONG",
+      "entry_price": 1293.9000244140625,
+      "exit_price": 1331.199951171875,
+      "shares": 11,
+      "pnl": 361.3,
+      "pnl_pct": 2.883,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 49.0
+    },
+    {
+      "date": "2026-05-20",
+      "symbol": "DMART",
+      "direction": "LONG",
+      "entry_price": 4402.10009765625,
+      "exit_price": 4304.7001953125,
+      "shares": 3,
+      "pnl": -338.2,
+      "pnl_pct": -2.213,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 46.0
+    },
+    {
+      "date": "2026-05-20",
+      "symbol": "M&M",
+      "direction": "SHORT",
+      "entry_price": 3330.39990234375,
+      "exit_price": 3083.699951171875,
+      "shares": 3,
+      "pnl": 708.32,
+      "pnl_pct": 7.408,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 31.78
+    },
+    {
+      "date": "2026-05-20",
+      "symbol": "SJVN",
+      "direction": "LONG",
+      "entry_price": 73.12999725341797,
+      "shares": 333,
+      "position_value": 24352.29,
+      "pct_of_capital": 4.99,
+      "costs": 45.14,
+      "win_prob": 0.9086,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-20",
+      "symbol": "JSWENERGY",
+      "direction": "LONG",
+      "entry_price": 529.0499877929688,
+      "shares": 46,
+      "position_value": 24336.3,
+      "pct_of_capital": 4.98,
+      "costs": 45.13,
+      "win_prob": 0.8914,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-20",
+      "symbol": "IOC",
+      "direction": "LONG",
+      "entry_price": 131.80999755859375,
+      "shares": 185,
+      "position_value": 24384.85,
+      "pct_of_capital": 4.99,
+      "costs": 45.17,
+      "win_prob": 0.868,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-20",
+      "symbol": "POWERGRID",
+      "direction": "LONG",
+      "entry_price": 296.54998779296875,
+      "shares": 82,
+      "position_value": 24317.1,
+      "pct_of_capital": 4.98,
+      "costs": 45.11,
+      "win_prob": 0.8641,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-20",
+      "symbol": "POLICYBZR",
+      "direction": "SHORT",
+      "entry_price": 1748.300048828125,
+      "shares": 1,
+      "position_value": 1748.3,
+      "pct_of_capital": 0.36,
+      "costs": 25.15,
+      "win_prob": 0.5049,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-20",
+      "symbol": "ITC",
+      "direction": "SHORT",
+      "entry_price": 310.1499938964844,
+      "shares": 1,
+      "position_value": 310.15,
+      "pct_of_capital": 0.06,
+      "costs": 23.87,
+      "win_prob": 0.5007,
+      "regime": "TRENDING"
     }
   ],
   "daily_log": [
@@ -1312,8 +1444,22 @@
       "total_return_pct": -2.442,
       "circuit_breaker": "CLEAR",
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-20",
+      "portfolio_value": 488206.88,
+      "cash": 5827.24,
+      "n_positions": 22,
+      "entries_today": 6,
+      "exits_today": 3,
+      "total_return_pct": -2.359,
+      "circuit_breaker": "CLEAR",
+      "regime": "TRENDING"
     }
   ],
   "peak_value": 507710.5900230467,
-  "circuit_breaker": "CLEAR"
+  "circuit_breaker": "CLEAR",
+  "cooldown_symbols": {
+    "IOC": "2026-05-23"
+  }
 }
