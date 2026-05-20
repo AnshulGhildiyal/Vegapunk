@@ -270,6 +270,11 @@ class PaperTrader:
             entry_exec = compute_costs(direction, shares, price, is_entry=True)
             cash_needed = shares * price + entry_exec.total_cost
 
+            min_position_value = 5000  # Minimum ₹5,000 per position
+            if shares * price < min_position_value:
+                logger.debug(f"[S6] {symbol} position too small ({shares*price:.0f}) — skipping")
+                continue
+
             if cash_needed > self.state["cash"]:
                 logger.warning(f"[S6] Insufficient cash for {symbol}")
                 continue
