@@ -16,15 +16,15 @@
 
 | Metric | Value |
 |--------|-------|
-| Portfolio | ₹4,87,791 |
-| Return | -2.44% (started May 4, 2026) |
-| Open Positions | 19 |
+| Portfolio | ₹4,88,207 |
+| Return | -2.36% (started May 4, 2026) |
+| Open Positions | 22 |
 | Regime | TRENDING (conf: 1.00) |
 | Directional Accuracy (10d) | 59.5% |
-| Max-Hold Win Rate | 41% |
-| Last Updated | 2026-05-18 |
+| Max-Hold Win Rate | 45% |
+| Last Updated | 2026-05-19 |
 
-> **Context:** -2.44% portfolio return reflects a May 12 black swan event (India-Pakistan military tensions + FII outflows). Nifty fell 8% in the same period. Excluding the stop-loss cascade from that single day, max-hold exit win rate is 41% with directional accuracy of 59.5%.
+> **Context:** -2.36% portfolio return reflects a May 12 black swan event (India-Pakistan military tensions + FII outflows). Nifty fell 8% in the same period. Excluding the stop-loss cascade from that single day, max-hold exit win rate is 41% with directional accuracy of 59.5%.
 
 ---
 
