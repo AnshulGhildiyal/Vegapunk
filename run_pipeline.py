@@ -196,7 +196,7 @@ def run_s5(run_date: str) -> dict:
         try:
             import subprocess
             retrain = subprocess.run(
-                ["python", "satellites/s4_forecaster/xgb_model.py"],
+                [sys.executable, "satellites/s4_forecaster/xgb_model.py"],
                 capture_output=True, text=True, timeout=300
             )
             if retrain.returncode == 0:
