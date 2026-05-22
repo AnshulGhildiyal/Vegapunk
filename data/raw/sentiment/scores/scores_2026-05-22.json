@@ -1,0 +1,392 @@
+{
+  "HDFCBANK": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "ICICIBANK": {
+    "score": -0.0145,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "ITC": {
+    "score": -0.0414,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "SBIN": {
+    "score": 0.0842,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] India Stock Market Today: Sensex, Nifty Slide Toward Correction as Oil Shock Hits Rupee and B"
+  },
+  "BHARTIARTL": {
+    "score": -0.2361,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Bharti Airtel shares fall over 3%, among top Nifty losers today after telco announces mega NB"
+  },
+  "AXISBANK": {
+    "score": 0.0873,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Earnings, rate cut hopes boost India's stock benchmarks to 3-month highs - Reuters"
+  },
+  "TITAN": {
+    "score": -0.0534,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Titan Shares Jump 6% as Strong Jewellery Sales Offset Profit Miss - HDFC Sky"
+  },
+  "WIPRO": {
+    "score": -0.2387,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Infosys, Persistent Systems, Wipro, other IT stocks fall up to 3% after two days of gains: He"
+  },
+  "NESTLEIND": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "NTPC": {
+    "score": -0.3352,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "POWERGRID": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "SUNPHARMA": {
+    "score": 0.0747,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Those who invested in Sun Pharmaceutical Industries (NSE:SUNPHARMA) five years ago are up 205"
+  },
+  "HCLTECH": {
+    "score": -0.0483,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TATASTEEL": {
+    "score": 0.0115,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Tata Steel Slumps 5% As Profit Miss And Europe Uncertainty Drag Stock - HDFC Sky"
+  },
+  "ADANIENT": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ADANIPORTS": {
+    "score": -0.0446,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "CIPLA": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "GRASIM": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "HEROMOTOCO": {
+    "score": 0.3627,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Investors in Hero MotoCorp (NSE:HEROMOTOCO) have seen stellar returns of 129% over the past t"
+  },
+  "HINDALCO": {
+    "score": 0.0216,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Hindalco Q4 Update; Shares Rise 3.49% As Novelis Flags Oswego Restart - HDFC Sky"
+  },
+  "INDUSINDBK": {
+    "score": -0.0334,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "JSWSTEEL": {
+    "score": -0.0419,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "M&M": {
+    "score": -0.0982,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] M&M, Eicher Motors, Bajaj Auto shares fall up to 2% amid Mexico's tariffs, profit booking - M"
+  },
+  "BPCL": {
+    "score": -0.1565,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] BPCL, Indian Oil, Asian Paints, JK Tyre: Oil-linked stocks slide as crude prices hover around"
+  },
+  "TATACONSUM": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "PIDILITIND": {
+    "score": -0.2002,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Pidilite, Infosys Lead Fall; Stocks Hit 52-Week Lows - HDFC Sky"
+  },
+  "HAVELLS": {
+    "score": -0.1162,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Q3 Results impact: Havells India shares drop 7% as profit misses estimates; Aarti Surfactants"
+  },
+  "BERGEPAINT": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "MARICO": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "DABUR": {
+    "score": -0.0542,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Acquisition"
+  },
+  "GODREJCP": {
+    "score": 0.0215,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] India Stock Market Today: Nifty Holds Green, Sensex Slips as Auto Stocks Ride Oil Relief - Te"
+  },
+  "COLPAL": {
+    "score": -0.0335,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Colgate-Palmolive (India)'s (NSE:COLPAL) investors will be pleased with their respectable 51%"
+  },
+  "TORNTPHARM": {
+    "score": 0.031,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Torrent Pharma Shares Price Jump 6.5% on 30% Profit Surge in Q2FY26 - HDFC Sky"
+  },
+  "LUPIN": {
+    "score": 0.0544,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Lupin FDA Nod for Pitolisant; Shares Edge Up 0.41% - HDFC Sky"
+  },
+  "BIOCON": {
+    "score": -0.039,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Biocon shares slip 4% amid heavy volumes; 9.58 mn shares traded on NSE - Business Standard"
+  },
+  "AUROPHARMA": {
+    "score": -0.0953,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] We Discuss Whether Aurobindo Pharma Limited's (NSE:AUROPHARMA) CEO Is Due For A Pay Rise - si"
+  },
+  "GLENMARK": {
+    "score": -0.0447,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Trading Window"
+  },
+  "CEATLTD": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "HDFCAMC": {
+    "score": -0.0351,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "ICICIPRULI": {
+    "score": -0.0179,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Rumour Verification - Regulation 30(11)"
+  },
+  "SBICARD": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "CHOLAFIN": {
+    "score": -0.0249,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Allotment of Securities"
+  },
+  "M&MFIN": {
+    "score": 0.1627,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] M&M Finance stock drops 8% on weak Q2 numbers; What should investors do? - Business Standard"
+  },
+  "LICHSGFIN": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "IRFC": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "INDIAMART": {
+    "score": -0.0451,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Declining Stock and Solid Fundamentals: Is The Market Wrong About IndiaMART InterMESH Limited"
+  },
+  "NAUKRI": {
+    "score": -0.136,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Change in Auditors"
+  },
+  "POLICYBZR": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "PAYTM": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "NYKAA": {
+    "score": 0.1277,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] SENSEX slumps 202 pts, NIFTY50 below 25,600 in noon deals; LIC, Nykaa among buzzing stocks - "
+  },
+  "DELHIVERY": {
+    "score": 0.2071,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Delhivery climbs nearly 5% in two sessions following September month update - Business Standa"
+  },
+  "IRCTC": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "TATAPOWER": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "JSWENERGY": {
+    "score": -0.0377,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "NHPC": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "SJVN": {
+    "score": 0.0762,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] SJVN Faces NSE & BSE Fine Over Board Non-Compliance | Govt Explains Delay - PSU Connect"
+  },
+  "GODREJPROP": {
+    "score": 0.2906,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Godrej Properties Ltd stock: Indian real estate developer reports strong quarterly sales grow"
+  },
+  "PRESTIGE": {
+    "score": -0.0265,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] IT sell-off impact: Prestige Estates, other real estate shares decline up to 6%, realty index"
+  },
+  "ZYDUSLIFE": {
+    "score": -0.0598,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "LAURUSLABS": {
+    "score": -0.041,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TATACHEM": {
+    "score": -0.1123,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Tata Chemicals Output Milestone; Shares Slip 3.22% - HDFC Sky"
+  },
+  "DEEPAKNTR": {
+    "score": 0.0848,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Deepak Nitrite Enhances Fluorination Capabilities | \u20b9176 Cr Infusion in DCTL - HDFC Sky"
+  },
+  "GNFC": {
+    "score": -0.0329,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "GAIL": {
+    "score": 0.0167,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Q4 Results: GAIL India Surges Nearly 3% to a 5-Session High - HDFC Sky"
+  },
+  "IOC": {
+    "score": -0.0325,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Investor Presentation"
+  },
+  "VEDL": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "HINDZINC": {
+    "score": 0.0385,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Hindustan Zinc Share Price Falls 4.7% Despite Tata Steel Pact - HDFC Sky"
+  },
+  "GUJGASLTD": {
+    "score": 0.23,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Gujarat Gas Issues Force Majeure Notice As Middle East Conflict Disrupts LNG Supply; Shares F"
+  },
+  "IGL": {
+    "score": 0.0335,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Indraprastha Gas (NSE:IGL) shareholders have endured a 25% loss from investing in the stock f"
+  },
+  "VOLTAS": {
+    "score": 0.0241,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Voltas shares decline 8% after Q1 profit slumps 58% YoY on weak AC sales - The Economic Times"
+  },
+  "WHIRLPOOL": {
+    "score": -0.1074,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Whirlpool Share Price Plunges Over 11% As Promoter Offloads Rs 1,000-Crore Stake - NDTV Profi"
+  },
+  "SYMPHONY": {
+    "score": -0.4084,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Symphony Share Price Today Down 7% - Equitymaster"
+  },
+  "RELAXO": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "MANYAVAR": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "CANFINHOME": {
+    "score": -0.0953,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Can Fin Homes Limited's (NSE:CANFINHOME) institutional investors lost 4.3% over the past week"
+  },
+  "MAXHEALTH": {
+    "score": -0.1113,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Change in Auditors"
+  },
+  "THYROCARE": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "MFSL": {
+    "score": 0.0158,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Max Financial Services Share Price Falls Over 2% After Board Approves \u20b92,000 Crore Fundraisin"
+  }
+}
