@@ -20,9 +20,9 @@
 | Return | +0.61% (started May 4, 2026) |
 | Open Positions | 22 |
 | Regime | TRENDING (conf: 1.00) |
-| Directional Accuracy (10d) | 54.35% |
+| Directional Accuracy (10d) | 56.66% |
 | Max-Hold Win Rate | 58% |
-| Last Updated | 2026-05-26 |
+| Last Updated | 2026-05-27 |
 
 > **Context:** +0.61% portfolio return — first time in positive territory since launch. Recovered from a May 12 black swan event (India-Pakistan military tensions + FII outflows) where Nifty fell 8%. Max-hold exit win rate stable at 58%. Directional accuracy recovering to 54.35%, above the 52% threshold.
 
