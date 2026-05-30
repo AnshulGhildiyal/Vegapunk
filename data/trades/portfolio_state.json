@@ -1,49 +1,7 @@
 {
-  "cash": 6969.2534799659625,
+  "cash": 13503.159624429427,
   "initial_capital": 500000,
   "positions": {
-    "SJVN": {
-      "shares": 333,
-      "entry_price": 73.12999725341797,
-      "entry_date": "2026-05-20",
-      "direction": "LONG",
-      "win_prob": 0.9086
-    },
-    "JSWENERGY": {
-      "shares": 46,
-      "entry_price": 529.0499877929688,
-      "entry_date": "2026-05-20",
-      "direction": "LONG",
-      "win_prob": 0.8914
-    },
-    "IOC": {
-      "shares": 185,
-      "entry_price": 131.80999755859375,
-      "entry_date": "2026-05-20",
-      "direction": "LONG",
-      "win_prob": 0.868
-    },
-    "POWERGRID": {
-      "shares": 82,
-      "entry_price": 296.54998779296875,
-      "entry_date": "2026-05-20",
-      "direction": "LONG",
-      "win_prob": 0.8641
-    },
-    "POLICYBZR": {
-      "shares": 1,
-      "entry_price": 1748.300048828125,
-      "entry_date": "2026-05-20",
-      "direction": "SHORT",
-      "win_prob": 0.5049
-    },
-    "ITC": {
-      "shares": 1,
-      "entry_price": 310.1499938964844,
-      "entry_date": "2026-05-20",
-      "direction": "SHORT",
-      "win_prob": 0.5007
-    },
     "GLENMARK": {
       "shares": 10,
       "entry_price": 2259.10009765625,
@@ -155,6 +113,34 @@
       "entry_date": "2026-05-24",
       "direction": "LONG",
       "win_prob": 0.6172
+    },
+    "FORTIS": {
+      "shares": 26,
+      "entry_price": 928.4500122070312,
+      "entry_date": "2026-05-30",
+      "direction": "LONG",
+      "win_prob": 0.7459
+    },
+    "RELIANCE": {
+      "shares": 18,
+      "entry_price": 1321.199951171875,
+      "entry_date": "2026-05-30",
+      "direction": "LONG",
+      "win_prob": 0.7077
+    },
+    "HDFCBANK": {
+      "shares": 33,
+      "entry_price": 744.5499877929688,
+      "entry_date": "2026-05-30",
+      "direction": "LONG",
+      "win_prob": 0.6993
+    },
+    "BATAINDIA": {
+      "shares": 37,
+      "entry_price": 668.9500122070312,
+      "entry_date": "2026-05-30",
+      "direction": "LONG",
+      "win_prob": 0.6869
     }
   },
   "trade_log": [
@@ -1721,6 +1707,132 @@
       "costs": 45.24,
       "win_prob": 0.6172,
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-30",
+      "symbol": "SJVN",
+      "direction": "LONG",
+      "entry_price": 73.12999725341797,
+      "exit_price": 75.16000366210938,
+      "shares": 333,
+      "pnl": 608.98,
+      "pnl_pct": 2.776,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 67.01
+    },
+    {
+      "date": "2026-05-30",
+      "symbol": "JSWENERGY",
+      "direction": "LONG",
+      "entry_price": 529.0499877929688,
+      "exit_price": 595.0499877929688,
+      "shares": 46,
+      "pnl": 2964.92,
+      "pnl_pct": 12.475,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 71.08
+    },
+    {
+      "date": "2026-05-30",
+      "symbol": "IOC",
+      "direction": "LONG",
+      "entry_price": 131.80999755859375,
+      "exit_price": 140.24000549316406,
+      "shares": 185,
+      "pnl": 1490.95,
+      "pnl_pct": 6.396,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 68.6
+    },
+    {
+      "date": "2026-05-30",
+      "symbol": "POWERGRID",
+      "direction": "LONG",
+      "entry_price": 296.54998779296875,
+      "exit_price": 290.54998779296875,
+      "shares": 82,
+      "pnl": -556.92,
+      "pnl_pct": -2.023,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 64.92
+    },
+    {
+      "date": "2026-05-30",
+      "symbol": "POLICYBZR",
+      "direction": "SHORT",
+      "entry_price": 1748.300048828125,
+      "exit_price": 1702.5,
+      "shares": 1,
+      "pnl": 20.69,
+      "pnl_pct": 2.62,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 25.11
+    },
+    {
+      "date": "2026-05-30",
+      "symbol": "ITC",
+      "direction": "SHORT",
+      "entry_price": 310.1499938964844,
+      "exit_price": 286.8999938964844,
+      "shares": 1,
+      "pnl": -0.6,
+      "pnl_pct": 7.496,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 23.85
+    },
+    {
+      "date": "2026-05-30",
+      "symbol": "FORTIS",
+      "direction": "LONG",
+      "entry_price": 928.4500122070312,
+      "shares": 26,
+      "position_value": 24139.7,
+      "pct_of_capital": 4.86,
+      "costs": 44.95,
+      "win_prob": 0.7459,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-30",
+      "symbol": "RELIANCE",
+      "direction": "LONG",
+      "entry_price": 1321.199951171875,
+      "shares": 18,
+      "position_value": 23781.6,
+      "pct_of_capital": 4.78,
+      "costs": 44.63,
+      "win_prob": 0.7077,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-30",
+      "symbol": "HDFCBANK",
+      "direction": "LONG",
+      "entry_price": 744.5499877929688,
+      "shares": 33,
+      "position_value": 24570.15,
+      "pct_of_capital": 4.94,
+      "costs": 45.33,
+      "win_prob": 0.6993,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-30",
+      "symbol": "BATAINDIA",
+      "direction": "LONG",
+      "entry_price": 668.9500122070312,
+      "shares": 37,
+      "position_value": 24751.15,
+      "pct_of_capital": 4.98,
+      "costs": 45.49,
+      "win_prob": 0.6869,
+      "regime": "TRENDING"
     }
   ],
   "daily_log": [
@@ -1952,6 +2064,17 @@
       "entries_today": 0,
       "exits_today": 0,
       "total_return_pct": 0.608,
+      "circuit_breaker": "CLEAR",
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-05-30",
+      "portfolio_value": 496855.95,
+      "cash": 13503.16,
+      "n_positions": 20,
+      "entries_today": 4,
+      "exits_today": 6,
+      "total_return_pct": -0.629,
       "circuit_breaker": "CLEAR",
       "regime": "TRENDING"
     }
