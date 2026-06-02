@@ -1,35 +1,7 @@
 {
-  "cash": 13503.159624429427,
+  "cash": 5785.198077214362,
   "initial_capital": 500000,
   "positions": {
-    "GLENMARK": {
-      "shares": 10,
-      "entry_price": 2259.10009765625,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.784
-    },
-    "DEEPAKNTR": {
-      "shares": 14,
-      "entry_price": 1739.800048828125,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.7105
-    },
-    "ICICIPRULI": {
-      "shares": 47,
-      "entry_price": 520.0499877929688,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.7103
-    },
-    "HINDUNILVR": {
-      "shares": 11,
-      "entry_price": 2203.60009765625,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.7075
-    },
     "BRIGADE": {
       "shares": 36,
       "entry_price": 672.1500244140625,
@@ -71,20 +43,6 @@
       "entry_date": "2026-05-24",
       "direction": "LONG",
       "win_prob": 0.6435
-    },
-    "LALPATHLAB": {
-      "shares": 15,
-      "entry_price": 1630.0999755859375,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.6416
-    },
-    "COROMANDEL": {
-      "shares": 13,
-      "entry_price": 1819.4000244140625,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.6372
     },
     "MUTHOOTFIN": {
       "shares": 7,
@@ -141,6 +99,48 @@
       "entry_date": "2026-05-30",
       "direction": "LONG",
       "win_prob": 0.6869
+    },
+    "BAJFINANCE": {
+      "shares": 27,
+      "entry_price": 878.0,
+      "entry_date": "2026-06-02",
+      "direction": "LONG",
+      "win_prob": 0.8695
+    },
+    "HDFCAMC": {
+      "shares": 9,
+      "entry_price": 2570.800048828125,
+      "entry_date": "2026-06-02",
+      "direction": "LONG",
+      "win_prob": 0.8431
+    },
+    "MANYAVAR": {
+      "shares": 61,
+      "entry_price": 397.25,
+      "entry_date": "2026-06-02",
+      "direction": "LONG",
+      "win_prob": 0.8354
+    },
+    "NTPC": {
+      "shares": 66,
+      "entry_price": 365.8999938964844,
+      "entry_date": "2026-06-02",
+      "direction": "LONG",
+      "win_prob": 0.8346
+    },
+    "PFC": {
+      "shares": 59,
+      "entry_price": 413.1499938964844,
+      "entry_date": "2026-06-02",
+      "direction": "LONG",
+      "win_prob": 0.8236
+    },
+    "CONCOR": {
+      "shares": 53,
+      "entry_price": 458.1000061035156,
+      "entry_date": "2026-06-02",
+      "direction": "LONG",
+      "win_prob": 0.8225
     }
   },
   "trade_log": [
@@ -1833,6 +1833,156 @@
       "costs": 45.49,
       "win_prob": 0.6869,
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "GLENMARK",
+      "direction": "LONG",
+      "entry_price": 2259.10009765625,
+      "exit_price": 2166.89990234375,
+      "shares": 10,
+      "pnl": -983.19,
+      "pnl_pct": -4.081,
+      "exit_reason": "stop_loss",
+      "days_held": 9,
+      "costs": 61.18
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "DEEPAKNTR",
+      "direction": "LONG",
+      "entry_price": 1739.800048828125,
+      "exit_price": 1667.5999755859375,
+      "shares": 14,
+      "pnl": -1074.9,
+      "pnl_pct": -4.15,
+      "exit_reason": "stop_loss",
+      "days_held": 9,
+      "costs": 64.09
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "ICICIPRULI",
+      "direction": "LONG",
+      "entry_price": 520.0499877929688,
+      "exit_price": 483.8999938964844,
+      "shares": 47,
+      "pnl": -1762.1,
+      "pnl_pct": -6.951,
+      "exit_reason": "stop_loss",
+      "days_held": 9,
+      "costs": 63.05
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "HINDUNILVR",
+      "direction": "LONG",
+      "entry_price": 2203.60009765625,
+      "exit_price": 2083.89990234375,
+      "shares": 11,
+      "pnl": -1380.06,
+      "pnl_pct": -5.432,
+      "exit_reason": "stop_loss",
+      "days_held": 9,
+      "costs": 63.36
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "LALPATHLAB",
+      "direction": "LONG",
+      "entry_price": 1630.0999755859375,
+      "exit_price": 1564.699951171875,
+      "shares": 15,
+      "pnl": -1045.31,
+      "pnl_pct": -4.012,
+      "exit_reason": "stop_loss",
+      "days_held": 9,
+      "costs": 64.31
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "COROMANDEL",
+      "direction": "LONG",
+      "entry_price": 1819.4000244140625,
+      "exit_price": 1742.9000244140625,
+      "shares": 13,
+      "pnl": -1057.4,
+      "pnl_pct": -4.205,
+      "exit_reason": "stop_loss",
+      "days_held": 9,
+      "costs": 62.9
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "BAJFINANCE",
+      "direction": "LONG",
+      "entry_price": 878.0,
+      "shares": 27,
+      "position_value": 23706.0,
+      "pct_of_capital": 4.84,
+      "costs": 44.57,
+      "win_prob": 0.8695,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "HDFCAMC",
+      "direction": "LONG",
+      "entry_price": 2570.800048828125,
+      "shares": 9,
+      "position_value": 23137.2,
+      "pct_of_capital": 4.72,
+      "costs": 44.06,
+      "win_prob": 0.8431,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "MANYAVAR",
+      "direction": "LONG",
+      "entry_price": 397.25,
+      "shares": 61,
+      "position_value": 24232.25,
+      "pct_of_capital": 4.95,
+      "costs": 45.03,
+      "win_prob": 0.8354,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "NTPC",
+      "direction": "LONG",
+      "entry_price": 365.8999938964844,
+      "shares": 66,
+      "position_value": 24149.4,
+      "pct_of_capital": 4.93,
+      "costs": 44.96,
+      "win_prob": 0.8346,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "PFC",
+      "direction": "LONG",
+      "entry_price": 413.1499938964844,
+      "shares": 59,
+      "position_value": 24375.85,
+      "pct_of_capital": 4.98,
+      "costs": 45.16,
+      "win_prob": 0.8236,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-02",
+      "symbol": "CONCOR",
+      "direction": "LONG",
+      "entry_price": 458.1000061035156,
+      "shares": 53,
+      "position_value": 24279.3,
+      "pct_of_capital": 4.96,
+      "costs": 45.08,
+      "win_prob": 0.8225,
+      "regime": "TRENDING"
     }
   ],
   "daily_log": [
@@ -2077,9 +2227,27 @@
       "total_return_pct": -0.629,
       "circuit_breaker": "CLEAR",
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-02",
+      "portfolio_value": 489494.01,
+      "cash": 5785.2,
+      "n_positions": 20,
+      "entries_today": 6,
+      "exits_today": 6,
+      "total_return_pct": -2.101,
+      "circuit_breaker": "CLEAR",
+      "regime": "TRENDING"
     }
   ],
   "peak_value": 507710.5900230467,
   "circuit_breaker": "CLEAR",
-  "cooldown_symbols": {}
+  "cooldown_symbols": {
+    "GLENMARK": "2026-06-07",
+    "DEEPAKNTR": "2026-06-07",
+    "ICICIPRULI": "2026-06-07",
+    "HINDUNILVR": "2026-06-07",
+    "LALPATHLAB": "2026-06-07",
+    "COROMANDEL": "2026-06-07"
+  }
 }

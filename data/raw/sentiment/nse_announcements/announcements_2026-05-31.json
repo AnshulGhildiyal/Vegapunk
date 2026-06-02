@@ -1,0 +1,793 @@
+[
+  {
+    "symbol": "UNIVPHOTO",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AHLADA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FISCHER",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SOMATEX",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RACE",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GENESYS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SURAJEST",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SURAJEST",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AGROPHOS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EQUIPPP",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "FEDERALBNK",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HEXT",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUVIDHAA",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JSLL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CYBERTECH",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CYBERTECH",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ZYDUSLIFE",
+    "headline": "Buyback",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "headline": "Resignation of Director/KMP/SMP",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEESHO",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEESHO",
+    "headline": "ESOP/ESOS/ESPS",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CENTRALBK",
+    "headline": "Retirement",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "THOMASCOTT",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CAPTRUST",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "POWERGRID",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MARATHON",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NEULANDLAB",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "YESBANK",
+    "headline": "Resignation of Director/KMP/SMP",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "YESBANK",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RMC",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TITAGARH",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NATIONALUM",
+    "headline": "Cessation",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NLCINDIA",
+    "headline": "Retirement",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TITAGARH",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MRF",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BBTCL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MEDPLUS",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HOMEFIRST",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ROLLT",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "PRAXIS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TENNIND",
+    "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CUB",
+    "headline": "Shareholders meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SEAMECLTD",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VIRINCHI",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "XELPMOC",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NCC",
+    "headline": "Bagging/Receiving of orders/contracts",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MGL",
+    "headline": "Retirement",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VERTOZ",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RPPL",
+    "headline": "Resignation of Director/KMP/SMP",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "LANCORHOL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RPPL",
+    "headline": "Change in Company Secretary/Compliance Officer",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RPPL",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VERTOZ",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VERANDA",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NAUKRI",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DBREALTY",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "URAVIDEF",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JKIPL",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DSSL",
+    "headline": "Press Release (Revised)",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MINDACORP",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "NIBE",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HGS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SEAMECLTD",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HITECHGEAR",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AEGISLOG",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DPSCLTD",
+    "headline": "Resignation of Director/KMP/SMP",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "MMTC",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DPSCLTD",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VISHNU",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DPSCLTD",
+    "headline": "Resignation",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CPCAP",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "BEDMUTHA",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RAJESHEXPO",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DPSCLTD",
+    "headline": "Corporate Insolvency Resolution Process",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DPSCLTD",
+    "headline": "Corporate Insolvency Resolution Process",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JYOTICNC",
+    "headline": "Action(s) taken or orders passed",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RMC",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "USK",
+    "headline": "Trading Window",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SONAMLTD",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TARC",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "OPTIEMUS",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CTE",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AHLADA",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EASEMYTRIP",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CTE",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "AHLADA",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EASEMYTRIP",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CTE",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CTE",
+    "headline": "Change in Auditors",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CTE",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TENNIND",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TALWALKARS",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "EASEMYTRIP",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SADBHAV",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SADBHAV",
+    "headline": "Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SADBHAV",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SADBHAV",
+    "headline": "Appointment",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SADBHAV",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TENNIND",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TENNIND",
+    "headline": "Change in Management",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SADBHAV",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HGM",
+    "headline": "Disclosure of material issue",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SURAJEST",
+    "headline": "Press Release",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "RMDRIP",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SPCENET",
+    "headline": "General Updates",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SHAH",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SPCENET",
+    "headline": "Copy of Newspaper Publication",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VASWANI",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "DBOL",
+    "headline": "Investor Presentation",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "VASWANI",
+    "headline": "Outcome of Board Meeting",
+    "category": "",
+    "date": "2026-05-31",
+    "exchange": "NSE"
+  }
+]
