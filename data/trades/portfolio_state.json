@@ -1,77 +1,7 @@
 {
-  "cash": 5785.198077214362,
+  "cash": 3106.4958777634456,
   "initial_capital": 500000,
   "positions": {
-    "BRIGADE": {
-      "shares": 36,
-      "entry_price": 672.1500244140625,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.6958
-    },
-    "GNFC": {
-      "shares": 49,
-      "entry_price": 506.6000061035156,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.6525
-    },
-    "GRANULES": {
-      "shares": 33,
-      "entry_price": 751.9500122070312,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.6489
-    },
-    "THYROCARE": {
-      "shares": 53,
-      "entry_price": 465.8500061035156,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.647
-    },
-    "TATASTEEL": {
-      "shares": 118,
-      "entry_price": 209.19000244140625,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.6458
-    },
-    "GAIL": {
-      "shares": 154,
-      "entry_price": 160.77000427246094,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.6435
-    },
-    "MUTHOOTFIN": {
-      "shares": 7,
-      "entry_price": 3296.699951171875,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.6187
-    },
-    "SUNPHARMA": {
-      "shares": 13,
-      "entry_price": 1844.5999755859375,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.6174
-    },
-    "VOLTAS": {
-      "shares": 19,
-      "entry_price": 1268.0999755859375,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.6173
-    },
-    "SHRIRAMFIN": {
-      "shares": 26,
-      "entry_price": 941.0,
-      "entry_date": "2026-05-24",
-      "direction": "LONG",
-      "win_prob": 0.6172
-    },
     "FORTIS": {
       "shares": 26,
       "entry_price": 928.4500122070312,
@@ -141,6 +71,83 @@
       "entry_date": "2026-06-02",
       "direction": "LONG",
       "win_prob": 0.8225
+    },
+    "PHOENIXLTD": {
+      "shares": 14,
+      "entry_price": 1711.9000244140625,
+      "entry_date": "2026-06-03",
+      "direction": "LONG",
+      "win_prob": 0.8213
+    },
+    "COLPAL": {
+      "shares": 12,
+      "entry_price": 1991.300048828125,
+      "entry_date": "2026-06-03",
+      "direction": "LONG",
+      "win_prob": 0.8176
+    },
+    "DELHIVERY": {
+      "shares": 56,
+      "entry_price": 431.8999938964844,
+      "entry_date": "2026-06-03",
+      "direction": "LONG",
+      "win_prob": 0.8167
+    },
+    "DABUR": {
+      "shares": 57,
+      "entry_price": 422.5,
+      "entry_date": "2026-06-03",
+      "direction": "LONG",
+      "win_prob": 0.816
+    },
+    "GODREJCP": {
+      "shares": 24,
+      "entry_price": 986.5,
+      "entry_date": "2026-06-03",
+      "direction": "LONG",
+      "win_prob": 0.8154
+    },
+    "SUNPHARMA": {
+      "shares": 13,
+      "entry_price": 1790.9000244140625,
+      "entry_date": "2026-06-03",
+      "direction": "LONG",
+      "win_prob": 0.8119
+    },
+    "NESTLEIND": {
+      "shares": 17,
+      "entry_price": 1378.800048828125,
+      "entry_date": "2026-06-03",
+      "direction": "LONG",
+      "win_prob": 0.8119
+    },
+    "HAVELLS": {
+      "shares": 20,
+      "entry_price": 1173.0999755859375,
+      "entry_date": "2026-06-03",
+      "direction": "LONG",
+      "win_prob": 0.8059
+    },
+    "BIOCON": {
+      "shares": 58,
+      "entry_price": 414.75,
+      "entry_date": "2026-06-03",
+      "direction": "LONG",
+      "win_prob": 0.8034
+    },
+    "POLICYBZR": {
+      "shares": 13,
+      "entry_price": 1634.5,
+      "entry_date": "2026-06-03",
+      "direction": "SHORT",
+      "win_prob": 0.5449
+    },
+    "TECHM": {
+      "shares": 6,
+      "entry_price": 1578.5,
+      "entry_date": "2026-06-03",
+      "direction": "SHORT",
+      "win_prob": 0.5206
     }
   },
   "trade_log": [
@@ -1983,6 +1990,268 @@
       "costs": 45.08,
       "win_prob": 0.8225,
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "BRIGADE",
+      "direction": "LONG",
+      "entry_price": 672.1500244140625,
+      "exit_price": 648.3499755859375,
+      "shares": 36,
+      "pnl": -920.89,
+      "pnl_pct": -3.541,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 64.08
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "GNFC",
+      "direction": "LONG",
+      "entry_price": 506.6000061035156,
+      "exit_price": 501.79998779296875,
+      "shares": 49,
+      "pnl": -301.45,
+      "pnl_pct": -0.947,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 66.25
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "GRANULES",
+      "direction": "LONG",
+      "entry_price": 751.9500122070312,
+      "exit_price": 771.9500122070312,
+      "shares": 33,
+      "pnl": 592.21,
+      "pnl_pct": 2.66,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 67.79
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "THYROCARE",
+      "direction": "LONG",
+      "entry_price": 465.8500061035156,
+      "exit_price": 505.45001220703125,
+      "shares": 53,
+      "pnl": 2028.74,
+      "pnl_pct": 8.501,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 70.07
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "TATASTEEL",
+      "direction": "LONG",
+      "entry_price": 209.19000244140625,
+      "exit_price": 211.2100067138672,
+      "shares": 118,
+      "pnl": 171.53,
+      "pnl_pct": 0.966,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 66.83
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "GAIL",
+      "direction": "LONG",
+      "entry_price": 160.77000427246094,
+      "exit_price": 162.6699981689453,
+      "shares": 154,
+      "pnl": 225.55,
+      "pnl_pct": 1.182,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 67.05
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "MUTHOOTFIN",
+      "direction": "LONG",
+      "entry_price": 3296.699951171875,
+      "exit_price": 3231.800048828125,
+      "shares": 7,
+      "pnl": -517.14,
+      "pnl_pct": -1.969,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 62.84
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "SUNPHARMA",
+      "direction": "LONG",
+      "entry_price": 1844.5999755859375,
+      "exit_price": 1790.9000244140625,
+      "shares": 13,
+      "pnl": -762.08,
+      "pnl_pct": -2.911,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 63.98
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "VOLTAS",
+      "direction": "LONG",
+      "entry_price": 1268.0999755859375,
+      "exit_price": 1233.5999755859375,
+      "shares": 19,
+      "pnl": -719.75,
+      "pnl_pct": -2.721,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 64.25
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "SHRIRAMFIN",
+      "direction": "LONG",
+      "entry_price": 941.0,
+      "exit_price": 912.0,
+      "shares": 26,
+      "pnl": -818.73,
+      "pnl_pct": -3.082,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 64.73
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "PHOENIXLTD",
+      "direction": "LONG",
+      "entry_price": 1711.9000244140625,
+      "shares": 14,
+      "position_value": 23966.6,
+      "pct_of_capital": 4.9,
+      "costs": 44.8,
+      "win_prob": 0.8213,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "COLPAL",
+      "direction": "LONG",
+      "entry_price": 1991.300048828125,
+      "shares": 12,
+      "position_value": 23895.6,
+      "pct_of_capital": 4.89,
+      "costs": 44.74,
+      "win_prob": 0.8176,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "DELHIVERY",
+      "direction": "LONG",
+      "entry_price": 431.8999938964844,
+      "shares": 56,
+      "position_value": 24186.4,
+      "pct_of_capital": 4.95,
+      "costs": 44.99,
+      "win_prob": 0.8167,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "DABUR",
+      "direction": "LONG",
+      "entry_price": 422.5,
+      "shares": 57,
+      "position_value": 24082.5,
+      "pct_of_capital": 4.93,
+      "costs": 44.9,
+      "win_prob": 0.816,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "GODREJCP",
+      "direction": "LONG",
+      "entry_price": 986.5,
+      "shares": 24,
+      "position_value": 23676.0,
+      "pct_of_capital": 4.84,
+      "costs": 44.54,
+      "win_prob": 0.8154,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "SUNPHARMA",
+      "direction": "LONG",
+      "entry_price": 1790.9000244140625,
+      "shares": 13,
+      "position_value": 23281.7,
+      "pct_of_capital": 4.76,
+      "costs": 44.19,
+      "win_prob": 0.8119,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "NESTLEIND",
+      "direction": "LONG",
+      "entry_price": 1378.800048828125,
+      "shares": 17,
+      "position_value": 23439.6,
+      "pct_of_capital": 4.79,
+      "costs": 44.33,
+      "win_prob": 0.8119,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "HAVELLS",
+      "direction": "LONG",
+      "entry_price": 1173.0999755859375,
+      "shares": 20,
+      "position_value": 23462.0,
+      "pct_of_capital": 4.8,
+      "costs": 44.35,
+      "win_prob": 0.8059,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "BIOCON",
+      "direction": "LONG",
+      "entry_price": 414.75,
+      "shares": 58,
+      "position_value": 24055.5,
+      "pct_of_capital": 4.92,
+      "costs": 44.88,
+      "win_prob": 0.8034,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "POLICYBZR",
+      "direction": "SHORT",
+      "entry_price": 1634.5,
+      "shares": 13,
+      "position_value": 21248.5,
+      "pct_of_capital": 4.35,
+      "costs": 42.39,
+      "win_prob": 0.5449,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "symbol": "TECHM",
+      "direction": "SHORT",
+      "entry_price": 1578.5,
+      "shares": 6,
+      "position_value": 9471.0,
+      "pct_of_capital": 1.94,
+      "costs": 31.98,
+      "win_prob": 0.5206,
+      "regime": "TRENDING"
     }
   ],
   "daily_log": [
@@ -2236,6 +2505,17 @@
       "entries_today": 6,
       "exits_today": 6,
       "total_return_pct": -2.101,
+      "circuit_breaker": "CLEAR",
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-03",
+      "portfolio_value": 488360.05,
+      "cash": 3106.5,
+      "n_positions": 21,
+      "entries_today": 11,
+      "exits_today": 10,
+      "total_return_pct": -2.328,
       "circuit_breaker": "CLEAR",
       "regime": "TRENDING"
     }
