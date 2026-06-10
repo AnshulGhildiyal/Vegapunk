@@ -1,48 +1,13 @@
 {
-  "cash": 3106.4958777634456,
+  "cash": 2255.830706292407,
   "initial_capital": 500000,
   "positions": {
-    "FORTIS": {
-      "shares": 26,
-      "entry_price": 928.4500122070312,
-      "entry_date": "2026-05-30",
-      "direction": "LONG",
-      "win_prob": 0.7459
-    },
-    "RELIANCE": {
-      "shares": 18,
-      "entry_price": 1321.199951171875,
-      "entry_date": "2026-05-30",
-      "direction": "LONG",
-      "win_prob": 0.7077
-    },
-    "HDFCBANK": {
-      "shares": 33,
-      "entry_price": 744.5499877929688,
-      "entry_date": "2026-05-30",
-      "direction": "LONG",
-      "win_prob": 0.6993
-    },
-    "BATAINDIA": {
-      "shares": 37,
-      "entry_price": 668.9500122070312,
-      "entry_date": "2026-05-30",
-      "direction": "LONG",
-      "win_prob": 0.6869
-    },
     "BAJFINANCE": {
       "shares": 27,
       "entry_price": 878.0,
       "entry_date": "2026-06-02",
       "direction": "LONG",
       "win_prob": 0.8695
-    },
-    "HDFCAMC": {
-      "shares": 9,
-      "entry_price": 2570.800048828125,
-      "entry_date": "2026-06-02",
-      "direction": "LONG",
-      "win_prob": 0.8431
     },
     "MANYAVAR": {
       "shares": 61,
@@ -148,6 +113,41 @@
       "entry_date": "2026-06-03",
       "direction": "SHORT",
       "win_prob": 0.5206
+    },
+    "HDFCLIFE": {
+      "shares": 44,
+      "entry_price": 549.5499877929688,
+      "entry_date": "2026-06-10",
+      "direction": "LONG",
+      "win_prob": 0.7923
+    },
+    "UPL": {
+      "shares": 39,
+      "entry_price": 611.0,
+      "entry_date": "2026-06-10",
+      "direction": "LONG",
+      "win_prob": 0.7844
+    },
+    "TATASTEEL": {
+      "shares": 122,
+      "entry_price": 199.30999755859375,
+      "entry_date": "2026-06-10",
+      "direction": "LONG",
+      "win_prob": 0.7813
+    },
+    "AAVAS": {
+      "shares": 18,
+      "entry_price": 1299.5999755859375,
+      "entry_date": "2026-06-10",
+      "direction": "LONG",
+      "win_prob": 0.7805
+    },
+    "SBILIFE": {
+      "shares": 14,
+      "entry_price": 1728.699951171875,
+      "entry_date": "2026-06-10",
+      "direction": "LONG",
+      "win_prob": 0.7796
     }
   },
   "trade_log": [
@@ -2252,6 +2252,131 @@
       "costs": 31.98,
       "win_prob": 0.5206,
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-10",
+      "symbol": "FORTIS",
+      "direction": "LONG",
+      "entry_price": 928.4500122070312,
+      "exit_price": 989.0,
+      "shares": 26,
+      "pnl": 1506.1,
+      "pnl_pct": 6.522,
+      "exit_reason": "max_hold_period",
+      "days_held": 11,
+      "costs": 68.2
+    },
+    {
+      "date": "2026-06-10",
+      "symbol": "RELIANCE",
+      "direction": "LONG",
+      "entry_price": 1321.199951171875,
+      "exit_price": 1258.800048828125,
+      "shares": 18,
+      "pnl": -1186.1,
+      "pnl_pct": -4.723,
+      "exit_reason": "stop_loss",
+      "days_held": 11,
+      "costs": 62.9
+    },
+    {
+      "date": "2026-06-10",
+      "symbol": "HDFCBANK",
+      "direction": "LONG",
+      "entry_price": 744.5499877929688,
+      "exit_price": 746.8499755859375,
+      "shares": 33,
+      "pnl": 9.55,
+      "pnl_pct": 0.309,
+      "exit_reason": "max_hold_period",
+      "days_held": 11,
+      "costs": 66.35
+    },
+    {
+      "date": "2026-06-10",
+      "symbol": "BATAINDIA",
+      "direction": "LONG",
+      "entry_price": 668.9500122070312,
+      "exit_price": 664.0499877929688,
+      "shares": 37,
+      "pnl": -247.52,
+      "pnl_pct": -0.732,
+      "exit_reason": "max_hold_period",
+      "days_held": 11,
+      "costs": 66.22
+    },
+    {
+      "date": "2026-06-10",
+      "symbol": "HDFCAMC",
+      "direction": "LONG",
+      "entry_price": 2570.800048828125,
+      "exit_price": 2447.800048828125,
+      "shares": 9,
+      "pnl": -1168.81,
+      "pnl_pct": -4.785,
+      "exit_reason": "stop_loss",
+      "days_held": 8,
+      "costs": 61.81
+    },
+    {
+      "date": "2026-06-10",
+      "symbol": "HDFCLIFE",
+      "direction": "LONG",
+      "entry_price": 549.5499877929688,
+      "shares": 44,
+      "position_value": 24180.2,
+      "pct_of_capital": 4.95,
+      "costs": 44.99,
+      "win_prob": 0.7923,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-10",
+      "symbol": "UPL",
+      "direction": "LONG",
+      "entry_price": 611.0,
+      "shares": 39,
+      "position_value": 23829.0,
+      "pct_of_capital": 4.88,
+      "costs": 44.68,
+      "win_prob": 0.7844,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-10",
+      "symbol": "TATASTEEL",
+      "direction": "LONG",
+      "entry_price": 199.30999755859375,
+      "shares": 122,
+      "position_value": 24315.82,
+      "pct_of_capital": 4.98,
+      "costs": 45.11,
+      "win_prob": 0.7813,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-10",
+      "symbol": "AAVAS",
+      "direction": "LONG",
+      "entry_price": 1299.5999755859375,
+      "shares": 18,
+      "position_value": 23392.8,
+      "pct_of_capital": 4.79,
+      "costs": 44.29,
+      "win_prob": 0.7805,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-10",
+      "symbol": "SBILIFE",
+      "direction": "LONG",
+      "entry_price": 1728.699951171875,
+      "shares": 14,
+      "position_value": 24201.8,
+      "pct_of_capital": 4.95,
+      "costs": 45.01,
+      "win_prob": 0.7796,
+      "regime": "TRENDING"
     }
   ],
   "daily_log": [
@@ -2562,16 +2687,23 @@
       "total_return_pct": -2.141,
       "circuit_breaker": "CLEAR",
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-10",
+      "portfolio_value": 488452.3,
+      "cash": 2255.83,
+      "n_positions": 21,
+      "entries_today": 5,
+      "exits_today": 5,
+      "total_return_pct": -2.31,
+      "circuit_breaker": "CLEAR",
+      "regime": "TRENDING"
     }
   ],
   "peak_value": 507710.5900230467,
   "circuit_breaker": "CLEAR",
   "cooldown_symbols": {
-    "GLENMARK": "2026-06-07",
-    "DEEPAKNTR": "2026-06-07",
-    "ICICIPRULI": "2026-06-07",
-    "HINDUNILVR": "2026-06-07",
-    "LALPATHLAB": "2026-06-07",
-    "COROMANDEL": "2026-06-07"
+    "RELIANCE": "2026-06-15",
+    "HDFCAMC": "2026-06-15"
   }
 }

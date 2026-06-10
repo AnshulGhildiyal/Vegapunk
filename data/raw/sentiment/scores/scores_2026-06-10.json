@@ -1,0 +1,372 @@
+{
+  "RELIANCE": {
+    "score": -0.0419,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Reliance Industries shares slump 4%, m-cap slips by around \u20b980,000 crore in a single day; che"
+  },
+  "TCS": {
+    "score": -0.0444,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "ICICIBANK": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "BHARTIARTL": {
+    "score": -0.2522,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Bharti Airtel shares fall over 3%, among top Nifty losers today after telco announces mega NB"
+  },
+  "KOTAKBANK": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "LT": {
+    "score": -0.0386,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "AXISBANK": {
+    "score": -0.0164,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ASIANPAINT": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "TITAN": {
+    "score": -0.0505,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BAJFINANCE": {
+    "score": 0.2079,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Investors in Bajaj Finance (NSE:BAJFINANCE) have seen decent returns of 99% over the past fiv"
+  },
+  "WIPRO": {
+    "score": -0.3866,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Infosys, Persistent Systems, Wipro, other IT stocks fall up to 3% after two days of gains: He"
+  },
+  "NESTLEIND": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "NTPC": {
+    "score": -0.3399,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "HCLTECH": {
+    "score": -0.0563,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TATASTEEL": {
+    "score": -0.037,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "ADANIENT": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "ADANIPORTS": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BAJAJFINSV": {
+    "score": -0.2215,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "DRREDDY": {
+    "score": -0.0535,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Dr. Reddy\u2019s Q4 results: Firm sees steep fall of 86% in net profit, revenue slips to \u20b97,546 cr"
+  },
+  "CIPLA": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "GRASIM": {
+    "score": -0.0354,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Outcome of Board Meeting"
+  },
+  "HINDALCO": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "INDUSINDBK": {
+    "score": -0.0584,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Cessation"
+  },
+  "JSWSTEEL": {
+    "score": -0.051,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "M&M": {
+    "score": -0.0313,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "BPCL": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "SBILIFE": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "HAVELLS": {
+    "score": -0.1017,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Q3 Results impact: Havells India shares drop 7% as profit misses estimates; Aarti Surfactants"
+  },
+  "BERGEPAINT": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "MARICO": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "DABUR": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "COLPAL": {
+    "score": -0.3948,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Colgate Palmolive shares fall nearly 4% today after Q2 results, brokerages divided; should yo"
+  },
+  "LUPIN": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "BIOCON": {
+    "score": -0.0371,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "AUROPHARMA": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "GLENMARK": {
+    "score": -0.0325,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Investor Presentation"
+  },
+  "CEATLTD": {
+    "score": -0.0476,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "HDFCAMC": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ICICIGI": {
+    "score": 0.1214,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] ICICI Lombard GIC Q4 earnings: PAT jumps 7% YoY to \u20b9547 crore; \u20b97 per share dividend declared"
+  },
+  "ICICIPRULI": {
+    "score": -0.0183,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Investor Presentation"
+  },
+  "CHOLAFIN": {
+    "score": -0.0249,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Allotment of Securities"
+  },
+  "PFC": {
+    "score": 0.1156,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] HUL, ONGC, Trent among 7 BSE 100 stocks technically oversold on charts - Business Standard"
+  },
+  "HUDCO": {
+    "score": -0.0016,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Registrar & Share Transfer Agent Update"
+  },
+  "SHRIRAMFIN": {
+    "score": -0.1118,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Shriram Finance Slides Despite Q4 Beat; Investor Expectations Hurt - HDFC Sky"
+  },
+  "NAUKRI": {
+    "score": -0.1249,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Info Edge (India) (NSE:NAUKRI) Could Be Struggling To Allocate Capital - simplywall.st"
+  },
+  "NYKAA": {
+    "score": 0.3509,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Nykaa Shares Rise 5.5% as Q2 FY26 Revenue Jumps - HDFC Sky"
+  },
+  "DELHIVERY": {
+    "score": 0.0533,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Delhivery climbs nearly 5% in two sessions following September month update - Business Standa"
+  },
+  "TORNTPOWER": {
+    "score": -0.0523,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "CESC": {
+    "score": 0.2243,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] The total return for CESC (NSE:CESC) investors has risen faster than earnings growth over the"
+  },
+  "JSWENERGY": {
+    "score": -0.035,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "NHPC": {
+    "score": 0.0668,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] NHPC (NSE:NHPC) Has A Somewhat Strained Balance Sheet - simplywall.st"
+  },
+  "OBEROIRLTY": {
+    "score": -0.0542,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Acquisition"
+  },
+  "GODREJPROP": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "BRIGADE": {
+    "score": -0.0476,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "PHOENIXLTD": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ZYDUSLIFE": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "LAURUSLABS": {
+    "score": -0.0394,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "COROMANDEL": {
+    "score": 0.1275,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Coromandel International - Watch Out: Promoters cut stakes in 13 midcap stocks in March 2026 "
+  },
+  "PETRONET": {
+    "score": -0.195,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Petronet LNG, GAIL shares decline up to 8% as Qatar reports Iranian missile strike at Ras Laf"
+  },
+  "GAIL": {
+    "score": 0.2007,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] While institutions invested in GAIL (India) Limited (NSE:GAIL) benefited from last week's 3.4"
+  },
+  "VEDL": {
+    "score": -0.0563,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "HINDZINC": {
+    "score": 0.0659,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Hind Zinc, Vedanta, other metal stocks fall up to 12%; metal index tumbles 5%: Here's why - M"
+  },
+  "GUJGASLTD": {
+    "score": 0.2119,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Gujarat Gas shares fall most in nearly 4 years as firm issues Force Majeure notices to its cu"
+  },
+  "MGL": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "VOLTAS": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "WHIRLPOOL": {
+    "score": -0.1359,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Whirlpool India Surges 9.1% on 30-Year Parent Deal - HDFC Sky"
+  },
+  "DMART": {
+    "score": -0.0382,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Trading Window"
+  },
+  "TRENT": {
+    "score": 0.1921,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Trent shares have gained more than 6% in the past 5 days - HDFC Sky"
+  },
+  "BATAINDIA": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "RELAXO": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "MANYAVAR": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "CANFINHOME": {
+    "score": -0.1559,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "MAXHEALTH": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "MFSL": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  }
+}
