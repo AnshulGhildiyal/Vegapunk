@@ -2698,6 +2698,17 @@
       "total_return_pct": -2.31,
       "circuit_breaker": "CLEAR",
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-11",
+      "portfolio_value": 488452.3,
+      "cash": 2255.83,
+      "n_positions": 21,
+      "entries_today": 0,
+      "exits_today": 0,
+      "total_return_pct": -2.31,
+      "circuit_breaker": "CLEAR",
+      "regime": "TRENDING"
     }
   ],
   "peak_value": 507710.5900230467,

@@ -1,0 +1,387 @@
+{
+  "RELIANCE": {
+    "score": -0.0507,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TCS": {
+    "score": -0.2287,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Infosys, TCS, TechM, other IT stocks tumble up to 7% on fresh AI concerns after US jobs data "
+  },
+  "INFY": {
+    "score": 0.0679,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Infosys, Persistent Systems, Wipro, other IT stocks fall up to 3% after two days of gains: He"
+  },
+  "ICICIBANK": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "BHARTIARTL": {
+    "score": -0.1885,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company"
+  },
+  "KOTAKBANK": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "AXISBANK": {
+    "score": -0.0164,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ASIANPAINT": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "TITAN": {
+    "score": -0.0505,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BAJFINANCE": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "WIPRO": {
+    "score": -0.0493,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "NTPC": {
+    "score": -0.3399,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "SUNPHARMA": {
+    "score": 0.1269,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Sun Pharma shares down by over 2%; US government issues official notice of imposing additiona"
+  },
+  "HCLTECH": {
+    "score": -0.0563,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TATASTEEL": {
+    "score": -0.037,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "ADANIENT": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "ADANIPORTS": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BAJAJFINSV": {
+    "score": -0.2215,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "DRREDDY": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "CIPLA": {
+    "score": 0.2338,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Cipla Gets USFDA Nod For Ventolin Generic; Shares Up 3.08% - HDFC Sky"
+  },
+  "GRASIM": {
+    "score": 0.1037,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Some Shareholders Feeling Restless Over Grasim Industries Limited's (NSE:GRASIM) P/E Ratio - "
+  },
+  "HINDALCO": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "INDUSINDBK": {
+    "score": -0.0584,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Cessation"
+  },
+  "JSWSTEEL": {
+    "score": -0.051,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "M&M": {
+    "score": -0.0313,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "COALINDIA": {
+    "score": -0.138,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Coal India stock falls 6% as firm absorbs price shocks to shield consumers - Business Standar"
+  },
+  "TATACONSUM": {
+    "score": 0.2412,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Tata Consumer Products stock (INE192A01025): Hits 2-Year High on Strong Growth Outlook - AD H"
+  },
+  "SBILIFE": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "HAVELLS": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "BERGEPAINT": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "MARICO": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "DABUR": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "COLPAL": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "LUPIN": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "BIOCON": {
+    "score": -0.0371,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "AUROPHARMA": {
+    "score": 0.0735,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Aurobindo Pharma Ltd stock (INE406A01037): up 0.43% on NSE - AD HOC NEWS"
+  },
+  "GLENMARK": {
+    "score": -0.002,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Glenmark Launches Vancomycin Injection; Shares Dip 0.36% - HDFC Sky"
+  },
+  "CEATLTD": {
+    "score": -0.0476,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "HDFCAMC": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ICICIGI": {
+    "score": -0.5599,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company"
+  },
+  "ICICIPRULI": {
+    "score": -0.0183,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Investor Presentation"
+  },
+  "CHOLAFIN": {
+    "score": -0.0249,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Allotment of Securities"
+  },
+  "M&MFIN": {
+    "score": 0.5229,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Mahindra Finance Q2FY26 Profit Up 45%; Shares Hit 52-Week High - HDFC Sky"
+  },
+  "PFC": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "HUDCO": {
+    "score": -0.0016,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Registrar & Share Transfer Agent Update"
+  },
+  "SHRIRAMFIN": {
+    "score": -0.0221,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "NAUKRI": {
+    "score": -0.0957,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "NYKAA": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "DELHIVERY": {
+    "score": -0.0298,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "TATAPOWER": {
+    "score": -0.1368,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Tata Power Signs Bhutan Energy MoU; Shares Fall 2.13% - HDFC Sky"
+  },
+  "TORNTPOWER": {
+    "score": -0.0523,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "CESC": {
+    "score": -0.0419,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "JSWENERGY": {
+    "score": -0.0402,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] JSW Energy Sells JSW Steel Stake; Shares Slip 1.12% - HDFC Sky"
+  },
+  "NHPC": {
+    "score": -0.0366,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "OBEROIRLTY": {
+    "score": -0.0542,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Acquisition"
+  },
+  "GODREJPROP": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "PRESTIGE": {
+    "score": -0.0411,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] IT sell-off impact: Prestige Estates, other real estate shares decline up to 6%, realty index"
+  },
+  "BRIGADE": {
+    "score": -0.0476,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "PHOENIXLTD": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ZYDUSLIFE": {
+    "score": 0.1395,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Zydus Lifesciences Limited's (NSE:ZYDUSLIFE) Stock Been Rising: Are Strong Financials Guiding"
+  },
+  "LAURUSLABS": {
+    "score": -0.0394,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "COROMANDEL": {
+    "score": -0.0382,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "PETRONET": {
+    "score": -0.0377,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "GAIL": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "VEDL": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "HINDZINC": {
+    "score": -0.0403,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "GUJGASLTD": {
+    "score": -0.0143,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Credit Rating"
+  },
+  "MGL": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "VOLTAS": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "WHIRLPOOL": {
+    "score": -0.5599,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company"
+  },
+  "DMART": {
+    "score": -0.0382,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Trading Window"
+  },
+  "TRENT": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "BATAINDIA": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "RELAXO": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "MANYAVAR": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "CANFINHOME": {
+    "score": -0.1559,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "MAXHEALTH": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  }
+}
