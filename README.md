@@ -20,9 +20,9 @@
 | Return | -0.08% (started May 4, 2026) |
 | Open Positions | 20 |
 | Regime | TRENDING (conf: 1.00) |
-| Directional Accuracy (10d) | 53.88% |
+| Directional Accuracy (10d) | 60.03% |
 | Max-Hold Win Rate | 65% |
-| Last Updated | 2026-06-15 |
+| Last Updated | 16-06-2026 |
 
 
 ---

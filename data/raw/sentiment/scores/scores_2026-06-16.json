@@ -1,0 +1,302 @@
+{
+  "RELIANCE": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TCS": {
+    "score": -0.2224,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Infosys, TCS, TechM, other IT stocks tumble up to 7% on fresh AI concerns after US jobs data "
+  },
+  "HDFCBANK": {
+    "score": -0.2532,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Sensex opens 300 points lower, Nifty below 26,200; HDFC Bank down 2% - India Today"
+  },
+  "INFY": {
+    "score": -0.0374,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Infosys, Persistent Systems, Wipro, other IT stocks fall up to 3% after two days of gains: He"
+  },
+  "ICICIBANK": {
+    "score": -0.3039,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Bank Nifty extends losses, down nearly 500 points in afternoon; ICICI Bank, HDFC Bank stocks "
+  },
+  "HINDUNILVR": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Trading Window"
+  },
+  "ITC": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "SBIN": {
+    "score": -0.0366,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "BHARTIARTL": {
+    "score": -0.0433,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Bharti Airtel shares fall over 3%, among top Nifty losers today after telco announces mega NB"
+  },
+  "AXISBANK": {
+    "score": -0.0094,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Nifty Bank down 1%; Why SBI, ICICI Bank, Axis Bank, PNB shares fell today - Business Standard"
+  },
+  "ASIANPAINT": {
+    "score": -0.0428,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TITAN": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "BAJFINANCE": {
+    "score": -0.0249,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Allotment of Securities"
+  },
+  "WIPRO": {
+    "score": -0.1903,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Wipro (NSE:WIPRO) investors are sitting on a loss of 24% if they invested a year ago - simply"
+  },
+  "NESTLEIND": {
+    "score": -0.0379,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] News Verification"
+  },
+  "ONGC": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "NTPC": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "POWERGRID": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "SUNPHARMA": {
+    "score": 0.0923,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Those who invested in Sun Pharmaceutical Industries (NSE:SUNPHARMA) five years ago are up 205"
+  },
+  "HCLTECH": {
+    "score": -0.1202,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] IT stocks weigh on India's Sensex, Nifty after HCLTech forecasts slower growth - Reuters"
+  },
+  "TATASTEEL": {
+    "score": 0.226,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Tata Steel Hits 52\u2011Week High as Metal Sector Momentum Builds - HDFC Sky"
+  },
+  "ADANIPORTS": {
+    "score": 0.0811,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Adani Ports, Aegis Vopak fall up to 6%; shipping, logistics stocks sink on Strait of Hormuz d"
+  },
+  "BAJAJFINSV": {
+    "score": 0.2918,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Bajaj Finserv Q4 results: Net profit rises 5% YoY to \u20b92,539 crore; \u20b91.5/share dividend recomm"
+  },
+  "DRREDDY": {
+    "score": -0.0465,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "CIPLA": {
+    "score": -0.0668,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Cipla Shares Drop 2.6% Despite Eli Lilly Weight-Loss Drug Deal - HDFC Sky"
+  },
+  "GRASIM": {
+    "score": 0.0613,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Grasim Industries Q4: Shares trade around 1.5% lower ahead of earnings; here is how firm fare"
+  },
+  "JSWSTEEL": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "M&M": {
+    "score": 0.1033,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] M&M, Eicher Motors, Bajaj Auto shares fall up to 2% amid Mexico's tariffs, profit booking - M"
+  },
+  "COALINDIA": {
+    "score": -0.0643,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Coal India stock falls 6% as firm absorbs price shocks to shield consumers - Business Standar"
+  },
+  "TATACONSUM": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "SBILIFE": {
+    "score": 0.0038,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] SBI Life Insurance Co Ltd stock (INE918I01018): India life insurer sees modest share price mo"
+  },
+  "HDFCLIFE": {
+    "score": 0.1261,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] HDFC Life Q4 earnings: Net profit jumps 4% YoY to \u20b9496 crore; \u20b92.1 per share dividend recomme"
+  },
+  "AUROPHARMA": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "LALPATHLAB": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "APOLLOTYRE": {
+    "score": -0.0572,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "ICICIGI": {
+    "score": -0.025,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "ICICIPRULI": {
+    "score": 0.2004,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] ICICI Pru Life shares tumble nearly 9% to hit 52-week low; here is why - Upstox"
+  },
+  "SBICARD": {
+    "score": -0.1389,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] SBI Cards share price crashes over 6% to 15-week low after analysts lower the target price on"
+  },
+  "RECLTD": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "IRFC": {
+    "score": -0.1123,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] IRFC Share Price Fall 2.29% In Early Trade as OFS Overhang Persists - HDFC Sky"
+  },
+  "MANAPPURAM": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "SHRIRAMFIN": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "POLICYBZR": {
+    "score": 0.0214,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] PB Fintech Share Price Surges After Scrapping Planned QIP Meet - HDFC Sky"
+  },
+  "IRCTC": {
+    "score": -0.3714,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] SpiceJet, IRCTC, Indian Hotels, other tourism-related shares extend losses as US-Iran tension"
+  },
+  "TATAPOWER": {
+    "score": -0.3028,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Tata Power Signs Bhutan Energy MoU; Shares Fall 2.13% - HDFC Sky"
+  },
+  "ADANIGREEN": {
+    "score": -0.035,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "CESC": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "JSWENERGY": {
+    "score": -0.0426,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "SJVN": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "DLF": {
+    "score": -0.1255,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] DLF, Lodha Developers fall up to 5% as real estate stocks slide; Nifty Realty down 3% amid US"
+  },
+  "BRIGADE": {
+    "score": -0.0329,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "ZYDUSLIFE": {
+    "score": 0.0159,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Zydus Phase III Trial Nod Lifts Sentiment - HDFC Sky"
+  },
+  "TATACHEM": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "GNFC": {
+    "score": -0.1923,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "VEDL": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "SYMPHONY": {
+    "score": -0.0863,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Tejas Networks shares gain 5% on partnering with Rakuten Symphony - Business Standard"
+  },
+  "TRENT": {
+    "score": -0.0214,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Trent Shares Fall 1.93% Despite 17% Jump in Q2FY26 Revenue - HDFC Sky"
+  },
+  "RELAXO": {
+    "score": -0.2347,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] The three-year shareholder returns and company earnings persist lower as Relaxo Footwears (NS"
+  },
+  "CANFINHOME": {
+    "score": -0.037,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "NH": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  }
+}
