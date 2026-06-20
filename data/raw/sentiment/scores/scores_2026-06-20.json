@@ -1,0 +1,442 @@
+{
+  "RELIANCE": {
+    "score": -0.0901,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] NSE and Jio Eye Blockbuster Listings; Lessons Linger from Paytm, LIC and Reliance Power - HDF"
+  },
+  "TCS": {
+    "score": -0.0503,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "HDFCBANK": {
+    "score": -0.0337,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "INFY": {
+    "score": -0.0465,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "ICICIBANK": {
+    "score": -0.1307,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Suspension of Trading"
+  },
+  "HINDUNILVR": {
+    "score": -0.0574,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "SBIN": {
+    "score": -0.0386,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "BHARTIARTL": {
+    "score": -0.1032,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Action(s) taken or orders passed"
+  },
+  "KOTAKBANK": {
+    "score": -0.0316,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "LT": {
+    "score": -0.1692,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] L&T ESOP Allotment; Shares Fall 1.14% to \u20b94,053 - HDFC Sky"
+  },
+  "AXISBANK": {
+    "score": -0.0291,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Trading Window"
+  },
+  "ASIANPAINT": {
+    "score": -0.0427,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "TITAN": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "BAJFINANCE": {
+    "score": -0.0249,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Allotment of Securities"
+  },
+  "WIPRO": {
+    "score": -0.051,
+    "reasoning": "Based on 7 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "NESTLEIND": {
+    "score": -0.0516,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "ONGC": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "TECHM": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "SUNPHARMA": {
+    "score": -0.004,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Sun Pharma shares slip post Q4; analysts cautious on near-term upside - Business Standard"
+  },
+  "HCLTECH": {
+    "score": -0.0544,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TATASTEEL": {
+    "score": -0.0311,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "ADANIPORTS": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BAJAJFINSV": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "DRREDDY": {
+    "score": 0.2176,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Dr. Reddy's Shares Fall 4% After Canada Flags Semaglutide Non-Compliance - HDFC Sky"
+  },
+  "CIPLA": {
+    "score": -0.1576,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "GRASIM": {
+    "score": -0.3022,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "HEROMOTOCO": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "HINDALCO": {
+    "score": -0.1909,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "INDUSINDBK": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Trading Window"
+  },
+  "JSWSTEEL": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "M&M": {
+    "score": -0.0437,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Acquisition"
+  },
+  "COALINDIA": {
+    "score": -0.0565,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Appointment"
+  },
+  "TATACONSUM": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "SBILIFE": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "HDFCLIFE": {
+    "score": -0.0249,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Allotment of Securities"
+  },
+  "PIDILITIND": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "HAVELLS": {
+    "score": -0.0792,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Cessation"
+  },
+  "GODREJCP": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "COLPAL": {
+    "score": -0.0483,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "LUPIN": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "AUROPHARMA": {
+    "score": -0.0426,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "GLENMARK": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "APOLLOTYRE": {
+    "score": -0.0429,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "BALKRISIND": {
+    "score": -0.051,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Appointment"
+  },
+  "CEATLTD": {
+    "score": -0.0032,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Issue of Duplicate Share Certificate"
+  },
+  "ICICIGI": {
+    "score": 0.1231,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] ICICI Lombard shares rally 8% on strong Q2 performance; H1 profit soars 23% - Upstox"
+  },
+  "ICICIPRULI": {
+    "score": -0.0179,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Rumour Verification - Regulation 30(11)"
+  },
+  "SBICARD": {
+    "score": -0.0282,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "CHOLAFIN": {
+    "score": -0.0165,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Allotment of Securities"
+  },
+  "M&MFIN": {
+    "score": -0.0322,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "RECLTD": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "IRFC": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "HUDCO": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "MANAPPURAM": {
+    "score": 0.1051,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Despite the downward trend in earnings at Manappuram Finance (NSE:MANAPPURAM) the stock lifts"
+  },
+  "SHRIRAMFIN": {
+    "score": -0.031,
+    "reasoning": "Based on 8 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "NAUKRI": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "POLICYBZR": {
+    "score": -0.164,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "NYKAA": {
+    "score": -0.0386,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "DELHIVERY": {
+    "score": -0.0164,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "IRCTC": {
+    "score": -0.2325,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "CONCOR": {
+    "score": -0.591,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "TATAPOWER": {
+    "score": -0.0645,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Bagging/Receiving of orders/contracts"
+  },
+  "TORNTPOWER": {
+    "score": -0.0282,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "CESC": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "JSWENERGY": {
+    "score": -0.0363,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "OBEROIRLTY": {
+    "score": -0.2871,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Resignation of Director/KMP/SMP"
+  },
+  "DLF": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "GODREJPROP": {
+    "score": -0.0476,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "PRESTIGE": {
+    "score": -0.0179,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "BRIGADE": {
+    "score": -0.0222,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "ZYDUSLIFE": {
+    "score": 0.0381,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Zydus Life Q3 result: Profit up marginally at \u20b91,042 cr, revenue jumps 32% - Business Standar"
+  },
+  "PETRONET": {
+    "score": -0.0382,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Trading Window"
+  },
+  "IOC": {
+    "score": -0.0583,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "VEDL": {
+    "score": -0.0007,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Vedanta Ltd Reports Record-Breaking Q3: Profit Surges 60% to $0.9 Bn, Revenue up 19% - Busine"
+  },
+  "HINDZINC": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "GUJGASLTD": {
+    "score": -0.0407,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "WHIRLPOOL": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "SYMPHONY": {
+    "score": -0.1784,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Earnings Troubles May Signal Larger Issues for Symphony (NSE:SYMPHONY) Shareholders - simplyw"
+  },
+  "DMART": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "TRENT": {
+    "score": -0.0083,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "BATAINDIA": {
+    "score": -0.3591,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "RELAXO": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "CANFINHOME": {
+    "score": 0.0571,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Can Fin Homes Limited's (NSE:CANFINHOME) institutional investors lost 4.3% over the past week"
+  },
+  "AAVAS": {
+    "score": -0.2087,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "FORTIS": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "MAXHEALTH": {
+    "score": -0.0388,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "NH": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "MFSL": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  }
+}

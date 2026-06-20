@@ -1,42 +1,7 @@
 {
-  "cash": 8827.002425773939,
+  "cash": 334.35189300079765,
   "initial_capital": 500000,
   "positions": {
-    "HDFCLIFE": {
-      "shares": 44,
-      "entry_price": 549.5499877929688,
-      "entry_date": "2026-06-10",
-      "direction": "LONG",
-      "win_prob": 0.7923
-    },
-    "UPL": {
-      "shares": 39,
-      "entry_price": 611.0,
-      "entry_date": "2026-06-10",
-      "direction": "LONG",
-      "win_prob": 0.7844
-    },
-    "TATASTEEL": {
-      "shares": 122,
-      "entry_price": 199.30999755859375,
-      "entry_date": "2026-06-10",
-      "direction": "LONG",
-      "win_prob": 0.7813
-    },
-    "AAVAS": {
-      "shares": 18,
-      "entry_price": 1299.5999755859375,
-      "entry_date": "2026-06-10",
-      "direction": "LONG",
-      "win_prob": 0.7805
-    },
-    "SBILIFE": {
-      "shares": 14,
-      "entry_price": 1728.699951171875,
-      "entry_date": "2026-06-10",
-      "direction": "LONG",
-      "win_prob": 0.7796
-    },
     "ZYDUSLIFE": {
       "shares": 22,
       "entry_price": 1100.800048828125,
@@ -141,6 +106,48 @@
       "entry_date": "2026-06-15",
       "direction": "LONG",
       "win_prob": 0.5831
+    },
+    "THYROCARE": {
+      "shares": 46,
+      "entry_price": 540.5499877929688,
+      "entry_date": "2026-06-20",
+      "direction": "LONG",
+      "win_prob": 0.6232
+    },
+    "BRIGADE": {
+      "shares": 46,
+      "entry_price": 545.4500122070312,
+      "entry_date": "2026-06-20",
+      "direction": "LONG",
+      "win_prob": 0.6082
+    },
+    "NATIONALUM": {
+      "shares": 66,
+      "entry_price": 376.0,
+      "entry_date": "2026-06-20",
+      "direction": "LONG",
+      "win_prob": 0.5812
+    },
+    "APOLLOTYRE": {
+      "shares": 59,
+      "entry_price": 425.5,
+      "entry_date": "2026-06-20",
+      "direction": "LONG",
+      "win_prob": 0.5707
+    },
+    "RELAXO": {
+      "shares": 70,
+      "entry_price": 355.8500061035156,
+      "entry_date": "2026-06-20",
+      "direction": "LONG",
+      "win_prob": 0.56
+    },
+    "TORNTPHARM": {
+      "shares": 2,
+      "entry_price": 4429.7998046875,
+      "entry_date": "2026-06-20",
+      "direction": "LONG",
+      "win_prob": 0.5229
     }
   },
   "trade_log": [
@@ -2758,6 +2765,143 @@
       "costs": 45.09,
       "win_prob": 0.5831,
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-20",
+      "symbol": "HDFCLIFE",
+      "direction": "LONG",
+      "entry_price": 549.5499877929688,
+      "exit_price": 591.8499755859375,
+      "shares": 44,
+      "pnl": 1792.43,
+      "pnl_pct": 7.697,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 68.77
+    },
+    {
+      "date": "2026-06-20",
+      "symbol": "UPL",
+      "direction": "LONG",
+      "entry_price": 611.0,
+      "exit_price": 608.6500244140625,
+      "shares": 39,
+      "pnl": -156.42,
+      "pnl_pct": -0.385,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 64.77
+    },
+    {
+      "date": "2026-06-20",
+      "symbol": "TATASTEEL",
+      "direction": "LONG",
+      "entry_price": 199.30999755859375,
+      "exit_price": 198.9600067138672,
+      "shares": 122,
+      "pnl": -108.4,
+      "pnl_pct": -0.176,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 65.7
+    },
+    {
+      "date": "2026-06-20",
+      "symbol": "AAVAS",
+      "direction": "LONG",
+      "entry_price": 1299.5999755859375,
+      "exit_price": 1471.9000244140625,
+      "shares": 18,
+      "pnl": 3031.85,
+      "pnl_pct": 13.258,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 69.55
+    },
+    {
+      "date": "2026-06-20",
+      "symbol": "SBILIFE",
+      "direction": "LONG",
+      "entry_price": 1728.699951171875,
+      "exit_price": 1800.199951171875,
+      "shares": 14,
+      "pnl": 933.69,
+      "pnl_pct": 4.136,
+      "exit_reason": "max_hold_period",
+      "days_held": 10,
+      "costs": 67.31
+    },
+    {
+      "date": "2026-06-20",
+      "symbol": "THYROCARE",
+      "direction": "LONG",
+      "entry_price": 540.5499877929688,
+      "shares": 46,
+      "position_value": 24865.3,
+      "pct_of_capital": 4.94,
+      "costs": 45.59,
+      "win_prob": 0.6232,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-20",
+      "symbol": "BRIGADE",
+      "direction": "LONG",
+      "entry_price": 545.4500122070312,
+      "shares": 46,
+      "position_value": 25090.7,
+      "pct_of_capital": 4.98,
+      "costs": 45.79,
+      "win_prob": 0.6082,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-20",
+      "symbol": "NATIONALUM",
+      "direction": "LONG",
+      "entry_price": 376.0,
+      "shares": 66,
+      "position_value": 24816.0,
+      "pct_of_capital": 4.93,
+      "costs": 45.55,
+      "win_prob": 0.5812,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-20",
+      "symbol": "APOLLOTYRE",
+      "direction": "LONG",
+      "entry_price": 425.5,
+      "shares": 59,
+      "position_value": 25104.5,
+      "pct_of_capital": 4.99,
+      "costs": 45.8,
+      "win_prob": 0.5707,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-20",
+      "symbol": "RELAXO",
+      "direction": "LONG",
+      "entry_price": 355.8500061035156,
+      "shares": 70,
+      "position_value": 24909.5,
+      "pct_of_capital": 4.95,
+      "costs": 45.63,
+      "win_prob": 0.56,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-20",
+      "symbol": "TORNTPHARM",
+      "direction": "LONG",
+      "entry_price": 4429.7998046875,
+      "shares": 2,
+      "position_value": 8859.6,
+      "pct_of_capital": 1.76,
+      "costs": 31.44,
+      "win_prob": 0.5229,
+      "regime": "TRENDING"
     }
   ],
   "daily_log": [
@@ -3110,6 +3254,17 @@
       "entries_today": 0,
       "exits_today": 0,
       "total_return_pct": -0.079,
+      "circuit_breaker": "CLEAR",
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-06-20",
+      "portfolio_value": 503165.48,
+      "cash": 334.35,
+      "n_positions": 21,
+      "entries_today": 6,
+      "exits_today": 5,
+      "total_return_pct": 0.633,
       "circuit_breaker": "CLEAR",
       "regime": "TRENDING"
     }
