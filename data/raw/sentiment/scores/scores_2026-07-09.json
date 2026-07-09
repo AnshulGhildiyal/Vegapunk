@@ -1,0 +1,477 @@
+{
+  "RELIANCE": {
+    "score": -0.0359,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Other Restructuring"
+  },
+  "TCS": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "ICICIBANK": {
+    "score": -0.0173,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "SBIN": {
+    "score": -0.0228,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "BHARTIARTL": {
+    "score": -0.121,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Bharti Airtel shares fall over 3%, among top Nifty losers today after telco announces mega NB"
+  },
+  "KOTAKBANK": {
+    "score": -0.0421,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "LT": {
+    "score": -0.0288,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "AXISBANK": {
+    "score": -0.0204,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "ASIANPAINT": {
+    "score": -0.0583,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "TITAN": {
+    "score": -0.0334,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BAJFINANCE": {
+    "score": -0.0641,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Top gainers and losers, March 11: Bajaj Finance, Axis Bank fall 5%, Eicher Motor, M&M down 4%"
+  },
+  "WIPRO": {
+    "score": -0.0345,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "NESTLEIND": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "NTPC": {
+    "score": 0.0075,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Suzlon Energy, Waaree Energies, NTPC Green and more: How renewable energy stocks are performi"
+  },
+  "POWERGRID": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "TECHM": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "SUNPHARMA": {
+    "score": -0.0284,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "HCLTECH": {
+    "score": -0.0357,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TATASTEEL": {
+    "score": -0.0228,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "ADANIENT": {
+    "score": -0.0029,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "BAJAJFINSV": {
+    "score": -0.0567,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Stock Market Open, June 18, 2026: Sensex Slips 50 points, Nifty Flat at Open as Iran Ceasefir"
+  },
+  "DRREDDY": {
+    "score": 0.1111,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Dr. Reddy\u2019s Q4 results: Firm sees steep fall of 86% in net profit, revenue slips to \u20b97,546 cr"
+  },
+  "CIPLA": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "INDUSINDBK": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "JSWSTEEL": {
+    "score": -0.0434,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] JSW Steel Completes JFE JV Transaction; Shares Remain Flat - HDFC Sky"
+  },
+  "M&M": {
+    "score": -0.0493,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "BPCL": {
+    "score": -0.0184,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "TATACONSUM": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "SBILIFE": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "HDFCLIFE": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "UPL": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "PIDILITIND": {
+    "score": -0.0475,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BERGEPAINT": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "MARICO": {
+    "score": 0.1792,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] HCL Tech, Zydus Life, Marico among buzzing stocks as SENSEX jumps over 500 pts, NIFTY50 up 0."
+  },
+  "DABUR": {
+    "score": -0.0254,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "GODREJCP": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "COLPAL": {
+    "score": -0.0156,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "SIEMENS": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "TORNTPHARM": {
+    "score": -0.0338,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "LUPIN": {
+    "score": -0.0292,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "BIOCON": {
+    "score": -0.2832,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Biocon Ltd stock (INE376G01013): Share price weakens after recent 52-week high in India - Ad-"
+  },
+  "GLENMARK": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "APOLLOTYRE": {
+    "score": -0.0428,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BALKRISIND": {
+    "score": -0.0461,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "CEATLTD": {
+    "score": -0.3182,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Loss of Share Certificates"
+  },
+  "HDFCAMC": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "ICICIGI": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ICICIPRULI": {
+    "score": -0.1124,
+    "reasoning": "Based on 8 headlines",
+    "key_signal": "[NSE] Resignation of Director/KMP/SMP"
+  },
+  "CHOLAFIN": {
+    "score": -0.0395,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Conversion"
+  },
+  "M&MFIN": {
+    "score": -0.0143,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Credit Rating"
+  },
+  "LICHSGFIN": {
+    "score": -0.0448,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "IRFC": {
+    "score": -0.1652,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] IRFC Share Price Fall 2.29% In Early Trade as OFS Overhang Persists - HDFC Sky"
+  },
+  "HUDCO": {
+    "score": -0.2238,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] HUDCO Dividend, \u20b970,000 Cr Plan; Shares Fall 4.84% - HDFC Sky"
+  },
+  "MANAPPURAM": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "MUTHOOTFIN": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "SHRIRAMFIN": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "NAUKRI": {
+    "score": -0.04,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "NYKAA": {
+    "score": -0.0237,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "IRCTC": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "CONCOR": {
+    "score": -0.1287,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Cessation"
+  },
+  "TATAPOWER": {
+    "score": -0.0249,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "ADANIGREEN": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TORNTPOWER": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "JSWENERGY": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "SJVN": {
+    "score": 0.194,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] State or government in SJVN Limited (NSE:SJVN) are its biggest bettors, and their bets paid o"
+  },
+  "OBEROIRLTY": {
+    "score": -0.0987,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Oberoi Realty Limited (NSE:OBEROIRLTY) Just Missed Earnings: Here's What Analysts Think Will "
+  },
+  "DLF": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "GODREJPROP": {
+    "score": 0.0471,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Godrej Properties Buys 47 Acres In Chennai; Shares Edge Higher - HDFC Sky"
+  },
+  "BRIGADE": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "SOBHA": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "PHOENIXLTD": {
+    "score": -0.0175,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "ZYDUSLIFE": {
+    "score": 0.0605,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] HCL Tech, Zydus Life, Marico among buzzing stocks as SENSEX jumps over 500 pts, NIFTY50 up 0."
+  },
+  "GLAXO": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "GRANULES": {
+    "score": 0.1986,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Granules India shares rise as board approves fundraising of up to \u20b91,462.5 crore; all you nee"
+  },
+  "LAURUSLABS": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "TATACHEM": {
+    "score": -0.3208,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "DEEPAKNTR": {
+    "score": -0.0315,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "GAIL": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "IOC": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "HINDZINC": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "NMDC": {
+    "score": -0.0195,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "NATIONALUM": {
+    "score": 0.1306,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] NALCO Q2 Profit Jumps 37% YoY; Declares \u20b94 Interim Dividend - HDFC Sky"
+  },
+  "IGL": {
+    "score": -0.0446,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "MGL": {
+    "score": -0.0156,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "VOLTAS": {
+    "score": -0.0195,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "WHIRLPOOL": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "DMART": {
+    "score": -0.014,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "TRENT": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "BATAINDIA": {
+    "score": -0.0156,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "CANFINHOME": {
+    "score": -0.0238,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "AAVAS": {
+    "score": -0.012,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Allotment of Securities"
+  },
+  "FORTIS": {
+    "score": -0.0404,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Should Weakness in Fortis Healthcare Limited's (NSE:FORTIS) Stock Be Seen As A Sign That Mark"
+  },
+  "MAXHEALTH": {
+    "score": -0.1568,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company"
+  },
+  "THYROCARE": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "MFSL": {
+    "score": -0.0357,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Updates"
+  }
+}

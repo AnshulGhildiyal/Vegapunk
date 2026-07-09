@@ -1,153 +1,139 @@
 {
-  "cash": 334.35189300079765,
+  "cash": 32199.04413281942,
   "initial_capital": 500000,
   "positions": {
-    "ZYDUSLIFE": {
-      "shares": 22,
-      "entry_price": 1100.800048828125,
-      "entry_date": "2026-06-15",
+    "LT": {
+      "shares": 6,
+      "entry_price": 3886.0,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.6342
+      "win_prob": 0.7659
     },
-    "IGL": {
-      "shares": 150,
-      "entry_price": 165.6999969482422,
-      "entry_date": "2026-06-15",
+    "CIPLA": {
+      "shares": 17,
+      "entry_price": 1441.300048828125,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.6254
+      "win_prob": 0.7599
     },
-    "ONGC": {
-      "shares": 101,
-      "entry_price": 245.35000610351562,
-      "entry_date": "2026-06-15",
+    "RELAXO": {
+      "shares": 65,
+      "entry_price": 386.8500061035156,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.6229
+      "win_prob": 0.7418
     },
-    "M&MFIN": {
-      "shares": 83,
-      "entry_price": 299.75,
-      "entry_date": "2026-06-15",
+    "BIOCON": {
+      "shares": 62,
+      "entry_price": 403.54998779296875,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.6133
+      "win_prob": 0.7418
     },
-    "PETRONET": {
-      "shares": 87,
-      "entry_price": 285.6000061035156,
-      "entry_date": "2026-06-15",
+    "RECLTD": {
+      "shares": 71,
+      "entry_price": 352.0,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.6067
+      "win_prob": 0.739
     },
-    "BAJAJFINSV": {
-      "shares": 14,
-      "entry_price": 1742.0999755859375,
-      "entry_date": "2026-06-15",
+    "GAIL": {
+      "shares": 147,
+      "entry_price": 170.1999969482422,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.6004
+      "win_prob": 0.7353
     },
-    "ADANIENT": {
-      "shares": 8,
-      "entry_price": 2965.199951171875,
-      "entry_date": "2026-06-15",
+    "HDFCLIFE": {
+      "shares": 45,
+      "entry_price": 551.8499755859375,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.5996
+      "win_prob": 0.7336
     },
-    "BPCL": {
-      "shares": 79,
-      "entry_price": 314.79998779296875,
-      "entry_date": "2026-06-15",
+    "MANYAVAR": {
+      "shares": 64,
+      "entry_price": 392.54998779296875,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.5986
+      "win_prob": 0.731
     },
-    "POLICYBZR": {
-      "shares": 16,
-      "entry_price": 1560.699951171875,
-      "entry_date": "2026-06-15",
+    "FORTIS": {
+      "shares": 26,
+      "entry_price": 951.4500122070312,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.5978
-    },
-    "ADANIGREEN": {
-      "shares": 16,
-      "entry_price": 1497.199951171875,
-      "entry_date": "2026-06-15",
-      "direction": "LONG",
-      "win_prob": 0.5965
+      "win_prob": 0.7279
     },
     "RELIANCE": {
       "shares": 19,
-      "entry_price": 1316.0,
-      "entry_date": "2026-06-15",
+      "entry_price": 1279.800048828125,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.5947
+      "win_prob": 0.7235
     },
     "HDFCAMC": {
       "shares": 9,
-      "entry_price": 2559.800048828125,
-      "entry_date": "2026-06-15",
+      "entry_price": 2737.10009765625,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.5943
+      "win_prob": 0.7214
     },
-    "HINDZINC": {
-      "shares": 43,
-      "entry_price": 577.7999877929688,
-      "entry_date": "2026-06-15",
+    "JSWENERGY": {
+      "shares": 47,
+      "entry_price": 533.4500122070312,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.5868
+      "win_prob": 0.721
     },
-    "IOC": {
-      "shares": 171,
-      "entry_price": 146.07000732421875,
-      "entry_date": "2026-06-15",
+    "CHOLAFIN": {
+      "shares": 14,
+      "entry_price": 1791.9000244140625,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.5854
-    },
-    "TATACONSUM": {
-      "shares": 22,
-      "entry_price": 1104.199951171875,
-      "entry_date": "2026-06-15",
-      "direction": "LONG",
-      "win_prob": 0.5831
+      "win_prob": 0.717
     },
     "THYROCARE": {
       "shares": 46,
-      "entry_price": 540.5499877929688,
-      "entry_date": "2026-06-20",
+      "entry_price": 535.5499877929688,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.6232
-    },
-    "BRIGADE": {
-      "shares": 46,
-      "entry_price": 545.4500122070312,
-      "entry_date": "2026-06-20",
-      "direction": "LONG",
-      "win_prob": 0.6082
-    },
-    "NATIONALUM": {
-      "shares": 66,
-      "entry_price": 376.0,
-      "entry_date": "2026-06-20",
-      "direction": "LONG",
-      "win_prob": 0.5812
+      "win_prob": 0.7164
     },
     "APOLLOTYRE": {
-      "shares": 59,
-      "entry_price": 425.5,
-      "entry_date": "2026-06-20",
+      "shares": 57,
+      "entry_price": 439.6499938964844,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.5707
+      "win_prob": 0.7137
     },
-    "RELAXO": {
-      "shares": 70,
-      "entry_price": 355.8500061035156,
-      "entry_date": "2026-06-20",
+    "KOTAKBANK": {
+      "shares": 66,
+      "entry_price": 377.1499938964844,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.56
+      "win_prob": 0.6986
     },
-    "TORNTPHARM": {
-      "shares": 2,
-      "entry_price": 4429.7998046875,
-      "entry_date": "2026-06-20",
+    "SHRIRAMFIN": {
+      "shares": 24,
+      "entry_price": 1031.699951171875,
+      "entry_date": "2026-07-09",
       "direction": "LONG",
-      "win_prob": 0.5229
+      "win_prob": 0.6974
+    },
+    "TCS": {
+      "shares": 12,
+      "entry_price": 2049.5,
+      "entry_date": "2026-07-09",
+      "direction": "LONG",
+      "win_prob": 0.6973
+    },
+    "SIEMENS": {
+      "shares": 7,
+      "entry_price": 3476.39990234375,
+      "entry_date": "2026-07-09",
+      "direction": "LONG",
+      "win_prob": 0.6927
     }
   },
   "trade_log": [
@@ -2902,6 +2888,507 @@
       "costs": 31.44,
       "win_prob": 0.5229,
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "ZYDUSLIFE",
+      "direction": "LONG",
+      "entry_price": 1100.800048828125,
+      "exit_price": 1159.0,
+      "shares": 22,
+      "pnl": 1212.57,
+      "pnl_pct": 5.287,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 67.83
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "IGL",
+      "direction": "LONG",
+      "entry_price": 165.6999969482422,
+      "exit_price": 151.77000427246094,
+      "shares": 150,
+      "pnl": -2152.59,
+      "pnl_pct": -8.407,
+      "exit_reason": "stop_loss",
+      "days_held": 24,
+      "costs": 63.09
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "ONGC",
+      "direction": "LONG",
+      "entry_price": 245.35000610351562,
+      "exit_price": 243.64999389648438,
+      "shares": 101,
+      "pnl": -237.98,
+      "pnl_pct": -0.693,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 66.28
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "M&MFIN",
+      "direction": "LONG",
+      "entry_price": 299.75,
+      "exit_price": 336.75,
+      "shares": 83,
+      "pnl": 2998.92,
+      "pnl_pct": 12.344,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 72.08
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "PETRONET",
+      "direction": "LONG",
+      "entry_price": 285.6000061035156,
+      "exit_price": 277.1499938964844,
+      "shares": 87,
+      "pnl": -800.57,
+      "pnl_pct": -2.959,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 65.42
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "BAJAJFINSV",
+      "direction": "LONG",
+      "entry_price": 1742.0999755859375,
+      "exit_price": 1895.0,
+      "shares": 14,
+      "pnl": 2070.98,
+      "pnl_pct": 8.777,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 69.62
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "ADANIENT",
+      "direction": "LONG",
+      "entry_price": 2965.199951171875,
+      "exit_price": 3083.60009765625,
+      "shares": 8,
+      "pnl": 880.81,
+      "pnl_pct": 3.993,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 66.39
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "BPCL",
+      "direction": "LONG",
+      "entry_price": 314.79998779296875,
+      "exit_price": 308.20001220703125,
+      "shares": 79,
+      "pnl": -587.23,
+      "pnl_pct": -2.097,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 65.83
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "POLICYBZR",
+      "direction": "LONG",
+      "entry_price": 1560.699951171875,
+      "exit_price": 1572.5,
+      "shares": 16,
+      "pnl": 121.56,
+      "pnl_pct": 0.756,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 67.24
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "ADANIGREEN",
+      "direction": "LONG",
+      "entry_price": 1497.199951171875,
+      "exit_price": 1486.5999755859375,
+      "shares": 16,
+      "pnl": -234.46,
+      "pnl_pct": -0.708,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 64.86
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "RELIANCE",
+      "direction": "LONG",
+      "entry_price": 1316.0,
+      "exit_price": 1279.800048828125,
+      "shares": 19,
+      "pnl": -753.58,
+      "pnl_pct": -2.751,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 65.78
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "HDFCAMC",
+      "direction": "LONG",
+      "entry_price": 2559.800048828125,
+      "exit_price": 2737.10009765625,
+      "shares": 9,
+      "pnl": 1529.37,
+      "pnl_pct": 6.926,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 66.33
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "HINDZINC",
+      "direction": "LONG",
+      "entry_price": 577.7999877929688,
+      "exit_price": 528.5,
+      "shares": 43,
+      "pnl": -2182.92,
+      "pnl_pct": -8.532,
+      "exit_reason": "stop_loss",
+      "days_held": 24,
+      "costs": 63.02
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "IOC",
+      "direction": "LONG",
+      "entry_price": 146.07000732421875,
+      "exit_price": 138.25999450683594,
+      "shares": 171,
+      "pnl": -1400.12,
+      "pnl_pct": -5.347,
+      "exit_reason": "stop_loss",
+      "days_held": 24,
+      "costs": 64.61
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "TATACONSUM",
+      "direction": "LONG",
+      "entry_price": 1104.199951171875,
+      "exit_price": 1106.699951171875,
+      "shares": 22,
+      "pnl": -10.83,
+      "pnl_pct": 0.226,
+      "exit_reason": "max_hold_period",
+      "days_held": 24,
+      "costs": 65.83
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "THYROCARE",
+      "direction": "LONG",
+      "entry_price": 540.5499877929688,
+      "exit_price": 535.5499877929688,
+      "shares": 46,
+      "pnl": -296.33,
+      "pnl_pct": -0.925,
+      "exit_reason": "max_hold_period",
+      "days_held": 19,
+      "costs": 66.33
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "BRIGADE",
+      "direction": "LONG",
+      "entry_price": 545.4500122070312,
+      "exit_price": 534.0,
+      "shares": 46,
+      "pnl": -592.91,
+      "pnl_pct": -2.099,
+      "exit_reason": "max_hold_period",
+      "days_held": 19,
+      "costs": 66.21
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "NATIONALUM",
+      "direction": "LONG",
+      "entry_price": 376.0,
+      "exit_price": 349.5,
+      "shares": 66,
+      "pnl": -1812.61,
+      "pnl_pct": -7.048,
+      "exit_reason": "stop_loss",
+      "days_held": 19,
+      "costs": 63.61
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "APOLLOTYRE",
+      "direction": "LONG",
+      "entry_price": 425.5,
+      "exit_price": 439.6499938964844,
+      "shares": 59,
+      "pnl": 766.26,
+      "pnl_pct": 3.325,
+      "exit_reason": "max_hold_period",
+      "days_held": 19,
+      "costs": 68.59
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "RELAXO",
+      "direction": "LONG",
+      "entry_price": 355.8500061035156,
+      "exit_price": 386.8500061035156,
+      "shares": 70,
+      "pnl": 2099.43,
+      "pnl_pct": 8.712,
+      "exit_reason": "max_hold_period",
+      "days_held": 19,
+      "costs": 70.57
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "TORNTPHARM",
+      "direction": "LONG",
+      "entry_price": 4429.7998046875,
+      "exit_price": 4898.2001953125,
+      "shares": 2,
+      "pnl": 896.21,
+      "pnl_pct": 10.574,
+      "exit_reason": "max_hold_period",
+      "days_held": 19,
+      "costs": 40.59
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "LT",
+      "direction": "LONG",
+      "entry_price": 3886.0,
+      "shares": 6,
+      "position_value": 23316.0,
+      "pct_of_capital": 4.63,
+      "costs": 44.22,
+      "win_prob": 0.7659,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "CIPLA",
+      "direction": "LONG",
+      "entry_price": 1441.300048828125,
+      "shares": 17,
+      "position_value": 24502.1,
+      "pct_of_capital": 4.87,
+      "costs": 45.27,
+      "win_prob": 0.7599,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "RELAXO",
+      "direction": "LONG",
+      "entry_price": 386.8500061035156,
+      "shares": 65,
+      "position_value": 25145.25,
+      "pct_of_capital": 5.0,
+      "costs": 45.84,
+      "win_prob": 0.7418,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "BIOCON",
+      "direction": "LONG",
+      "entry_price": 403.54998779296875,
+      "shares": 62,
+      "position_value": 25020.1,
+      "pct_of_capital": 4.97,
+      "costs": 45.73,
+      "win_prob": 0.7418,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "RECLTD",
+      "direction": "LONG",
+      "entry_price": 352.0,
+      "shares": 71,
+      "position_value": 24992.0,
+      "pct_of_capital": 4.97,
+      "costs": 45.71,
+      "win_prob": 0.739,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "GAIL",
+      "direction": "LONG",
+      "entry_price": 170.1999969482422,
+      "shares": 147,
+      "position_value": 25019.4,
+      "pct_of_capital": 4.97,
+      "costs": 45.73,
+      "win_prob": 0.7353,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "HDFCLIFE",
+      "direction": "LONG",
+      "entry_price": 551.8499755859375,
+      "shares": 45,
+      "position_value": 24833.25,
+      "pct_of_capital": 4.94,
+      "costs": 45.57,
+      "win_prob": 0.7336,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "MANYAVAR",
+      "direction": "LONG",
+      "entry_price": 392.54998779296875,
+      "shares": 64,
+      "position_value": 25123.2,
+      "pct_of_capital": 4.99,
+      "costs": 45.82,
+      "win_prob": 0.731,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "FORTIS",
+      "direction": "LONG",
+      "entry_price": 951.4500122070312,
+      "shares": 26,
+      "position_value": 24737.7,
+      "pct_of_capital": 4.92,
+      "costs": 45.48,
+      "win_prob": 0.7279,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "RELIANCE",
+      "direction": "LONG",
+      "entry_price": 1279.800048828125,
+      "shares": 19,
+      "position_value": 24316.2,
+      "pct_of_capital": 4.83,
+      "costs": 45.11,
+      "win_prob": 0.7235,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "HDFCAMC",
+      "direction": "LONG",
+      "entry_price": 2737.10009765625,
+      "shares": 9,
+      "position_value": 24633.9,
+      "pct_of_capital": 4.9,
+      "costs": 45.39,
+      "win_prob": 0.7214,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "JSWENERGY",
+      "direction": "LONG",
+      "entry_price": 533.4500122070312,
+      "shares": 47,
+      "position_value": 25072.15,
+      "pct_of_capital": 4.98,
+      "costs": 45.78,
+      "win_prob": 0.721,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "CHOLAFIN",
+      "direction": "LONG",
+      "entry_price": 1791.9000244140625,
+      "shares": 14,
+      "position_value": 25086.6,
+      "pct_of_capital": 4.99,
+      "costs": 45.79,
+      "win_prob": 0.717,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "THYROCARE",
+      "direction": "LONG",
+      "entry_price": 535.5499877929688,
+      "shares": 46,
+      "position_value": 24635.3,
+      "pct_of_capital": 4.9,
+      "costs": 45.39,
+      "win_prob": 0.7164,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "APOLLOTYRE",
+      "direction": "LONG",
+      "entry_price": 439.6499938964844,
+      "shares": 57,
+      "position_value": 25060.05,
+      "pct_of_capital": 4.98,
+      "costs": 45.77,
+      "win_prob": 0.7137,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "KOTAKBANK",
+      "direction": "LONG",
+      "entry_price": 377.1499938964844,
+      "shares": 66,
+      "position_value": 24891.9,
+      "pct_of_capital": 4.95,
+      "costs": 45.62,
+      "win_prob": 0.6986,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "SHRIRAMFIN",
+      "direction": "LONG",
+      "entry_price": 1031.699951171875,
+      "shares": 24,
+      "position_value": 24760.8,
+      "pct_of_capital": 4.92,
+      "costs": 45.5,
+      "win_prob": 0.6974,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "TCS",
+      "direction": "LONG",
+      "entry_price": 2049.5,
+      "shares": 12,
+      "position_value": 24594.0,
+      "pct_of_capital": 4.89,
+      "costs": 45.35,
+      "win_prob": 0.6973,
+      "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "symbol": "SIEMENS",
+      "direction": "LONG",
+      "entry_price": 3476.39990234375,
+      "shares": 7,
+      "position_value": 24334.8,
+      "pct_of_capital": 4.84,
+      "costs": 45.12,
+      "win_prob": 0.6927,
+      "regime": "TRENDING"
     }
   ],
   "daily_log": [
@@ -3267,9 +3754,25 @@
       "total_return_pct": 0.633,
       "circuit_breaker": "CLEAR",
       "regime": "TRENDING"
+    },
+    {
+      "date": "2026-07-09",
+      "portfolio_value": 502273.74,
+      "cash": 32199.04,
+      "n_positions": 19,
+      "entries_today": 19,
+      "exits_today": 21,
+      "total_return_pct": 0.455,
+      "circuit_breaker": "CLEAR",
+      "regime": "TRENDING"
     }
   ],
   "peak_value": 507710.5900230467,
   "circuit_breaker": "CLEAR",
-  "cooldown_symbols": {}
+  "cooldown_symbols": {
+    "IGL": "2026-07-14",
+    "HINDZINC": "2026-07-14",
+    "IOC": "2026-07-14",
+    "NATIONALUM": "2026-07-14"
+  }
 }

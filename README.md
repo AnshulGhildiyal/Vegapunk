@@ -16,13 +16,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Portfolio | ₹5,03,165 |
-| Return | +0.63% (started May 4, 2026) |
-| Open Positions | 20 |
+| Portfolio | ₹5,02,274 |
+| Return | +0.45% (started May 4, 2026) |
+| Open Positions | 19 |
 | Regime | TRENDING (conf: 1.00) |
 | Directional Accuracy (10d) | 64.47% |
-| Max-Hold Win Rate | 65% |
-| Last Updated | 20-06-2026 |
+| Max-Hold Win Rate | 62% |
+| Last Updated | 09-07-2026 |
 
 
 ---
