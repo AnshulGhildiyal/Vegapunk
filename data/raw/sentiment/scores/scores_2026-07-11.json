@@ -1,0 +1,492 @@
+{
+  "RELIANCE": {
+    "score": -0.0321,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Other Restructuring"
+  },
+  "TCS": {
+    "score": -0.4855,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] TCS Share Price Drops In Early Trade, Infosys Down 3% As Nifty IT Falls Most Among Sectoral I"
+  },
+  "HDFCBANK": {
+    "score": -0.0446,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "ICICIBANK": {
+    "score": -0.014,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "SBIN": {
+    "score": -0.0111,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] State Bank of India (NSE:SBIN) jumps 4.2% this week, though earnings growth is still tracking"
+  },
+  "BHARTIARTL": {
+    "score": -0.0461,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "KOTAKBANK": {
+    "score": 0.0077,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Kotak Bank Slips Despite Q4 Beat as RoE Concerns Dent Sentiment - HDFC Sky"
+  },
+  "LT": {
+    "score": -0.0367,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "AXISBANK": {
+    "score": -0.0237,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "ASIANPAINT": {
+    "score": -0.1819,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Change in Auditors"
+  },
+  "TITAN": {
+    "score": -0.0143,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Credit Rating"
+  },
+  "BAJFINANCE": {
+    "score": -0.0305,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "WIPRO": {
+    "score": -0.0421,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "NTPC": {
+    "score": 0.006,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Waaree Energies, Inox Green, Premier Energies, NTPC Green: How renewable energy stocks fared "
+  },
+  "POWERGRID": {
+    "score": -0.0175,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "TECHM": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "SUNPHARMA": {
+    "score": -0.0353,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "HCLTECH": {
+    "score": -0.0357,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TATASTEEL": {
+    "score": -0.0274,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "ADANIENT": {
+    "score": -0.0171,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "BAJAJFINSV": {
+    "score": -0.0428,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "DRREDDY": {
+    "score": -0.0301,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "CIPLA": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "HEROMOTOCO": {
+    "score": 0.045,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Unpleasant Surprises Could Be In Store For Hero MotoCorp Limited's (NSE:HEROMOTOCO) Shares - "
+  },
+  "INDUSINDBK": {
+    "score": -0.0227,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "JSWSTEEL": {
+    "score": -0.0297,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "M&M": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "BPCL": {
+    "score": -0.0184,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "TATACONSUM": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "SBILIFE": {
+    "score": -0.001,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "UPL": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "PIDILITIND": {
+    "score": -0.0737,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Action(s) initiated or orders passed"
+  },
+  "BERGEPAINT": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "MARICO": {
+    "score": -0.0363,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "DABUR": {
+    "score": -0.0207,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "COLPAL": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "SIEMENS": {
+    "score": -0.0269,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "TORNTPHARM": {
+    "score": -0.0336,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "LUPIN": {
+    "score": -0.0265,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Record Date"
+  },
+  "BIOCON": {
+    "score": -0.0419,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "AUROPHARMA": {
+    "score": -0.0542,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Acquisition"
+  },
+  "APOLLOTYRE": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "BALKRISIND": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "CEATLTD": {
+    "score": -0.6399,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Loss of Share Certificates"
+  },
+  "HDFCAMC": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "ICICIGI": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "ICICIPRULI": {
+    "score": -0.0207,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Investor Presentation"
+  },
+  "SBICARD": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "CHOLAFIN": {
+    "score": -0.0382,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Conversion"
+  },
+  "M&MFIN": {
+    "score": -0.0143,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Credit Rating"
+  },
+  "LICHSGFIN": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "RECLTD": {
+    "score": -0.0175,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "PFC": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "IRFC": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "HUDCO": {
+    "score": -0.0572,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Disclosure under SEBI Takeover Regulations"
+  },
+  "MUTHOOTFIN": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "SHRIRAMFIN": {
+    "score": -0.0339,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "NAUKRI": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "PAYTM": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "NYKAA": {
+    "score": -0.002,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "DELHIVERY": {
+    "score": -0.029,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Delhivery Launches AI Mapping Platform for Businesses; Shares Slip 0.35% - HDFC Sky"
+  },
+  "IRCTC": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "CONCOR": {
+    "score": -0.1287,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Cessation"
+  },
+  "TATAPOWER": {
+    "score": -0.0446,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "ADANIGREEN": {
+    "score": -0.0493,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TORNTPOWER": {
+    "score": 0.1827,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Torrent Power Limited's (NSE:TORNTPOWER) Stock Been Rising: Are Strong Financials Guiding The"
+  },
+  "CESC": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "JSWENERGY": {
+    "score": -0.035,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "SJVN": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "OBEROIRLTY": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "DLF": {
+    "score": -0.2198,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] DLF, Lodha Developers fall up to 5% as real estate stocks slide; Nifty Realty down 3% amid US"
+  },
+  "GODREJPROP": {
+    "score": -0.0366,
+    "reasoning": "Based on 5 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BRIGADE": {
+    "score": -0.4215,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "PHOENIXLTD": {
+    "score": 0.0257,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Investor Optimism Abounds The Phoenix Mills Limited (NSE:PHOENIXLTD) But Growth Is Lacking - "
+  },
+  "ZYDUSLIFE": {
+    "score": -0.0551,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] There Is A Reason Zydus Lifesciences Limited's (NSE:ZYDUSLIFE) Price Is Undemanding - simplyw"
+  },
+  "GLAXO": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "GRANULES": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "TATACHEM": {
+    "score": -0.591,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "DEEPAKNTR": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "GNFC": {
+    "score": -0.1236,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Gujarat Narmada Valley Fertilizers & Chemicals Limited's (NSE:GNFC) 7.9% loss last week hit b"
+  },
+  "GAIL": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "IOC": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "HINDZINC": {
+    "score": -0.0175,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "NMDC": {
+    "score": -0.0282,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "NATIONALUM": {
+    "score": -0.0225,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Agreements"
+  },
+  "IGL": {
+    "score": -0.0446,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "MGL": {
+    "score": -0.0156,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "VOLTAS": {
+    "score": -0.0195,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "WHIRLPOOL": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "DMART": {
+    "score": -0.1689,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Avenue Supermarts (Dmart) Share Price Falls Over 2.7% Despite New Store Openings - HDFC Sky"
+  },
+  "BATAINDIA": {
+    "score": -0.0156,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "RELAXO": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "CANFINHOME": {
+    "score": -0.0153,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "AAVAS": {
+    "score": -0.0249,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Allotment of Securities"
+  },
+  "FORTIS": {
+    "score": -0.031,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Appointment"
+  },
+  "MAXHEALTH": {
+    "score": -0.134,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company"
+  },
+  "THYROCARE": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "MFSL": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  }
+}
