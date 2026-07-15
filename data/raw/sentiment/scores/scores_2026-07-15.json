@@ -1,0 +1,402 @@
+{
+  "TCS": {
+    "score": -0.2696,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] IT stocks drag Nifty despite firm broader market; Infosys, TCS, HCL Tech fall as Fed signals "
+  },
+  "HDFCBANK": {
+    "score": -0.2125,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] HDFC Bank shares drop 2% on report of probe into Rs 45-crore interest payments - India Today"
+  },
+  "INFY": {
+    "score": -0.0466,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "ICICIBANK": {
+    "score": -0.0248,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "HINDUNILVR": {
+    "score": -0.0877,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] HUL Opens Fragrance Hub In Mumbai; Shares Slip 0.4% - HDFC Sky"
+  },
+  "SBIN": {
+    "score": -0.0269,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "BHARTIARTL": {
+    "score": -0.0304,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "KOTAKBANK": {
+    "score": -0.0226,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "AXISBANK": {
+    "score": -0.0286,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "ASIANPAINT": {
+    "score": -0.0466,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "TITAN": {
+    "score": -0.0197,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "BAJFINANCE": {
+    "score": 0.0535,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Bajaj Finance Ltd stock (INE296A01024): India's leading NBFC navigates growth amid regulatory"
+  },
+  "WIPRO": {
+    "score": -0.3105,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Infosys, Persistent Systems, Wipro, other IT stocks fall up to 3% after two days of gains: He"
+  },
+  "NESTLEIND": {
+    "score": 0.1175,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Nestl\u00e9 India's (NSE:NESTLEIND) Earnings Seem To Be Promising - simplywall.st"
+  },
+  "NTPC": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "POWERGRID": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "SUNPHARMA": {
+    "score": -0.0246,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Sun Pharma shares slip post Q4; analysts cautious on near-term upside - Business Standard"
+  },
+  "HCLTECH": {
+    "score": -0.0728,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Change in Director(s)"
+  },
+  "ADANIENT": {
+    "score": -0.0563,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BAJAJFINSV": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "DRREDDY": {
+    "score": 0.1926,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Nifty Pharma index soars 3%; Dr Reddy's, Piramal Pharma rally up to 9% - Business Standard"
+  },
+  "CIPLA": {
+    "score": -0.014,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "GRASIM": {
+    "score": 0.0211,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Proud Moment for Grasim Industries at the 30-Year Milestone of the Nifty50 - grasim.com"
+  },
+  "HEROMOTOCO": {
+    "score": -0.0435,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Acquisition"
+  },
+  "HINDALCO": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "INDUSINDBK": {
+    "score": -0.0447,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "JSWSTEEL": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "M&M": {
+    "score": -0.0528,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "COALINDIA": {
+    "score": -0.0158,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Coal India Shares Fall 6% as Govt Launches OFS at 10% Discount - Equitypandit"
+  },
+  "SBILIFE": {
+    "score": -0.022,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "HDFCLIFE": {
+    "score": 0.0343,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Wipro, HDFC Life among buzzing stocks as SENSEX jumps over 200 pts, NIFTY above 24,200 in noo"
+  },
+  "PIDILITIND": {
+    "score": -0.022,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "HAVELLS": {
+    "score": -0.0138,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "GODREJCP": {
+    "score": 0.0035,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "SIEMENS": {
+    "score": -0.051,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "LUPIN": {
+    "score": -0.0454,
+    "reasoning": "Based on 4 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BIOCON": {
+    "score": -0.0421,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Biocon's (NSE:BIOCON) Weak Earnings May Only Reveal A Part Of The Whole Picture - simplywall."
+  },
+  "BALKRISIND": {
+    "score": 0.0137,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Balkrishna Industries Limited's (NSE:BALKRISIND) Share Price Could Signal Some Risk - simplyw"
+  },
+  "CEATLTD": {
+    "score": -0.0952,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Loss of Share Certificates"
+  },
+  "HDFCAMC": {
+    "score": 0.143,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] HDFC AMC Stock Drops Nearly 4%: What\u2019s Driving the Capital Market Index Decline? - Outlook Mo"
+  },
+  "ICICIGI": {
+    "score": -0.0555,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NSE] Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company"
+  },
+  "ICICIPRULI": {
+    "score": 0.1627,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] ICICI Prudential Life posts 62% rise in Q4 PAT, \u20b91.65/share final dividend declared; shares i"
+  },
+  "CHOLAFIN": {
+    "score": 0.263,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Chola Fin Hold Consolidated March 2026 Net Sales at Rs 10,366.20 crore, up 16.3% Y-o-Y - Mone"
+  },
+  "M&MFIN": {
+    "score": 0.2028,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Mahindra Finance Q2FY26 Profit Up 45%; Shares Hit 52-Week High - HDFC Sky"
+  },
+  "RECLTD": {
+    "score": -0.0466,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "PFC": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "HUDCO": {
+    "score": -0.2702,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] HUDCO Dividend, \u20b970,000 Cr Plan; Shares Fall 4.84% - HDFC Sky"
+  },
+  "MANAPPURAM": {
+    "score": -0.0446,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Shareholders meeting"
+  },
+  "SHRIRAMFIN": {
+    "score": 0.1777,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Shriram Finance Slides Despite Q4 Beat; Investor Expectations Hurt - HDFC Sky"
+  },
+  "NAUKRI": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "POLICYBZR": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "DELHIVERY": {
+    "score": -0.022,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "IRCTC": {
+    "score": -0.2171,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "CONCOR": {
+    "score": -0.0313,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "TATAPOWER": {
+    "score": -0.0311,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "ADANIGREEN": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "TORNTPOWER": {
+    "score": -0.0366,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "JSWENERGY": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "NHPC": {
+    "score": -0.0321,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Commencement of commercial production/operations"
+  },
+  "SJVN": {
+    "score": 0.0026,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] IRFC, Mazagon Dock, MRPL, NTPC Green, SJVN shares: Why are PSU stocks with high govt stakes f"
+  },
+  "OBEROIRLTY": {
+    "score": -0.0436,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Appointment"
+  },
+  "DLF": {
+    "score": -0.0502,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Updates"
+  },
+  "BRIGADE": {
+    "score": 0.029,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Volumes jump at Brigade Enterprises Ltd counter - Business Standard"
+  },
+  "SOBHA": {
+    "score": 0.2713,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Sobha shares rise to 1-month high on highest-ever quarterly sales in Q3 - Business Standard"
+  },
+  "PHOENIXLTD": {
+    "score": -0.0065,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] ESOP/ESOS/ESPS"
+  },
+  "ZYDUSLIFE": {
+    "score": -0.0381,
+    "reasoning": "Based on 3 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "GRANULES": {
+    "score": 0.2844,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] CEO Krishna Chigurupati, Granules India Limited's (NSE:GRANULES) largest shareholder sees val"
+  },
+  "LAURUSLABS": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "TATACHEM": {
+    "score": -0.0366,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "COROMANDEL": {
+    "score": -0.0228,
+    "reasoning": "Based on 2 headlines",
+    "key_signal": "[NSE] Press Release"
+  },
+  "GNFC": {
+    "score": -0.035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] General Updates"
+  },
+  "PETRONET": {
+    "score": 0.0035,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Certificate under SEBI (Depositories and Participants) Regulations, 2018"
+  },
+  "IOC": {
+    "score": -0.0229,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] IOC, BPCL, HPCL Shares Drop 3% After Doubts Over US-Iran Talks As Vance Postpones Switzerland"
+  },
+  "VEDL": {
+    "score": 0.0025,
+    "reasoning": "Based on 10 headlines",
+    "key_signal": "[NEWS] Vedanta Ltd Reports Record-Breaking Q3: Profit Surges 60% to $0.9 Bn, Revenue up 19% - Busine"
+  },
+  "NMDC": {
+    "score": 0.2041,
+    "reasoning": "Based on 9 headlines",
+    "key_signal": "[NEWS] Metal stocks up 22% from Mar lows; Analyst sees up to 18% upside in these 3 - Business Standa"
+  },
+  "VOLTAS": {
+    "score": -0.0386,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Copy of Newspaper Publication"
+  },
+  "DMART": {
+    "score": -0.1313,
+    "reasoning": "Based on 6 headlines",
+    "key_signal": "[NSE] Change in Management"
+  },
+  "MANYAVAR": {
+    "score": -0.0479,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Demise"
+  },
+  "CANFINHOME": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  },
+  "AAVAS": {
+    "score": -0.0282,
+    "reasoning": "Based on 1 headlines",
+    "key_signal": "[NSE] Analysts/Institutional Investor Meet/Con. Call Updates"
+  }
+}
